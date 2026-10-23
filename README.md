@@ -1,0 +1,57 @@
+# country-flags
+
+A curated collection of 198 SVGs: 197 countries and the reverse of Paraguay's flag. Natural proportions, detailed artwork, no embedded raster images.
+
+The artwork comes from third-party sources; this project collects and adapts it rather than claiming original authorship. [Countries, sources and changes →](CATALOG.md)
+
+## CDN
+
+Use any filename from [`flags/`](flags/):
+
+```html
+<img
+  src="https://cdn.jsdelivr.net/gh/vdistortion/country-flags@main/flags/br.svg"
+  alt="Brazil"
+  width="220"
+/>
+```
+
+For a fixed version, replace `@main` with `@0.1.0` **after that Git tag is published**. `main` changes over time, and CDN updates may be delayed by caching. A GitHub Release or separate API server is not required.
+
+Filenames use lowercase two-letter country codes, plus `xk` for Kosovo and `py-reverse` for Paraguay's reverse. This is a selected collection, not a complete ISO territory list. Afghanistan uses the 2013–2021 tricolour; Syria uses the green–white–black flag with three red stars.
+
+## Sources and modifications
+
+## Country metadata
+
+[`countries.json`](countries.json) contains 197 countries with uppercase codes, English/Russian names, and flag paths relative to the repository root. Paraguay has two flag paths. Names and country selection are taken from [FlagConnect](https://github.com/vdistortion/flag-connect/blob/main/packages/flag-domain/countries.json).
+
+```json
+{
+  "name": { "en": "Brazil", "ru": "Бразилия" },
+  "code": "BR",
+  "flag": ["flags/br.svg"]
+}
+```
+
+The JSON is also available through the CDN:
+
+```text
+https://cdn.jsdelivr.net/gh/vdistortion/country-flags@main/countries.json
+```
+
+jsDelivr serves stored files without image resizing. Set SVG display dimensions with HTML/CSS; this does not reduce download size. Smaller raster images would need to be generated and published separately.
+
+## Sources and modifications
+
+182 files were obtained from Wikimedia Commons, 11 from FlagCDN, and 5 from `hampusborgos/country-flags`. The latter sources also distribute artwork originating elsewhere.
+
+SVG dimensions/proportions were matched to a reference WebP collection, colours were adjusted to its decoded pixels, editor metadata was removed, and SVG markup was optimized. These colours are reference-matched, not a claim of official colour specifications. Exact recorded colour changes and source URLs are in [CATALOG.md](CATALOG.md).
+
+## License
+
+[MIT](LICENSE) applies to this project's original code and documentation, **not to the artwork in `flags/`**. Flags retain their original rights/status. The catalogue records provenance, but individual artwork licences and attribution requirements have not yet been fully audited; a source link alone is not a licence. No blanket licence or claim of ownership is made for the collection's artwork.
+
+## Releases
+
+See [CHANGELOG.md](CHANGELOG.md). No build step or formatter is required. SVG files are published as stored; avoid formatting or optimizing them as part of documentation edits.
