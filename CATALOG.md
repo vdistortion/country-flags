@@ -2,7 +2,7 @@
 
 197 countries, 198 files. Links identify the recorded upstream source, not a verified licence. Upstream URLs may change; original revisions were not pinned during preparation.
 
-All files: viewport dimensions/proportions aligned to the reference WebP, editor metadata removed, SVG markup optimized. Colour changes below are `upstream → reference-matched` RGB values. “None recorded” means no colour change, not an untouched file.
+All files: viewport dimensions/proportions aligned to a reference collection, editor metadata removed, SVG markup optimized. Colour changes below are `upstream → reference-matched` RGB values. “None recorded” means no colour change, not an untouched file.
 
 Sources: **Commons** = Wikimedia Commons file page; **FlagCDN** = downloaded SVG; **country-flags** = hampusborgos/country-flags. Individual authors and licence/status still need verification on the original file pages.
 

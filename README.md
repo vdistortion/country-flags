@@ -10,38 +10,35 @@ Use any filename from [`flags/`](flags/):
 
 ```html
 <img
-  src="https://cdn.jsdelivr.net/gh/vdistortion/country-flags@main/flags/br.svg"
+  src="https://cdn.jsdelivr.net/gh/vdistortion/country-flags@0.1.0/flags/br.svg"
   alt="Brazil"
   width="220"
 />
 ```
 
-For a fixed version, replace `@main` with `@0.1.0` **after that Git tag is published**. `main` changes over time, and CDN updates may be delayed by caching. A GitHub Release or separate API server is not required.
+Prefer a published version tag such as `@0.1.0` for stable URLs. You can use the `@main` branch instead, but it changes over time and is therefore not a reliable version reference. CDN updates may also be delayed by caching.
 
 Filenames use lowercase two-letter country codes, plus `xk` for Kosovo and `py-reverse` for Paraguay's reverse. This is a selected collection, not a complete ISO territory list. Afghanistan uses the 2013–2021 tricolour; Syria uses the green–white–black flag with three red stars.
 
 ## Country metadata
 
-[`countries.json`](countries.json) contains 197 countries with uppercase codes, English/Russian names, and flag paths relative to the repository root. Paraguay has two flag paths. Names and country selection are taken from [FlagConnect](https://github.com/vdistortion/flag-connect/blob/main/packages/flag-domain/countries.json).
+[`countries.json`](countries.json) contains 197 countries with uppercase codes, English and Russian names, and SVG filenames. To fetch a flag, use its filename under the `flags/` directory; for example, `br.svg` is served at `https://cdn.jsdelivr.net/gh/vdistortion/country-flags@0.1.0/flags/br.svg`. Paraguay has two filenames.
 
 ```json
 {
   "name": { "en": "Brazil", "ru": "Бразилия" },
   "code": "BR",
-  "flag": ["flags/br.svg"]
+  "flag": ["br.svg"]
 }
 ```
 
 The JSON is also available through the CDN:
 
 ```text
-https://cdn.jsdelivr.net/gh/vdistortion/country-flags@main/countries.json
+https://cdn.jsdelivr.net/gh/vdistortion/country-flags@0.1.0/countries.json
 ```
 
-For a fixed version, replace `@main` with a published Git tag, for example `@0.1.0`.
-Each country entry has localized English and Russian names, an uppercase code, and
-one or more flag paths relative to the repository root. Paraguay has two paths
-for its obverse and reverse flags.
+You can use `@main` instead of a version tag, but the branch can change at any time and is not a reliable version reference. Prepend `flags/` to a filename in the `flag` array when building a CDN URL. Paraguay's array lists both the obverse and reverse SVG filenames.
 
 jsDelivr serves stored files without image resizing. Set SVG display dimensions with HTML/CSS; this does not reduce download size. Smaller raster images would need to be generated and published separately.
 
@@ -49,7 +46,7 @@ jsDelivr serves stored files without image resizing. Set SVG display dimensions 
 
 182 files were obtained from Wikimedia Commons, 11 from FlagCDN, and 5 from `hampusborgos/country-flags`. The latter sources also distribute artwork originating elsewhere.
 
-SVG dimensions/proportions were matched to a reference WebP collection, colours were adjusted to its decoded pixels, editor metadata was removed, and SVG markup was optimized. These colours are reference-matched, not a claim of official colour specifications. Exact recorded colour changes and source URLs are in [CATALOG.md](CATALOG.md).
+SVG dimensions/proportions were matched to a reference collection, colours were adjusted to its pixel values, editor metadata was removed, and SVG markup was optimized. These colours are reference-matched, not a claim of official colour specifications. Exact recorded colour changes and source URLs are in [CATALOG.md](CATALOG.md).
 
 ## License
 
