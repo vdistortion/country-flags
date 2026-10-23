@@ -20,8 +20,6 @@ For a fixed version, replace `@main` with `@0.1.0` **after that Git tag is publi
 
 Filenames use lowercase two-letter country codes, plus `xk` for Kosovo and `py-reverse` for Paraguay's reverse. This is a selected collection, not a complete ISO territory list. Afghanistan uses the 2013–2021 tricolour; Syria uses the green–white–black flag with three red stars.
 
-## Sources and modifications
-
 ## Country metadata
 
 [`countries.json`](countries.json) contains 197 countries with uppercase codes, English/Russian names, and flag paths relative to the repository root. Paraguay has two flag paths. Names and country selection are taken from [FlagConnect](https://github.com/vdistortion/flag-connect/blob/main/packages/flag-domain/countries.json).
@@ -39,6 +37,11 @@ The JSON is also available through the CDN:
 ```text
 https://cdn.jsdelivr.net/gh/vdistortion/country-flags@main/countries.json
 ```
+
+For a fixed version, replace `@main` with a published Git tag, for example `@0.1.0`.
+Each country entry has localized English and Russian names, an uppercase code, and
+one or more flag paths relative to the repository root. Paraguay has two paths
+for its obverse and reverse flags.
 
 jsDelivr serves stored files without image resizing. Set SVG display dimensions with HTML/CSS; this does not reduce download size. Smaller raster images would need to be generated and published separately.
 

@@ -1,0 +1,1973 @@
+[
+  {
+    "name": {
+      "en": "Afghanistan",
+      "ru": "Афганистан"
+    },
+    "code": "AF",
+    "flag": [
+      "af.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Algeria",
+      "ru": "Алжир"
+    },
+    "code": "DZ",
+    "flag": [
+      "dz.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Albania",
+      "ru": "Албания"
+    },
+    "code": "AL",
+    "flag": [
+      "al.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Andorra",
+      "ru": "Андорра"
+    },
+    "code": "AD",
+    "flag": [
+      "ad.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Angola",
+      "ru": "Ангола"
+    },
+    "code": "AO",
+    "flag": [
+      "ao.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Antigua and Barbuda",
+      "ru": "Антигуа и Барбуда"
+    },
+    "code": "AG",
+    "flag": [
+      "ag.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Argentina",
+      "ru": "Аргентина"
+    },
+    "code": "AR",
+    "flag": [
+      "ar.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Armenia",
+      "ru": "Армения"
+    },
+    "code": "AM",
+    "flag": [
+      "am.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Australia",
+      "ru": "Австралия"
+    },
+    "code": "AU",
+    "flag": [
+      "au.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Austria",
+      "ru": "Австрия"
+    },
+    "code": "AT",
+    "flag": [
+      "at.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Azerbaijan",
+      "ru": "Азербайджан"
+    },
+    "code": "AZ",
+    "flag": [
+      "az.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bahrain",
+      "ru": "Бахрейн"
+    },
+    "code": "BH",
+    "flag": [
+      "bh.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bangladesh",
+      "ru": "Бангладеш"
+    },
+    "code": "BD",
+    "flag": [
+      "bd.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Barbados",
+      "ru": "Барбадос"
+    },
+    "code": "BB",
+    "flag": [
+      "bb.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Belarus",
+      "ru": "Беларусь"
+    },
+    "code": "BY",
+    "flag": [
+      "by.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Belgium",
+      "ru": "Бельгия"
+    },
+    "code": "BE",
+    "flag": [
+      "be.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Belize",
+      "ru": "Белиз"
+    },
+    "code": "BZ",
+    "flag": [
+      "bz.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Benin",
+      "ru": "Бенин"
+    },
+    "code": "BJ",
+    "flag": [
+      "bj.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bhutan",
+      "ru": "Бутан"
+    },
+    "code": "BT",
+    "flag": [
+      "bt.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bolivia",
+      "ru": "Боливия"
+    },
+    "code": "BO",
+    "flag": [
+      "bo.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bosnia and Herzegovina",
+      "ru": "Босния и Герцеговина"
+    },
+    "code": "BA",
+    "flag": [
+      "ba.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Botswana",
+      "ru": "Ботсвана"
+    },
+    "code": "BW",
+    "flag": [
+      "bw.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Brazil",
+      "ru": "Бразилия"
+    },
+    "code": "BR",
+    "flag": [
+      "br.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Brunei",
+      "ru": "Бруней"
+    },
+    "code": "BN",
+    "flag": [
+      "bn.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Bulgaria",
+      "ru": "Болгария"
+    },
+    "code": "BG",
+    "flag": [
+      "bg.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Burkina Faso",
+      "ru": "Буркина-Фасо"
+    },
+    "code": "BF",
+    "flag": [
+      "bf.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Burundi",
+      "ru": "Бурунди"
+    },
+    "code": "BI",
+    "flag": [
+      "bi.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cambodia",
+      "ru": "Камбоджа"
+    },
+    "code": "KH",
+    "flag": [
+      "kh.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cameroon",
+      "ru": "Камерун"
+    },
+    "code": "CM",
+    "flag": [
+      "cm.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Canada",
+      "ru": "Канада"
+    },
+    "code": "CA",
+    "flag": [
+      "ca.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cabo Verde",
+      "ru": "Кабо-Верде"
+    },
+    "code": "CV",
+    "flag": [
+      "cv.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Chad",
+      "ru": "Чад"
+    },
+    "code": "TD",
+    "flag": [
+      "td.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Chile",
+      "ru": "Чили"
+    },
+    "code": "CL",
+    "flag": [
+      "cl.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Colombia",
+      "ru": "Колумбия"
+    },
+    "code": "CO",
+    "flag": [
+      "co.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Costa Rica",
+      "ru": "Коста-Рика"
+    },
+    "code": "CR",
+    "flag": [
+      "cr.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Croatia",
+      "ru": "Хорватия"
+    },
+    "code": "HR",
+    "flag": [
+      "hr.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cuba",
+      "ru": "Куба"
+    },
+    "code": "CU",
+    "flag": [
+      "cu.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Côte d’Ivoire",
+      "ru": "Кот-д’Ивуар"
+    },
+    "code": "CI",
+    "flag": [
+      "ci.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Cyprus",
+      "ru": "Кипр"
+    },
+    "code": "CY",
+    "flag": [
+      "cy.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Denmark",
+      "ru": "Дания"
+    },
+    "code": "DK",
+    "flag": [
+      "dk.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Djibouti",
+      "ru": "Джибути"
+    },
+    "code": "DJ",
+    "flag": [
+      "dj.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dominica",
+      "ru": "Доминика"
+    },
+    "code": "DM",
+    "flag": [
+      "dm.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Timor-Leste",
+      "ru": "Восточный Тимор"
+    },
+    "code": "TL",
+    "flag": [
+      "tl.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ecuador",
+      "ru": "Эквадор"
+    },
+    "code": "EC",
+    "flag": [
+      "ec.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Egypt",
+      "ru": "Египет"
+    },
+    "code": "EG",
+    "flag": [
+      "eg.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "El Salvador",
+      "ru": "Сальвадор"
+    },
+    "code": "SV",
+    "flag": [
+      "sv.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Equatorial Guinea",
+      "ru": "Экваториальная Гвинея"
+    },
+    "code": "GQ",
+    "flag": [
+      "gq.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eritrea",
+      "ru": "Эритрея"
+    },
+    "code": "ER",
+    "flag": [
+      "er.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Estonia",
+      "ru": "Эстония"
+    },
+    "code": "EE",
+    "flag": [
+      "ee.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Eswatini",
+      "ru": "Эсватини"
+    },
+    "code": "SZ",
+    "flag": [
+      "sz.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ethiopia",
+      "ru": "Эфиопия"
+    },
+    "code": "ET",
+    "flag": [
+      "et.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Fiji",
+      "ru": "Фиджи"
+    },
+    "code": "FJ",
+    "flag": [
+      "fj.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Finland",
+      "ru": "Финляндия"
+    },
+    "code": "FI",
+    "flag": [
+      "fi.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "France",
+      "ru": "Франция"
+    },
+    "code": "FR",
+    "flag": [
+      "fr.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Gabon",
+      "ru": "Габон"
+    },
+    "code": "GA",
+    "flag": [
+      "ga.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Georgia",
+      "ru": "Грузия"
+    },
+    "code": "GE",
+    "flag": [
+      "ge.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Germany",
+      "ru": "Германия"
+    },
+    "code": "DE",
+    "flag": [
+      "de.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ghana",
+      "ru": "Гана"
+    },
+    "code": "GH",
+    "flag": [
+      "gh.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Greece",
+      "ru": "Греция"
+    },
+    "code": "GR",
+    "flag": [
+      "gr.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Grenada",
+      "ru": "Гренада"
+    },
+    "code": "GD",
+    "flag": [
+      "gd.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Guatemala",
+      "ru": "Гватемала"
+    },
+    "code": "GT",
+    "flag": [
+      "gt.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Guinea-Bissau",
+      "ru": "Гвинея-Бисау"
+    },
+    "code": "GW",
+    "flag": [
+      "gw.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Guinea",
+      "ru": "Гвинея"
+    },
+    "code": "GN",
+    "flag": [
+      "gn.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Guyana",
+      "ru": "Гайана"
+    },
+    "code": "GY",
+    "flag": [
+      "gy.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Haiti",
+      "ru": "Гаити"
+    },
+    "code": "HT",
+    "flag": [
+      "ht.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Honduras",
+      "ru": "Гондурас"
+    },
+    "code": "HN",
+    "flag": [
+      "hn.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Hungary",
+      "ru": "Венгрия"
+    },
+    "code": "HU",
+    "flag": [
+      "hu.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Iceland",
+      "ru": "Исландия"
+    },
+    "code": "IS",
+    "flag": [
+      "is.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "India",
+      "ru": "Индия"
+    },
+    "code": "IN",
+    "flag": [
+      "in.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Indonesia",
+      "ru": "Индонезия"
+    },
+    "code": "ID",
+    "flag": [
+      "id.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Iran",
+      "ru": "Иран"
+    },
+    "code": "IR",
+    "flag": [
+      "ir.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Iraq",
+      "ru": "Ирак"
+    },
+    "code": "IQ",
+    "flag": [
+      "iq.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ireland",
+      "ru": "Ирландия"
+    },
+    "code": "IE",
+    "flag": [
+      "ie.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Israel",
+      "ru": "Израиль"
+    },
+    "code": "IL",
+    "flag": [
+      "il.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Italy",
+      "ru": "Италия"
+    },
+    "code": "IT",
+    "flag": [
+      "it.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jamaica",
+      "ru": "Ямайка"
+    },
+    "code": "JM",
+    "flag": [
+      "jm.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Japan",
+      "ru": "Япония"
+    },
+    "code": "JP",
+    "flag": [
+      "jp.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Jordan",
+      "ru": "Иордания"
+    },
+    "code": "JO",
+    "flag": [
+      "jo.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Kazakhstan",
+      "ru": "Казахстан"
+    },
+    "code": "KZ",
+    "flag": [
+      "kz.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Kenya",
+      "ru": "Кения"
+    },
+    "code": "KE",
+    "flag": [
+      "ke.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Kiribati",
+      "ru": "Кирибати"
+    },
+    "code": "KI",
+    "flag": [
+      "ki.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Kuwait",
+      "ru": "Кувейт"
+    },
+    "code": "KW",
+    "flag": [
+      "kw.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Kyrgyzstan",
+      "ru": "Кыргызстан"
+    },
+    "code": "KG",
+    "flag": [
+      "kg.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Laos",
+      "ru": "Лаос"
+    },
+    "code": "LA",
+    "flag": [
+      "la.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Latvia",
+      "ru": "Латвия"
+    },
+    "code": "LV",
+    "flag": [
+      "lv.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lebanon",
+      "ru": "Ливан"
+    },
+    "code": "LB",
+    "flag": [
+      "lb.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lesotho",
+      "ru": "Лесото"
+    },
+    "code": "LS",
+    "flag": [
+      "ls.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Liberia",
+      "ru": "Либерия"
+    },
+    "code": "LR",
+    "flag": [
+      "lr.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Libya",
+      "ru": "Ливия"
+    },
+    "code": "LY",
+    "flag": [
+      "ly.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Liechtenstein",
+      "ru": "Лихтенштейн"
+    },
+    "code": "LI",
+    "flag": [
+      "li.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Lithuania",
+      "ru": "Литва"
+    },
+    "code": "LT",
+    "flag": [
+      "lt.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Luxembourg",
+      "ru": "Люксембург"
+    },
+    "code": "LU",
+    "flag": [
+      "lu.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Madagascar",
+      "ru": "Мадагаскар"
+    },
+    "code": "MG",
+    "flag": [
+      "mg.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Malawi",
+      "ru": "Малави"
+    },
+    "code": "MW",
+    "flag": [
+      "mw.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Malaysia",
+      "ru": "Малайзия"
+    },
+    "code": "MY",
+    "flag": [
+      "my.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Maldives",
+      "ru": "Мальдивы"
+    },
+    "code": "MV",
+    "flag": [
+      "mv.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Malta",
+      "ru": "Мальта"
+    },
+    "code": "MT",
+    "flag": [
+      "mt.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mali",
+      "ru": "Мали"
+    },
+    "code": "ML",
+    "flag": [
+      "ml.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mauritania",
+      "ru": "Мавритания"
+    },
+    "code": "MR",
+    "flag": [
+      "mr.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mauritius",
+      "ru": "Маврикий"
+    },
+    "code": "MU",
+    "flag": [
+      "mu.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mexico",
+      "ru": "Мексика"
+    },
+    "code": "MX",
+    "flag": [
+      "mx.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Moldova",
+      "ru": "Молдова"
+    },
+    "code": "MD",
+    "flag": [
+      "md.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Monaco",
+      "ru": "Монако"
+    },
+    "code": "MC",
+    "flag": [
+      "mc.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mongolia",
+      "ru": "Монголия"
+    },
+    "code": "MN",
+    "flag": [
+      "mn.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Montenegro",
+      "ru": "Черногория"
+    },
+    "code": "ME",
+    "flag": [
+      "me.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Morocco",
+      "ru": "Марокко"
+    },
+    "code": "MA",
+    "flag": [
+      "ma.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Mozambique",
+      "ru": "Мозамбик"
+    },
+    "code": "MZ",
+    "flag": [
+      "mz.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Myanmar",
+      "ru": "Мьянма"
+    },
+    "code": "MM",
+    "flag": [
+      "mm.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Namibia",
+      "ru": "Намибия"
+    },
+    "code": "NA",
+    "flag": [
+      "na.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Nauru",
+      "ru": "Науру"
+    },
+    "code": "NR",
+    "flag": [
+      "nr.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Nepal",
+      "ru": "Непал"
+    },
+    "code": "NP",
+    "flag": [
+      "np.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "New Zealand",
+      "ru": "Новая Зеландия"
+    },
+    "code": "NZ",
+    "flag": [
+      "nz.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Nicaragua",
+      "ru": "Никарагуа"
+    },
+    "code": "NI",
+    "flag": [
+      "ni.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Niger",
+      "ru": "Нигер"
+    },
+    "code": "NE",
+    "flag": [
+      "ne.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "North Korea",
+      "ru": "Северная Корея"
+    },
+    "code": "KP",
+    "flag": [
+      "kp.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Nigeria",
+      "ru": "Нигерия"
+    },
+    "code": "NG",
+    "flag": [
+      "ng.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "North Macedonia",
+      "ru": "Северная Македония"
+    },
+    "code": "MK",
+    "flag": [
+      "mk.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Norway",
+      "ru": "Норвегия"
+    },
+    "code": "NO",
+    "flag": [
+      "no.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Oman",
+      "ru": "Оман"
+    },
+    "code": "OM",
+    "flag": [
+      "om.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Pakistan",
+      "ru": "Пакистан"
+    },
+    "code": "PK",
+    "flag": [
+      "pk.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Palau",
+      "ru": "Палау"
+    },
+    "code": "PW",
+    "flag": [
+      "pw.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Panama",
+      "ru": "Панама"
+    },
+    "code": "PA",
+    "flag": [
+      "pa.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Paraguay",
+      "ru": "Парагвай"
+    },
+    "code": "PY",
+    "flag": [
+      "py.svg",
+      "py-reverse.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Papua New Guinea",
+      "ru": "Папуа — Новая Гвинея"
+    },
+    "code": "PG",
+    "flag": [
+      "pg.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Peru",
+      "ru": "Перу"
+    },
+    "code": "PE",
+    "flag": [
+      "pe.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Poland",
+      "ru": "Польша"
+    },
+    "code": "PL",
+    "flag": [
+      "pl.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Portugal",
+      "ru": "Португалия"
+    },
+    "code": "PT",
+    "flag": [
+      "pt.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Qatar",
+      "ru": "Катар"
+    },
+    "code": "QA",
+    "flag": [
+      "qa.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Romania",
+      "ru": "Румыния"
+    },
+    "code": "RO",
+    "flag": [
+      "ro.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Russia",
+      "ru": "Россия"
+    },
+    "code": "RU",
+    "flag": [
+      "ru.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Rwanda",
+      "ru": "Руанда"
+    },
+    "code": "RW",
+    "flag": [
+      "rw.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Saint Kitts and Nevis",
+      "ru": "Сент-Китс и Невис"
+    },
+    "code": "KN",
+    "flag": [
+      "kn.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Saint Lucia",
+      "ru": "Сент-Люсия"
+    },
+    "code": "LC",
+    "flag": [
+      "lc.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "San Marino",
+      "ru": "Сан-Марино"
+    },
+    "code": "SM",
+    "flag": [
+      "sm.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Samoa",
+      "ru": "Самоа"
+    },
+    "code": "WS",
+    "flag": [
+      "ws.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Saudi Arabia",
+      "ru": "Саудовская Аравия"
+    },
+    "code": "SA",
+    "flag": [
+      "sa.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Senegal",
+      "ru": "Сенегал"
+    },
+    "code": "SN",
+    "flag": [
+      "sn.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Serbia",
+      "ru": "Сербия"
+    },
+    "code": "RS",
+    "flag": [
+      "rs.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Saint Vincent and the Grenadines",
+      "ru": "Сент-Винсент и Гренадины"
+    },
+    "code": "VC",
+    "flag": [
+      "vc.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Seychelles",
+      "ru": "Сейшельские Острова"
+    },
+    "code": "SC",
+    "flag": [
+      "sc.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sierra Leone",
+      "ru": "Сьерра-Леоне"
+    },
+    "code": "SL",
+    "flag": [
+      "sl.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Singapore",
+      "ru": "Сингапур"
+    },
+    "code": "SG",
+    "flag": [
+      "sg.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Slovakia",
+      "ru": "Словакия"
+    },
+    "code": "SK",
+    "flag": [
+      "sk.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Slovenia",
+      "ru": "Словения"
+    },
+    "code": "SI",
+    "flag": [
+      "si.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Somalia",
+      "ru": "Сомали"
+    },
+    "code": "SO",
+    "flag": [
+      "so.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Palestine",
+      "ru": "Палестина"
+    },
+    "code": "PS",
+    "flag": [
+      "ps.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "South Africa",
+      "ru": "ЮАР"
+    },
+    "code": "ZA",
+    "flag": [
+      "za.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "South Korea",
+      "ru": "Южная Корея"
+    },
+    "code": "KR",
+    "flag": [
+      "kr.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "South Sudan",
+      "ru": "Южный Судан"
+    },
+    "code": "SS",
+    "flag": [
+      "ss.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Spain",
+      "ru": "Испания"
+    },
+    "code": "ES",
+    "flag": [
+      "es.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sri Lanka",
+      "ru": "Шри-Ланка"
+    },
+    "code": "LK",
+    "flag": [
+      "lk.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sudan",
+      "ru": "Судан"
+    },
+    "code": "SD",
+    "flag": [
+      "sd.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Suriname",
+      "ru": "Суринам"
+    },
+    "code": "SR",
+    "flag": [
+      "sr.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Sweden",
+      "ru": "Швеция"
+    },
+    "code": "SE",
+    "flag": [
+      "se.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Switzerland",
+      "ru": "Швейцария"
+    },
+    "code": "CH",
+    "flag": [
+      "ch.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "São Tomé and Príncipe",
+      "ru": "Сан-Томе и Принсипи"
+    },
+    "code": "ST",
+    "flag": [
+      "st.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tajikistan",
+      "ru": "Таджикистан"
+    },
+    "code": "TJ",
+    "flag": [
+      "tj.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tanzania",
+      "ru": "Танзания"
+    },
+    "code": "TZ",
+    "flag": [
+      "tz.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Thailand",
+      "ru": "Таиланд"
+    },
+    "code": "TH",
+    "flag": [
+      "th.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "The Gambia",
+      "ru": "Гамбия"
+    },
+    "code": "GM",
+    "flag": [
+      "gm.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Togo",
+      "ru": "Того"
+    },
+    "code": "TG",
+    "flag": [
+      "tg.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tonga",
+      "ru": "Тонга"
+    },
+    "code": "TO",
+    "flag": [
+      "to.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Kosovo",
+      "ru": "Косово"
+    },
+    "code": "XK",
+    "flag": [
+      "xk.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Trinidad and Tobago",
+      "ru": "Тринидад и Тобаго"
+    },
+    "code": "TT",
+    "flag": [
+      "tt.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tunisia",
+      "ru": "Тунис"
+    },
+    "code": "TN",
+    "flag": [
+      "tn.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Türkiye",
+      "ru": "Турция"
+    },
+    "code": "TR",
+    "flag": [
+      "tr.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Turkmenistan",
+      "ru": "Туркменистан"
+    },
+    "code": "TM",
+    "flag": [
+      "tm.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Tuvalu",
+      "ru": "Тувалу"
+    },
+    "code": "TV",
+    "flag": [
+      "tv.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Uganda",
+      "ru": "Уганда"
+    },
+    "code": "UG",
+    "flag": [
+      "ug.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Ukraine",
+      "ru": "Украина"
+    },
+    "code": "UA",
+    "flag": [
+      "ua.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Uruguay",
+      "ru": "Уругвай"
+    },
+    "code": "UY",
+    "flag": [
+      "uy.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "code": "UZ",
+    "flag": [
+      "uz.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Vanuatu",
+      "ru": "Вануату"
+    },
+    "code": "VU",
+    "flag": [
+      "vu.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Vatican",
+      "ru": "Ватикан"
+    },
+    "code": "VA",
+    "flag": [
+      "va.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Venezuela",
+      "ru": "Венесуэла"
+    },
+    "code": "VE",
+    "flag": [
+      "ve.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Vietnam",
+      "ru": "Вьетнам"
+    },
+    "code": "VN",
+    "flag": [
+      "vn.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Yemen",
+      "ru": "Йемен"
+    },
+    "code": "YE",
+    "flag": [
+      "ye.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Zambia",
+      "ru": "Замбия"
+    },
+    "code": "ZM",
+    "flag": [
+      "zm.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Zimbabwe",
+      "ru": "Зимбабве"
+    },
+    "code": "ZW",
+    "flag": [
+      "zw.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "The Bahamas",
+      "ru": "Багамские Острова"
+    },
+    "code": "BS",
+    "flag": [
+      "bs.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Central African Republic",
+      "ru": "Центральноафриканская Республика"
+    },
+    "code": "CF",
+    "flag": [
+      "cf.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Comoros",
+      "ru": "Коморы"
+    },
+    "code": "KM",
+    "flag": [
+      "km.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Czech Republic",
+      "ru": "Чехия"
+    },
+    "code": "CZ",
+    "flag": [
+      "cz.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Democratic Republic of the Congo",
+      "ru": "Демократическая Республика Конго"
+    },
+    "code": "CD",
+    "flag": [
+      "cd.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Dominican Republic",
+      "ru": "Доминиканская Республика"
+    },
+    "code": "DO",
+    "flag": [
+      "do.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Marshall Islands",
+      "ru": "Маршалловы Острова"
+    },
+    "code": "MH",
+    "flag": [
+      "mh.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Federated States of Micronesia",
+      "ru": "Федеративные Штаты Микронезии"
+    },
+    "code": "FM",
+    "flag": [
+      "fm.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Netherlands",
+      "ru": "Нидерланды"
+    },
+    "code": "NL",
+    "flag": [
+      "nl.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "China",
+      "ru": "Китай"
+    },
+    "code": "CN",
+    "flag": [
+      "cn.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Philippines",
+      "ru": "Филиппины"
+    },
+    "code": "PH",
+    "flag": [
+      "ph.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Taiwan",
+      "ru": "Тайвань"
+    },
+    "code": "TW",
+    "flag": [
+      "tw.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Republic of the Congo",
+      "ru": "Республика Конго"
+    },
+    "code": "CG",
+    "flag": [
+      "cg.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Solomon Islands",
+      "ru": "Соломоновы Острова"
+    },
+    "code": "SB",
+    "flag": [
+      "sb.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "United Arab Emirates",
+      "ru": "ОАЭ"
+    },
+    "code": "AE",
+    "flag": [
+      "ae.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "Syria",
+      "ru": "Сирия"
+    },
+    "code": "SY",
+    "flag": [
+      "sy.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "United Kingdom",
+      "ru": "Великобритания"
+    },
+    "code": "GB",
+    "flag": [
+      "gb.svg"
+    ]
+  },
+  {
+    "name": {
+      "en": "United States",
+      "ru": "США"
+    },
+    "code": "US",
+    "flag": [
+      "us.svg"
+    ]
+  }
+]
