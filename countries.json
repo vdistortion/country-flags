@@ -5,6 +5,10 @@
       "ru": "Афганистан"
     },
     "code": "AF",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "af.svg"
     ],
@@ -19,6 +23,10 @@
       "ru": "Алжир"
     },
     "code": "DZ",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "dz.svg"
     ],
@@ -33,6 +41,10 @@
       "ru": "Албания"
     },
     "code": "AL",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "al.svg"
     ],
@@ -47,6 +59,10 @@
       "ru": "Андорра"
     },
     "code": "AD",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "ad.svg"
     ],
@@ -61,6 +77,10 @@
       "ru": "Ангола"
     },
     "code": "AO",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "ao.svg"
     ],
@@ -75,6 +95,10 @@
       "ru": "Антигуа и Барбуда"
     },
     "code": "AG",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "ag.svg"
     ],
@@ -89,6 +113,10 @@
       "ru": "Аргентина"
     },
     "code": "AR",
+    "region": {
+      "en": "South America",
+      "ru": "Южная Америка"
+    },
     "flag": [
       "ar.svg"
     ],
@@ -103,6 +131,10 @@
       "ru": "Армения"
     },
     "code": "AM",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "am.svg"
     ],
@@ -117,6 +149,10 @@
       "ru": "Австралия"
     },
     "code": "AU",
+    "region": {
+      "en": "Oceania",
+      "ru": "Океания"
+    },
     "flag": [
       "au.svg"
     ],
@@ -131,6 +167,10 @@
       "ru": "Австрия"
     },
     "code": "AT",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "at.svg"
     ],
@@ -145,6 +185,10 @@
       "ru": "Азербайджан"
     },
     "code": "AZ",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "az.svg"
     ],
@@ -159,6 +203,10 @@
       "ru": "Бахрейн"
     },
     "code": "BH",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "bh.svg"
     ],
@@ -173,6 +221,10 @@
       "ru": "Бангладеш"
     },
     "code": "BD",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "bd.svg"
     ],
@@ -187,6 +239,10 @@
       "ru": "Барбадос"
     },
     "code": "BB",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "bb.svg"
     ],
@@ -201,6 +257,10 @@
       "ru": "Беларусь"
     },
     "code": "BY",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "by.svg"
     ],
@@ -215,6 +275,10 @@
       "ru": "Бельгия"
     },
     "code": "BE",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "be.svg"
     ],
@@ -229,6 +293,10 @@
       "ru": "Белиз"
     },
     "code": "BZ",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "bz.svg"
     ],
@@ -243,6 +311,10 @@
       "ru": "Бенин"
     },
     "code": "BJ",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "bj.svg"
     ],
@@ -257,6 +329,10 @@
       "ru": "Бутан"
     },
     "code": "BT",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "bt.svg"
     ],
@@ -271,6 +347,10 @@
       "ru": "Боливия"
     },
     "code": "BO",
+    "region": {
+      "en": "South America",
+      "ru": "Южная Америка"
+    },
     "flag": [
       "bo.svg"
     ],
@@ -285,6 +365,10 @@
       "ru": "Босния и Герцеговина"
     },
     "code": "BA",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "ba.svg"
     ],
@@ -299,6 +383,10 @@
       "ru": "Ботсвана"
     },
     "code": "BW",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "bw.svg"
     ],
@@ -313,6 +401,10 @@
       "ru": "Бразилия"
     },
     "code": "BR",
+    "region": {
+      "en": "South America",
+      "ru": "Южная Америка"
+    },
     "flag": [
       "br.svg"
     ],
@@ -327,6 +419,10 @@
       "ru": "Бруней"
     },
     "code": "BN",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "bn.svg"
     ],
@@ -341,6 +437,10 @@
       "ru": "Болгария"
     },
     "code": "BG",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "bg.svg"
     ],
@@ -355,6 +455,10 @@
       "ru": "Буркина-Фасо"
     },
     "code": "BF",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "bf.svg"
     ],
@@ -369,6 +473,10 @@
       "ru": "Бурунди"
     },
     "code": "BI",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "bi.svg"
     ],
@@ -383,6 +491,10 @@
       "ru": "Камбоджа"
     },
     "code": "KH",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "kh.svg"
     ],
@@ -397,6 +509,10 @@
       "ru": "Камерун"
     },
     "code": "CM",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "cm.svg"
     ],
@@ -411,6 +527,10 @@
       "ru": "Канада"
     },
     "code": "CA",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "ca.svg"
     ],
@@ -425,6 +545,10 @@
       "ru": "Кабо-Верде"
     },
     "code": "CV",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "cv.svg"
     ],
@@ -439,6 +563,10 @@
       "ru": "Чад"
     },
     "code": "TD",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "td.svg"
     ],
@@ -453,6 +581,10 @@
       "ru": "Чили"
     },
     "code": "CL",
+    "region": {
+      "en": "South America",
+      "ru": "Южная Америка"
+    },
     "flag": [
       "cl.svg"
     ],
@@ -467,6 +599,10 @@
       "ru": "Колумбия"
     },
     "code": "CO",
+    "region": {
+      "en": "South America",
+      "ru": "Южная Америка"
+    },
     "flag": [
       "co.svg"
     ],
@@ -481,6 +617,10 @@
       "ru": "Коста-Рика"
     },
     "code": "CR",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "cr.svg"
     ],
@@ -495,6 +635,10 @@
       "ru": "Хорватия"
     },
     "code": "HR",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "hr.svg"
     ],
@@ -509,6 +653,10 @@
       "ru": "Куба"
     },
     "code": "CU",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "cu.svg"
     ],
@@ -523,6 +671,10 @@
       "ru": "Кот-д’Ивуар"
     },
     "code": "CI",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "ci.svg"
     ],
@@ -537,6 +689,10 @@
       "ru": "Кипр"
     },
     "code": "CY",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "cy.svg"
     ],
@@ -551,6 +707,10 @@
       "ru": "Дания"
     },
     "code": "DK",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "dk.svg"
     ],
@@ -565,6 +725,10 @@
       "ru": "Джибути"
     },
     "code": "DJ",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "dj.svg"
     ],
@@ -579,6 +743,10 @@
       "ru": "Доминика"
     },
     "code": "DM",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "dm.svg"
     ],
@@ -593,6 +761,10 @@
       "ru": "Восточный Тимор"
     },
     "code": "TL",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "tl.svg"
     ],
@@ -607,6 +779,10 @@
       "ru": "Эквадор"
     },
     "code": "EC",
+    "region": {
+      "en": "South America",
+      "ru": "Южная Америка"
+    },
     "flag": [
       "ec.svg"
     ],
@@ -621,6 +797,10 @@
       "ru": "Египет"
     },
     "code": "EG",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "eg.svg"
     ],
@@ -635,6 +815,10 @@
       "ru": "Сальвадор"
     },
     "code": "SV",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "sv.svg"
     ],
@@ -649,6 +833,10 @@
       "ru": "Экваториальная Гвинея"
     },
     "code": "GQ",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "gq.svg"
     ],
@@ -663,6 +851,10 @@
       "ru": "Эритрея"
     },
     "code": "ER",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "er.svg"
     ],
@@ -677,6 +869,10 @@
       "ru": "Эстония"
     },
     "code": "EE",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "ee.svg"
     ],
@@ -691,6 +887,10 @@
       "ru": "Эсватини"
     },
     "code": "SZ",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "sz.svg"
     ],
@@ -705,6 +905,10 @@
       "ru": "Эфиопия"
     },
     "code": "ET",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "et.svg"
     ],
@@ -719,6 +923,10 @@
       "ru": "Фиджи"
     },
     "code": "FJ",
+    "region": {
+      "en": "Oceania",
+      "ru": "Океания"
+    },
     "flag": [
       "fj.svg"
     ],
@@ -733,6 +941,10 @@
       "ru": "Финляндия"
     },
     "code": "FI",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "fi.svg"
     ],
@@ -747,6 +959,10 @@
       "ru": "Франция"
     },
     "code": "FR",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "fr.svg"
     ],
@@ -761,6 +977,10 @@
       "ru": "Габон"
     },
     "code": "GA",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "ga.svg"
     ],
@@ -775,6 +995,10 @@
       "ru": "Грузия"
     },
     "code": "GE",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "ge.svg"
     ],
@@ -789,6 +1013,10 @@
       "ru": "Германия"
     },
     "code": "DE",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "de.svg"
     ],
@@ -803,6 +1031,10 @@
       "ru": "Гана"
     },
     "code": "GH",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "gh.svg"
     ],
@@ -817,6 +1049,10 @@
       "ru": "Греция"
     },
     "code": "GR",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "gr.svg"
     ],
@@ -831,6 +1067,10 @@
       "ru": "Гренада"
     },
     "code": "GD",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "gd.svg"
     ],
@@ -845,6 +1085,10 @@
       "ru": "Гватемала"
     },
     "code": "GT",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "gt.svg"
     ],
@@ -859,6 +1103,10 @@
       "ru": "Гвинея-Бисау"
     },
     "code": "GW",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "gw.svg"
     ],
@@ -873,6 +1121,10 @@
       "ru": "Гвинея"
     },
     "code": "GN",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "gn.svg"
     ],
@@ -887,6 +1139,10 @@
       "ru": "Гайана"
     },
     "code": "GY",
+    "region": {
+      "en": "South America",
+      "ru": "Южная Америка"
+    },
     "flag": [
       "gy.svg"
     ],
@@ -901,6 +1157,10 @@
       "ru": "Гаити"
     },
     "code": "HT",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "ht.svg"
     ],
@@ -915,6 +1175,10 @@
       "ru": "Гондурас"
     },
     "code": "HN",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "hn.svg"
     ],
@@ -929,6 +1193,10 @@
       "ru": "Венгрия"
     },
     "code": "HU",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "hu.svg"
     ],
@@ -943,6 +1211,10 @@
       "ru": "Исландия"
     },
     "code": "IS",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "is.svg"
     ],
@@ -957,6 +1229,10 @@
       "ru": "Индия"
     },
     "code": "IN",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "in.svg"
     ],
@@ -971,6 +1247,10 @@
       "ru": "Индонезия"
     },
     "code": "ID",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "id.svg"
     ],
@@ -985,6 +1265,10 @@
       "ru": "Иран"
     },
     "code": "IR",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "ir.svg"
     ],
@@ -999,6 +1283,10 @@
       "ru": "Ирак"
     },
     "code": "IQ",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "iq.svg"
     ],
@@ -1013,6 +1301,10 @@
       "ru": "Ирландия"
     },
     "code": "IE",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "ie.svg"
     ],
@@ -1027,6 +1319,10 @@
       "ru": "Израиль"
     },
     "code": "IL",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "il.svg"
     ],
@@ -1041,6 +1337,10 @@
       "ru": "Италия"
     },
     "code": "IT",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "it.svg"
     ],
@@ -1055,6 +1355,10 @@
       "ru": "Ямайка"
     },
     "code": "JM",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "jm.svg"
     ],
@@ -1069,6 +1373,10 @@
       "ru": "Япония"
     },
     "code": "JP",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "jp.svg"
     ],
@@ -1083,6 +1391,10 @@
       "ru": "Иордания"
     },
     "code": "JO",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "jo.svg"
     ],
@@ -1097,6 +1409,10 @@
       "ru": "Казахстан"
     },
     "code": "KZ",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "kz.svg"
     ],
@@ -1111,6 +1427,10 @@
       "ru": "Кения"
     },
     "code": "KE",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "ke.svg"
     ],
@@ -1125,6 +1445,10 @@
       "ru": "Кирибати"
     },
     "code": "KI",
+    "region": {
+      "en": "Oceania",
+      "ru": "Океания"
+    },
     "flag": [
       "ki.svg"
     ],
@@ -1139,6 +1463,10 @@
       "ru": "Кувейт"
     },
     "code": "KW",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "kw.svg"
     ],
@@ -1153,6 +1481,10 @@
       "ru": "Кыргызстан"
     },
     "code": "KG",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "kg.svg"
     ],
@@ -1167,6 +1499,10 @@
       "ru": "Лаос"
     },
     "code": "LA",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "la.svg"
     ],
@@ -1181,6 +1517,10 @@
       "ru": "Латвия"
     },
     "code": "LV",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "lv.svg"
     ],
@@ -1195,6 +1535,10 @@
       "ru": "Ливан"
     },
     "code": "LB",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "lb.svg"
     ],
@@ -1209,6 +1553,10 @@
       "ru": "Лесото"
     },
     "code": "LS",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "ls.svg"
     ],
@@ -1223,6 +1571,10 @@
       "ru": "Либерия"
     },
     "code": "LR",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "lr.svg"
     ],
@@ -1237,6 +1589,10 @@
       "ru": "Ливия"
     },
     "code": "LY",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "ly.svg"
     ],
@@ -1251,6 +1607,10 @@
       "ru": "Лихтенштейн"
     },
     "code": "LI",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "li.svg"
     ],
@@ -1265,6 +1625,10 @@
       "ru": "Литва"
     },
     "code": "LT",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "lt.svg"
     ],
@@ -1279,6 +1643,10 @@
       "ru": "Люксембург"
     },
     "code": "LU",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "lu.svg"
     ],
@@ -1293,6 +1661,10 @@
       "ru": "Мадагаскар"
     },
     "code": "MG",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "mg.svg"
     ],
@@ -1307,6 +1679,10 @@
       "ru": "Малави"
     },
     "code": "MW",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "mw.svg"
     ],
@@ -1321,6 +1697,10 @@
       "ru": "Малайзия"
     },
     "code": "MY",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "my.svg"
     ],
@@ -1335,6 +1715,10 @@
       "ru": "Мальдивы"
     },
     "code": "MV",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "mv.svg"
     ],
@@ -1349,6 +1733,10 @@
       "ru": "Мальта"
     },
     "code": "MT",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "mt.svg"
     ],
@@ -1363,6 +1751,10 @@
       "ru": "Мали"
     },
     "code": "ML",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "ml.svg"
     ],
@@ -1377,6 +1769,10 @@
       "ru": "Мавритания"
     },
     "code": "MR",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "mr.svg"
     ],
@@ -1391,6 +1787,10 @@
       "ru": "Маврикий"
     },
     "code": "MU",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "mu.svg"
     ],
@@ -1405,6 +1805,10 @@
       "ru": "Мексика"
     },
     "code": "MX",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "mx.svg"
     ],
@@ -1419,6 +1823,10 @@
       "ru": "Молдова"
     },
     "code": "MD",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "md.svg"
     ],
@@ -1433,6 +1841,10 @@
       "ru": "Монако"
     },
     "code": "MC",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "mc.svg"
     ],
@@ -1447,6 +1859,10 @@
       "ru": "Монголия"
     },
     "code": "MN",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "mn.svg"
     ],
@@ -1461,6 +1877,10 @@
       "ru": "Черногория"
     },
     "code": "ME",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "me.svg"
     ],
@@ -1475,6 +1895,10 @@
       "ru": "Марокко"
     },
     "code": "MA",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "ma.svg"
     ],
@@ -1489,6 +1913,10 @@
       "ru": "Мозамбик"
     },
     "code": "MZ",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "mz.svg"
     ],
@@ -1503,6 +1931,10 @@
       "ru": "Мьянма"
     },
     "code": "MM",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "mm.svg"
     ],
@@ -1517,6 +1949,10 @@
       "ru": "Намибия"
     },
     "code": "NA",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "na.svg"
     ],
@@ -1531,6 +1967,10 @@
       "ru": "Науру"
     },
     "code": "NR",
+    "region": {
+      "en": "Oceania",
+      "ru": "Океания"
+    },
     "flag": [
       "nr.svg"
     ],
@@ -1545,6 +1985,10 @@
       "ru": "Непал"
     },
     "code": "NP",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "np.svg"
     ],
@@ -1559,6 +2003,10 @@
       "ru": "Новая Зеландия"
     },
     "code": "NZ",
+    "region": {
+      "en": "Oceania",
+      "ru": "Океания"
+    },
     "flag": [
       "nz.svg"
     ],
@@ -1573,6 +2021,10 @@
       "ru": "Никарагуа"
     },
     "code": "NI",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "ni.svg"
     ],
@@ -1587,6 +2039,10 @@
       "ru": "Нигер"
     },
     "code": "NE",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "ne.svg"
     ],
@@ -1601,6 +2057,10 @@
       "ru": "Северная Корея"
     },
     "code": "KP",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "kp.svg"
     ],
@@ -1615,6 +2075,10 @@
       "ru": "Нигерия"
     },
     "code": "NG",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "ng.svg"
     ],
@@ -1629,6 +2093,10 @@
       "ru": "Северная Македония"
     },
     "code": "MK",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "mk.svg"
     ],
@@ -1643,6 +2111,10 @@
       "ru": "Норвегия"
     },
     "code": "NO",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "no.svg"
     ],
@@ -1657,6 +2129,10 @@
       "ru": "Оман"
     },
     "code": "OM",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "om.svg"
     ],
@@ -1671,6 +2147,10 @@
       "ru": "Пакистан"
     },
     "code": "PK",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "pk.svg"
     ],
@@ -1685,6 +2165,10 @@
       "ru": "Палау"
     },
     "code": "PW",
+    "region": {
+      "en": "Oceania",
+      "ru": "Океания"
+    },
     "flag": [
       "pw.svg"
     ],
@@ -1699,6 +2183,10 @@
       "ru": "Панама"
     },
     "code": "PA",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "pa.svg"
     ],
@@ -1713,6 +2201,10 @@
       "ru": "Парагвай"
     },
     "code": "PY",
+    "region": {
+      "en": "South America",
+      "ru": "Южная Америка"
+    },
     "flag": [
       "py.svg",
       "py-reverse.svg"
@@ -1728,6 +2220,10 @@
       "ru": "Папуа — Новая Гвинея"
     },
     "code": "PG",
+    "region": {
+      "en": "Oceania",
+      "ru": "Океания"
+    },
     "flag": [
       "pg.svg"
     ],
@@ -1742,6 +2238,10 @@
       "ru": "Перу"
     },
     "code": "PE",
+    "region": {
+      "en": "South America",
+      "ru": "Южная Америка"
+    },
     "flag": [
       "pe.svg"
     ],
@@ -1756,6 +2256,10 @@
       "ru": "Польша"
     },
     "code": "PL",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "pl.svg"
     ],
@@ -1770,6 +2274,10 @@
       "ru": "Португалия"
     },
     "code": "PT",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "pt.svg"
     ],
@@ -1784,6 +2292,10 @@
       "ru": "Катар"
     },
     "code": "QA",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "qa.svg"
     ],
@@ -1798,6 +2310,10 @@
       "ru": "Румыния"
     },
     "code": "RO",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "ro.svg"
     ],
@@ -1812,6 +2328,10 @@
       "ru": "Россия"
     },
     "code": "RU",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "ru.svg"
     ],
@@ -1826,6 +2346,10 @@
       "ru": "Руанда"
     },
     "code": "RW",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "rw.svg"
     ],
@@ -1840,6 +2364,10 @@
       "ru": "Сент-Китс и Невис"
     },
     "code": "KN",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "kn.svg"
     ],
@@ -1854,6 +2382,10 @@
       "ru": "Сент-Люсия"
     },
     "code": "LC",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "lc.svg"
     ],
@@ -1868,6 +2400,10 @@
       "ru": "Сан-Марино"
     },
     "code": "SM",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "sm.svg"
     ],
@@ -1882,6 +2418,10 @@
       "ru": "Самоа"
     },
     "code": "WS",
+    "region": {
+      "en": "Oceania",
+      "ru": "Океания"
+    },
     "flag": [
       "ws.svg"
     ],
@@ -1896,6 +2436,10 @@
       "ru": "Саудовская Аравия"
     },
     "code": "SA",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "sa.svg"
     ],
@@ -1910,6 +2454,10 @@
       "ru": "Сенегал"
     },
     "code": "SN",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "sn.svg"
     ],
@@ -1924,6 +2472,10 @@
       "ru": "Сербия"
     },
     "code": "RS",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "rs.svg"
     ],
@@ -1938,6 +2490,10 @@
       "ru": "Сент-Винсент и Гренадины"
     },
     "code": "VC",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "vc.svg"
     ],
@@ -1952,6 +2508,10 @@
       "ru": "Сейшельские Острова"
     },
     "code": "SC",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "sc.svg"
     ],
@@ -1966,6 +2526,10 @@
       "ru": "Сьерра-Леоне"
     },
     "code": "SL",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "sl.svg"
     ],
@@ -1980,6 +2544,10 @@
       "ru": "Сингапур"
     },
     "code": "SG",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "sg.svg"
     ],
@@ -1994,6 +2562,10 @@
       "ru": "Словакия"
     },
     "code": "SK",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "sk.svg"
     ],
@@ -2008,6 +2580,10 @@
       "ru": "Словения"
     },
     "code": "SI",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "si.svg"
     ],
@@ -2022,6 +2598,10 @@
       "ru": "Сомали"
     },
     "code": "SO",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "so.svg"
     ],
@@ -2036,6 +2616,10 @@
       "ru": "Палестина"
     },
     "code": "PS",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "ps.svg"
     ],
@@ -2050,6 +2634,10 @@
       "ru": "ЮАР"
     },
     "code": "ZA",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "za.svg"
     ],
@@ -2064,6 +2652,10 @@
       "ru": "Южная Корея"
     },
     "code": "KR",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "kr.svg"
     ],
@@ -2078,6 +2670,10 @@
       "ru": "Южный Судан"
     },
     "code": "SS",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "ss.svg"
     ],
@@ -2092,6 +2688,10 @@
       "ru": "Испания"
     },
     "code": "ES",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "es.svg"
     ],
@@ -2106,6 +2706,10 @@
       "ru": "Шри-Ланка"
     },
     "code": "LK",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "lk.svg"
     ],
@@ -2120,6 +2724,10 @@
       "ru": "Судан"
     },
     "code": "SD",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "sd.svg"
     ],
@@ -2134,6 +2742,10 @@
       "ru": "Суринам"
     },
     "code": "SR",
+    "region": {
+      "en": "South America",
+      "ru": "Южная Америка"
+    },
     "flag": [
       "sr.svg"
     ],
@@ -2148,6 +2760,10 @@
       "ru": "Швеция"
     },
     "code": "SE",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "se.svg"
     ],
@@ -2162,6 +2778,10 @@
       "ru": "Швейцария"
     },
     "code": "CH",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "ch.svg"
     ],
@@ -2176,6 +2796,10 @@
       "ru": "Сан-Томе и Принсипи"
     },
     "code": "ST",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "st.svg"
     ],
@@ -2190,6 +2814,10 @@
       "ru": "Таджикистан"
     },
     "code": "TJ",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "tj.svg"
     ],
@@ -2204,6 +2832,10 @@
       "ru": "Танзания"
     },
     "code": "TZ",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "tz.svg"
     ],
@@ -2218,6 +2850,10 @@
       "ru": "Таиланд"
     },
     "code": "TH",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "th.svg"
     ],
@@ -2232,6 +2868,10 @@
       "ru": "Гамбия"
     },
     "code": "GM",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "gm.svg"
     ],
@@ -2246,6 +2886,10 @@
       "ru": "Того"
     },
     "code": "TG",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "tg.svg"
     ],
@@ -2260,6 +2904,10 @@
       "ru": "Тонга"
     },
     "code": "TO",
+    "region": {
+      "en": "Oceania",
+      "ru": "Океания"
+    },
     "flag": [
       "to.svg"
     ],
@@ -2274,6 +2922,10 @@
       "ru": "Косово"
     },
     "code": "XK",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "xk.svg"
     ],
@@ -2288,6 +2940,10 @@
       "ru": "Тринидад и Тобаго"
     },
     "code": "TT",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "tt.svg"
     ],
@@ -2302,6 +2958,10 @@
       "ru": "Тунис"
     },
     "code": "TN",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "tn.svg"
     ],
@@ -2316,6 +2976,10 @@
       "ru": "Турция"
     },
     "code": "TR",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "tr.svg"
     ],
@@ -2330,6 +2994,10 @@
       "ru": "Туркменистан"
     },
     "code": "TM",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "tm.svg"
     ],
@@ -2344,6 +3012,10 @@
       "ru": "Тувалу"
     },
     "code": "TV",
+    "region": {
+      "en": "Oceania",
+      "ru": "Океания"
+    },
     "flag": [
       "tv.svg"
     ],
@@ -2358,6 +3030,10 @@
       "ru": "Уганда"
     },
     "code": "UG",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "ug.svg"
     ],
@@ -2372,6 +3048,10 @@
       "ru": "Украина"
     },
     "code": "UA",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "ua.svg"
     ],
@@ -2386,6 +3066,10 @@
       "ru": "Уругвай"
     },
     "code": "UY",
+    "region": {
+      "en": "South America",
+      "ru": "Южная Америка"
+    },
     "flag": [
       "uy.svg"
     ],
@@ -2400,6 +3084,10 @@
       "ru": "Узбекистан"
     },
     "code": "UZ",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "uz.svg"
     ],
@@ -2414,6 +3102,10 @@
       "ru": "Вануату"
     },
     "code": "VU",
+    "region": {
+      "en": "Oceania",
+      "ru": "Океания"
+    },
     "flag": [
       "vu.svg"
     ],
@@ -2428,6 +3120,10 @@
       "ru": "Ватикан"
     },
     "code": "VA",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "va.svg"
     ],
@@ -2442,6 +3138,10 @@
       "ru": "Венесуэла"
     },
     "code": "VE",
+    "region": {
+      "en": "South America",
+      "ru": "Южная Америка"
+    },
     "flag": [
       "ve.svg"
     ],
@@ -2456,6 +3156,10 @@
       "ru": "Вьетнам"
     },
     "code": "VN",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "vn.svg"
     ],
@@ -2470,6 +3174,10 @@
       "ru": "Йемен"
     },
     "code": "YE",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "ye.svg"
     ],
@@ -2484,6 +3192,10 @@
       "ru": "Замбия"
     },
     "code": "ZM",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "zm.svg"
     ],
@@ -2498,6 +3210,10 @@
       "ru": "Зимбабве"
     },
     "code": "ZW",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "zw.svg"
     ],
@@ -2512,6 +3228,10 @@
       "ru": "Багамские Острова"
     },
     "code": "BS",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "bs.svg"
     ],
@@ -2526,6 +3246,10 @@
       "ru": "Центральноафриканская Республика"
     },
     "code": "CF",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "cf.svg"
     ],
@@ -2540,6 +3264,10 @@
       "ru": "Коморы"
     },
     "code": "KM",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "km.svg"
     ],
@@ -2554,6 +3282,10 @@
       "ru": "Чехия"
     },
     "code": "CZ",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "cz.svg"
     ],
@@ -2568,6 +3300,10 @@
       "ru": "Демократическая Республика Конго"
     },
     "code": "CD",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "cd.svg"
     ],
@@ -2582,6 +3318,10 @@
       "ru": "Доминиканская Республика"
     },
     "code": "DO",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "do.svg"
     ],
@@ -2596,6 +3336,10 @@
       "ru": "Маршалловы Острова"
     },
     "code": "MH",
+    "region": {
+      "en": "Oceania",
+      "ru": "Океания"
+    },
     "flag": [
       "mh.svg"
     ],
@@ -2610,6 +3354,10 @@
       "ru": "Федеративные Штаты Микронезии"
     },
     "code": "FM",
+    "region": {
+      "en": "Oceania",
+      "ru": "Океания"
+    },
     "flag": [
       "fm.svg"
     ],
@@ -2624,6 +3372,10 @@
       "ru": "Нидерланды"
     },
     "code": "NL",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "nl.svg"
     ],
@@ -2638,6 +3390,10 @@
       "ru": "Китай"
     },
     "code": "CN",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "cn.svg"
     ],
@@ -2652,6 +3408,10 @@
       "ru": "Филиппины"
     },
     "code": "PH",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "ph.svg"
     ],
@@ -2666,6 +3426,10 @@
       "ru": "Тайвань"
     },
     "code": "TW",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "tw.svg"
     ],
@@ -2680,6 +3444,10 @@
       "ru": "Республика Конго"
     },
     "code": "CG",
+    "region": {
+      "en": "Africa",
+      "ru": "Африка"
+    },
     "flag": [
       "cg.svg"
     ],
@@ -2694,6 +3462,10 @@
       "ru": "Соломоновы Острова"
     },
     "code": "SB",
+    "region": {
+      "en": "Oceania",
+      "ru": "Океания"
+    },
     "flag": [
       "sb.svg"
     ],
@@ -2708,6 +3480,10 @@
       "ru": "ОАЭ"
     },
     "code": "AE",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "ae.svg"
     ],
@@ -2722,6 +3498,10 @@
       "ru": "Сирия"
     },
     "code": "SY",
+    "region": {
+      "en": "Asia",
+      "ru": "Азия"
+    },
     "flag": [
       "sy.svg"
     ],
@@ -2736,6 +3516,10 @@
       "ru": "Великобритания"
     },
     "code": "GB",
+    "region": {
+      "en": "Europe",
+      "ru": "Европа"
+    },
     "flag": [
       "gb.svg"
     ],
@@ -2750,6 +3534,10 @@
       "ru": "США"
     },
     "code": "US",
+    "region": {
+      "en": "North America",
+      "ru": "Северная Америка"
+    },
     "flag": [
       "us.svg"
     ],
