@@ -7,7 +7,11 @@
     "code": "AF",
     "flag": [
       "af.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Kabul",
+      "ru": "Кабул"
+    }
   },
   {
     "name": {
@@ -17,7 +21,11 @@
     "code": "DZ",
     "flag": [
       "dz.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Algiers",
+      "ru": "Алжир"
+    }
   },
   {
     "name": {
@@ -27,7 +35,11 @@
     "code": "AL",
     "flag": [
       "al.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Tirana",
+      "ru": "Тирана"
+    }
   },
   {
     "name": {
@@ -37,7 +49,11 @@
     "code": "AD",
     "flag": [
       "ad.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Andorra la Vella",
+      "ru": "Андорра-ла-Велья"
+    }
   },
   {
     "name": {
@@ -47,7 +63,11 @@
     "code": "AO",
     "flag": [
       "ao.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Luanda",
+      "ru": "Луанда"
+    }
   },
   {
     "name": {
@@ -57,7 +77,11 @@
     "code": "AG",
     "flag": [
       "ag.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "St. John's",
+      "ru": "Сент-Джонс"
+    }
   },
   {
     "name": {
@@ -67,7 +91,11 @@
     "code": "AR",
     "flag": [
       "ar.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Buenos Aires",
+      "ru": "Буэнос-Айрес"
+    }
   },
   {
     "name": {
@@ -77,7 +105,11 @@
     "code": "AM",
     "flag": [
       "am.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Yerevan",
+      "ru": "Ереван"
+    }
   },
   {
     "name": {
@@ -87,7 +119,11 @@
     "code": "AU",
     "flag": [
       "au.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Canberra",
+      "ru": "Канберра"
+    }
   },
   {
     "name": {
@@ -97,7 +133,11 @@
     "code": "AT",
     "flag": [
       "at.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Vienna",
+      "ru": "Вена"
+    }
   },
   {
     "name": {
@@ -107,7 +147,11 @@
     "code": "AZ",
     "flag": [
       "az.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Baku",
+      "ru": "Баку"
+    }
   },
   {
     "name": {
@@ -117,7 +161,11 @@
     "code": "BH",
     "flag": [
       "bh.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Manama",
+      "ru": "Манама"
+    }
   },
   {
     "name": {
@@ -127,7 +175,11 @@
     "code": "BD",
     "flag": [
       "bd.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Dhaka",
+      "ru": "Дакка"
+    }
   },
   {
     "name": {
@@ -137,7 +189,11 @@
     "code": "BB",
     "flag": [
       "bb.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Bridgetown",
+      "ru": "Бриджтаун"
+    }
   },
   {
     "name": {
@@ -147,7 +203,11 @@
     "code": "BY",
     "flag": [
       "by.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Minsk",
+      "ru": "Минск"
+    }
   },
   {
     "name": {
@@ -157,7 +217,11 @@
     "code": "BE",
     "flag": [
       "be.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Brussels",
+      "ru": "Брюссель"
+    }
   },
   {
     "name": {
@@ -167,7 +231,11 @@
     "code": "BZ",
     "flag": [
       "bz.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Belmopan",
+      "ru": "Бельмопан"
+    }
   },
   {
     "name": {
@@ -177,7 +245,11 @@
     "code": "BJ",
     "flag": [
       "bj.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Porto-Novo",
+      "ru": "Порто-Ново"
+    }
   },
   {
     "name": {
@@ -187,7 +259,11 @@
     "code": "BT",
     "flag": [
       "bt.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Thimphu",
+      "ru": "Тхимпху"
+    }
   },
   {
     "name": {
@@ -197,7 +273,11 @@
     "code": "BO",
     "flag": [
       "bo.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Sucre",
+      "ru": "Сукре"
+    }
   },
   {
     "name": {
@@ -207,7 +287,11 @@
     "code": "BA",
     "flag": [
       "ba.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Sarajevo",
+      "ru": "Сараево"
+    }
   },
   {
     "name": {
@@ -217,7 +301,11 @@
     "code": "BW",
     "flag": [
       "bw.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Gaborone",
+      "ru": "Габороне"
+    }
   },
   {
     "name": {
@@ -227,7 +315,11 @@
     "code": "BR",
     "flag": [
       "br.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Brasília",
+      "ru": "Бразилиа"
+    }
   },
   {
     "name": {
@@ -237,7 +329,11 @@
     "code": "BN",
     "flag": [
       "bn.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Bandar Seri Begawan",
+      "ru": "Бандар-Сери-Бегаван"
+    }
   },
   {
     "name": {
@@ -247,7 +343,11 @@
     "code": "BG",
     "flag": [
       "bg.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Sofia",
+      "ru": "София"
+    }
   },
   {
     "name": {
@@ -257,7 +357,11 @@
     "code": "BF",
     "flag": [
       "bf.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Ouagadougou",
+      "ru": "Уагадугу"
+    }
   },
   {
     "name": {
@@ -267,7 +371,11 @@
     "code": "BI",
     "flag": [
       "bi.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Gitega",
+      "ru": "Гитега"
+    }
   },
   {
     "name": {
@@ -277,7 +385,11 @@
     "code": "KH",
     "flag": [
       "kh.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Phnom Penh",
+      "ru": "Пномпень"
+    }
   },
   {
     "name": {
@@ -287,7 +399,11 @@
     "code": "CM",
     "flag": [
       "cm.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Yaoundé",
+      "ru": "Яунде"
+    }
   },
   {
     "name": {
@@ -297,7 +413,11 @@
     "code": "CA",
     "flag": [
       "ca.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Ottawa",
+      "ru": "Оттава"
+    }
   },
   {
     "name": {
@@ -307,7 +427,11 @@
     "code": "CV",
     "flag": [
       "cv.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Praia",
+      "ru": "Прая"
+    }
   },
   {
     "name": {
@@ -317,7 +441,11 @@
     "code": "TD",
     "flag": [
       "td.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "N'Djamena",
+      "ru": "Нджамена"
+    }
   },
   {
     "name": {
@@ -327,7 +455,11 @@
     "code": "CL",
     "flag": [
       "cl.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Santiago",
+      "ru": "Сантьяго"
+    }
   },
   {
     "name": {
@@ -337,7 +469,11 @@
     "code": "CO",
     "flag": [
       "co.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Bogotá",
+      "ru": "Богота"
+    }
   },
   {
     "name": {
@@ -347,7 +483,11 @@
     "code": "CR",
     "flag": [
       "cr.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "San José",
+      "ru": "Сан-Хосе"
+    }
   },
   {
     "name": {
@@ -357,7 +497,11 @@
     "code": "HR",
     "flag": [
       "hr.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Zagreb",
+      "ru": "Загреб"
+    }
   },
   {
     "name": {
@@ -367,7 +511,11 @@
     "code": "CU",
     "flag": [
       "cu.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Havana",
+      "ru": "Гавана"
+    }
   },
   {
     "name": {
@@ -377,7 +525,11 @@
     "code": "CI",
     "flag": [
       "ci.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Yamoussoukro",
+      "ru": "Ямусукро"
+    }
   },
   {
     "name": {
@@ -387,7 +539,11 @@
     "code": "CY",
     "flag": [
       "cy.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Nicosia",
+      "ru": "Никосия"
+    }
   },
   {
     "name": {
@@ -397,7 +553,11 @@
     "code": "DK",
     "flag": [
       "dk.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Copenhagen",
+      "ru": "Копенгаген"
+    }
   },
   {
     "name": {
@@ -407,7 +567,11 @@
     "code": "DJ",
     "flag": [
       "dj.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Djibouti",
+      "ru": "Джибути"
+    }
   },
   {
     "name": {
@@ -417,7 +581,11 @@
     "code": "DM",
     "flag": [
       "dm.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Roseau",
+      "ru": "Розо"
+    }
   },
   {
     "name": {
@@ -427,7 +595,11 @@
     "code": "TL",
     "flag": [
       "tl.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Dili",
+      "ru": "Дили"
+    }
   },
   {
     "name": {
@@ -437,7 +609,11 @@
     "code": "EC",
     "flag": [
       "ec.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Quito",
+      "ru": "Кито"
+    }
   },
   {
     "name": {
@@ -447,7 +623,11 @@
     "code": "EG",
     "flag": [
       "eg.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Cairo",
+      "ru": "Каир"
+    }
   },
   {
     "name": {
@@ -457,7 +637,11 @@
     "code": "SV",
     "flag": [
       "sv.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "San Salvador",
+      "ru": "Сан-Сальвадор"
+    }
   },
   {
     "name": {
@@ -467,7 +651,11 @@
     "code": "GQ",
     "flag": [
       "gq.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Malabo",
+      "ru": "Малабо"
+    }
   },
   {
     "name": {
@@ -477,7 +665,11 @@
     "code": "ER",
     "flag": [
       "er.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Asmara",
+      "ru": "Асмэра"
+    }
   },
   {
     "name": {
@@ -487,7 +679,11 @@
     "code": "EE",
     "flag": [
       "ee.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Tallinn",
+      "ru": "Таллин"
+    }
   },
   {
     "name": {
@@ -497,7 +693,11 @@
     "code": "SZ",
     "flag": [
       "sz.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Mbabane",
+      "ru": "Мбабане"
+    }
   },
   {
     "name": {
@@ -507,7 +707,11 @@
     "code": "ET",
     "flag": [
       "et.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Addis Ababa",
+      "ru": "Аддис-Абеба"
+    }
   },
   {
     "name": {
@@ -517,7 +721,11 @@
     "code": "FJ",
     "flag": [
       "fj.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Suva",
+      "ru": "Сува"
+    }
   },
   {
     "name": {
@@ -527,7 +735,11 @@
     "code": "FI",
     "flag": [
       "fi.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Helsinki",
+      "ru": "Хельсинки"
+    }
   },
   {
     "name": {
@@ -537,7 +749,11 @@
     "code": "FR",
     "flag": [
       "fr.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Paris",
+      "ru": "Париж"
+    }
   },
   {
     "name": {
@@ -547,7 +763,11 @@
     "code": "GA",
     "flag": [
       "ga.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Libreville",
+      "ru": "Либревиль"
+    }
   },
   {
     "name": {
@@ -557,7 +777,11 @@
     "code": "GE",
     "flag": [
       "ge.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Tbilisi",
+      "ru": "Тбилиси"
+    }
   },
   {
     "name": {
@@ -567,7 +791,11 @@
     "code": "DE",
     "flag": [
       "de.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Berlin",
+      "ru": "Берлин"
+    }
   },
   {
     "name": {
@@ -577,7 +805,11 @@
     "code": "GH",
     "flag": [
       "gh.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Accra",
+      "ru": "Аккра"
+    }
   },
   {
     "name": {
@@ -587,7 +819,11 @@
     "code": "GR",
     "flag": [
       "gr.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Athens",
+      "ru": "Афины"
+    }
   },
   {
     "name": {
@@ -597,7 +833,11 @@
     "code": "GD",
     "flag": [
       "gd.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "St. George's",
+      "ru": "Сент-Джорджес"
+    }
   },
   {
     "name": {
@@ -607,7 +847,11 @@
     "code": "GT",
     "flag": [
       "gt.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Guatemala City",
+      "ru": "Гватемала"
+    }
   },
   {
     "name": {
@@ -617,7 +861,11 @@
     "code": "GW",
     "flag": [
       "gw.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Bissau",
+      "ru": "Бисау"
+    }
   },
   {
     "name": {
@@ -627,7 +875,11 @@
     "code": "GN",
     "flag": [
       "gn.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Conakry",
+      "ru": "Конакри"
+    }
   },
   {
     "name": {
@@ -637,7 +889,11 @@
     "code": "GY",
     "flag": [
       "gy.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Georgetown",
+      "ru": "Джорджтаун"
+    }
   },
   {
     "name": {
@@ -647,7 +903,11 @@
     "code": "HT",
     "flag": [
       "ht.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Port-au-Prince",
+      "ru": "Порт-о-Пренс"
+    }
   },
   {
     "name": {
@@ -657,7 +917,11 @@
     "code": "HN",
     "flag": [
       "hn.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Tegucigalpa",
+      "ru": "Тегусигальпа"
+    }
   },
   {
     "name": {
@@ -667,7 +931,11 @@
     "code": "HU",
     "flag": [
       "hu.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Budapest",
+      "ru": "Будапешт"
+    }
   },
   {
     "name": {
@@ -677,7 +945,11 @@
     "code": "IS",
     "flag": [
       "is.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Reykjavik",
+      "ru": "Рейкьявик"
+    }
   },
   {
     "name": {
@@ -687,7 +959,11 @@
     "code": "IN",
     "flag": [
       "in.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "New Delhi",
+      "ru": "Нью-Дели"
+    }
   },
   {
     "name": {
@@ -697,7 +973,11 @@
     "code": "ID",
     "flag": [
       "id.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Jakarta",
+      "ru": "Джакарта"
+    }
   },
   {
     "name": {
@@ -707,7 +987,11 @@
     "code": "IR",
     "flag": [
       "ir.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Tehran",
+      "ru": "Тегеран"
+    }
   },
   {
     "name": {
@@ -717,7 +1001,11 @@
     "code": "IQ",
     "flag": [
       "iq.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Baghdad",
+      "ru": "Багдад"
+    }
   },
   {
     "name": {
@@ -727,7 +1015,11 @@
     "code": "IE",
     "flag": [
       "ie.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Dublin",
+      "ru": "Дублин"
+    }
   },
   {
     "name": {
@@ -737,7 +1029,11 @@
     "code": "IL",
     "flag": [
       "il.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Jerusalem",
+      "ru": "Иерусалим"
+    }
   },
   {
     "name": {
@@ -747,7 +1043,11 @@
     "code": "IT",
     "flag": [
       "it.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Rome",
+      "ru": "Рим"
+    }
   },
   {
     "name": {
@@ -757,7 +1057,11 @@
     "code": "JM",
     "flag": [
       "jm.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Kingston",
+      "ru": "Кингстон"
+    }
   },
   {
     "name": {
@@ -767,7 +1071,11 @@
     "code": "JP",
     "flag": [
       "jp.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Tokyo",
+      "ru": "Токио"
+    }
   },
   {
     "name": {
@@ -777,7 +1085,11 @@
     "code": "JO",
     "flag": [
       "jo.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Amman",
+      "ru": "Амман"
+    }
   },
   {
     "name": {
@@ -787,7 +1099,11 @@
     "code": "KZ",
     "flag": [
       "kz.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Astana",
+      "ru": "Астана"
+    }
   },
   {
     "name": {
@@ -797,7 +1113,11 @@
     "code": "KE",
     "flag": [
       "ke.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Nairobi",
+      "ru": "Найроби"
+    }
   },
   {
     "name": {
@@ -807,7 +1127,11 @@
     "code": "KI",
     "flag": [
       "ki.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "South Tarawa",
+      "ru": "Южная Тарава"
+    }
   },
   {
     "name": {
@@ -817,7 +1141,11 @@
     "code": "KW",
     "flag": [
       "kw.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Kuwait City",
+      "ru": "Эль-Кувейт"
+    }
   },
   {
     "name": {
@@ -827,7 +1155,11 @@
     "code": "KG",
     "flag": [
       "kg.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Bishkek",
+      "ru": "Бишкек"
+    }
   },
   {
     "name": {
@@ -837,7 +1169,11 @@
     "code": "LA",
     "flag": [
       "la.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Vientiane",
+      "ru": "Вьентьян"
+    }
   },
   {
     "name": {
@@ -847,7 +1183,11 @@
     "code": "LV",
     "flag": [
       "lv.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Riga",
+      "ru": "Рига"
+    }
   },
   {
     "name": {
@@ -857,7 +1197,11 @@
     "code": "LB",
     "flag": [
       "lb.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Beirut",
+      "ru": "Бейрут"
+    }
   },
   {
     "name": {
@@ -867,7 +1211,11 @@
     "code": "LS",
     "flag": [
       "ls.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Maseru",
+      "ru": "Масеру"
+    }
   },
   {
     "name": {
@@ -877,7 +1225,11 @@
     "code": "LR",
     "flag": [
       "lr.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Monrovia",
+      "ru": "Монровия"
+    }
   },
   {
     "name": {
@@ -887,7 +1239,11 @@
     "code": "LY",
     "flag": [
       "ly.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Tripoli",
+      "ru": "Триполи"
+    }
   },
   {
     "name": {
@@ -897,7 +1253,11 @@
     "code": "LI",
     "flag": [
       "li.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Vaduz",
+      "ru": "Вадуц"
+    }
   },
   {
     "name": {
@@ -907,7 +1267,11 @@
     "code": "LT",
     "flag": [
       "lt.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Vilnius",
+      "ru": "Вильнюс"
+    }
   },
   {
     "name": {
@@ -917,7 +1281,11 @@
     "code": "LU",
     "flag": [
       "lu.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Luxembourg",
+      "ru": "Люксембург"
+    }
   },
   {
     "name": {
@@ -927,7 +1295,11 @@
     "code": "MG",
     "flag": [
       "mg.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Antananarivo",
+      "ru": "Антананариву"
+    }
   },
   {
     "name": {
@@ -937,7 +1309,11 @@
     "code": "MW",
     "flag": [
       "mw.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Lilongwe",
+      "ru": "Лилонгве"
+    }
   },
   {
     "name": {
@@ -947,7 +1323,11 @@
     "code": "MY",
     "flag": [
       "my.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Kuala Lumpur",
+      "ru": "Куала-Лумпур"
+    }
   },
   {
     "name": {
@@ -957,7 +1337,11 @@
     "code": "MV",
     "flag": [
       "mv.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Malé",
+      "ru": "Мале"
+    }
   },
   {
     "name": {
@@ -967,7 +1351,11 @@
     "code": "MT",
     "flag": [
       "mt.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Valletta",
+      "ru": "Валлетта"
+    }
   },
   {
     "name": {
@@ -977,7 +1365,11 @@
     "code": "ML",
     "flag": [
       "ml.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Bamako",
+      "ru": "Бамако"
+    }
   },
   {
     "name": {
@@ -987,7 +1379,11 @@
     "code": "MR",
     "flag": [
       "mr.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Nouakchott",
+      "ru": "Нуакшот"
+    }
   },
   {
     "name": {
@@ -997,7 +1393,11 @@
     "code": "MU",
     "flag": [
       "mu.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Port Louis",
+      "ru": "Порт-Луи"
+    }
   },
   {
     "name": {
@@ -1007,7 +1407,11 @@
     "code": "MX",
     "flag": [
       "mx.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Mexico City",
+      "ru": "Мехико"
+    }
   },
   {
     "name": {
@@ -1017,7 +1421,11 @@
     "code": "MD",
     "flag": [
       "md.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Chișinău",
+      "ru": "Кишинёв"
+    }
   },
   {
     "name": {
@@ -1027,7 +1435,11 @@
     "code": "MC",
     "flag": [
       "mc.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Monaco",
+      "ru": "Монако"
+    }
   },
   {
     "name": {
@@ -1037,7 +1449,11 @@
     "code": "MN",
     "flag": [
       "mn.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Ulaanbaatar",
+      "ru": "Улан-Батор"
+    }
   },
   {
     "name": {
@@ -1047,7 +1463,11 @@
     "code": "ME",
     "flag": [
       "me.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Podgorica",
+      "ru": "Подгорица"
+    }
   },
   {
     "name": {
@@ -1057,7 +1477,11 @@
     "code": "MA",
     "flag": [
       "ma.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Rabat",
+      "ru": "Рабат"
+    }
   },
   {
     "name": {
@@ -1067,7 +1491,11 @@
     "code": "MZ",
     "flag": [
       "mz.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Maputo",
+      "ru": "Мапуту"
+    }
   },
   {
     "name": {
@@ -1077,7 +1505,11 @@
     "code": "MM",
     "flag": [
       "mm.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Naypyidaw",
+      "ru": "Нейпьидо"
+    }
   },
   {
     "name": {
@@ -1087,7 +1519,11 @@
     "code": "NA",
     "flag": [
       "na.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Windhoek",
+      "ru": "Виндхук"
+    }
   },
   {
     "name": {
@@ -1097,7 +1533,11 @@
     "code": "NR",
     "flag": [
       "nr.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Yaren",
+      "ru": "Ярен"
+    }
   },
   {
     "name": {
@@ -1107,7 +1547,11 @@
     "code": "NP",
     "flag": [
       "np.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Kathmandu",
+      "ru": "Катманду"
+    }
   },
   {
     "name": {
@@ -1117,7 +1561,11 @@
     "code": "NZ",
     "flag": [
       "nz.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Wellington",
+      "ru": "Веллингтон"
+    }
   },
   {
     "name": {
@@ -1127,7 +1575,11 @@
     "code": "NI",
     "flag": [
       "ni.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Managua",
+      "ru": "Манагуа"
+    }
   },
   {
     "name": {
@@ -1137,7 +1589,11 @@
     "code": "NE",
     "flag": [
       "ne.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Niamey",
+      "ru": "Ниамей"
+    }
   },
   {
     "name": {
@@ -1147,7 +1603,11 @@
     "code": "KP",
     "flag": [
       "kp.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Pyongyang",
+      "ru": "Пхеньян"
+    }
   },
   {
     "name": {
@@ -1157,7 +1617,11 @@
     "code": "NG",
     "flag": [
       "ng.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Abuja",
+      "ru": "Абуджа"
+    }
   },
   {
     "name": {
@@ -1167,7 +1631,11 @@
     "code": "MK",
     "flag": [
       "mk.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Skopje",
+      "ru": "Скопье"
+    }
   },
   {
     "name": {
@@ -1177,7 +1645,11 @@
     "code": "NO",
     "flag": [
       "no.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Oslo",
+      "ru": "Осло"
+    }
   },
   {
     "name": {
@@ -1187,7 +1659,11 @@
     "code": "OM",
     "flag": [
       "om.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Muscat",
+      "ru": "Маскат"
+    }
   },
   {
     "name": {
@@ -1197,7 +1673,11 @@
     "code": "PK",
     "flag": [
       "pk.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Islamabad",
+      "ru": "Исламабад"
+    }
   },
   {
     "name": {
@@ -1207,7 +1687,11 @@
     "code": "PW",
     "flag": [
       "pw.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Ngerulmud",
+      "ru": "Нгерулмуд"
+    }
   },
   {
     "name": {
@@ -1217,7 +1701,11 @@
     "code": "PA",
     "flag": [
       "pa.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Panama City",
+      "ru": "Панама"
+    }
   },
   {
     "name": {
@@ -1228,7 +1716,11 @@
     "flag": [
       "py.svg",
       "py-reverse.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Asunción",
+      "ru": "Асунсьон"
+    }
   },
   {
     "name": {
@@ -1238,7 +1730,11 @@
     "code": "PG",
     "flag": [
       "pg.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Port Moresby",
+      "ru": "Порт-Морсби"
+    }
   },
   {
     "name": {
@@ -1248,7 +1744,11 @@
     "code": "PE",
     "flag": [
       "pe.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Lima",
+      "ru": "Лима"
+    }
   },
   {
     "name": {
@@ -1258,7 +1758,11 @@
     "code": "PL",
     "flag": [
       "pl.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Warsaw",
+      "ru": "Варшава"
+    }
   },
   {
     "name": {
@@ -1268,7 +1772,11 @@
     "code": "PT",
     "flag": [
       "pt.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Lisbon",
+      "ru": "Лиссабон"
+    }
   },
   {
     "name": {
@@ -1278,7 +1786,11 @@
     "code": "QA",
     "flag": [
       "qa.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Doha",
+      "ru": "Доха"
+    }
   },
   {
     "name": {
@@ -1288,7 +1800,11 @@
     "code": "RO",
     "flag": [
       "ro.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Bucharest",
+      "ru": "Бухарест"
+    }
   },
   {
     "name": {
@@ -1298,7 +1814,11 @@
     "code": "RU",
     "flag": [
       "ru.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Moscow",
+      "ru": "Москва"
+    }
   },
   {
     "name": {
@@ -1308,7 +1828,11 @@
     "code": "RW",
     "flag": [
       "rw.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Kigali",
+      "ru": "Кигали"
+    }
   },
   {
     "name": {
@@ -1318,7 +1842,11 @@
     "code": "KN",
     "flag": [
       "kn.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Basseterre",
+      "ru": "Бастер"
+    }
   },
   {
     "name": {
@@ -1328,7 +1856,11 @@
     "code": "LC",
     "flag": [
       "lc.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Castries",
+      "ru": "Кастри"
+    }
   },
   {
     "name": {
@@ -1338,7 +1870,11 @@
     "code": "SM",
     "flag": [
       "sm.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "San Marino",
+      "ru": "Сан-Марино"
+    }
   },
   {
     "name": {
@@ -1348,7 +1884,11 @@
     "code": "WS",
     "flag": [
       "ws.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Apia",
+      "ru": "Апиа"
+    }
   },
   {
     "name": {
@@ -1358,7 +1898,11 @@
     "code": "SA",
     "flag": [
       "sa.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Riyadh",
+      "ru": "Эр-Рияд"
+    }
   },
   {
     "name": {
@@ -1368,7 +1912,11 @@
     "code": "SN",
     "flag": [
       "sn.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Dakar",
+      "ru": "Дакар"
+    }
   },
   {
     "name": {
@@ -1378,7 +1926,11 @@
     "code": "RS",
     "flag": [
       "rs.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Belgrade",
+      "ru": "Белград"
+    }
   },
   {
     "name": {
@@ -1388,7 +1940,11 @@
     "code": "VC",
     "flag": [
       "vc.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Kingstown",
+      "ru": "Кингстаун"
+    }
   },
   {
     "name": {
@@ -1398,7 +1954,11 @@
     "code": "SC",
     "flag": [
       "sc.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Victoria",
+      "ru": "Виктория"
+    }
   },
   {
     "name": {
@@ -1408,7 +1968,11 @@
     "code": "SL",
     "flag": [
       "sl.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Freetown",
+      "ru": "Фритаун"
+    }
   },
   {
     "name": {
@@ -1418,7 +1982,11 @@
     "code": "SG",
     "flag": [
       "sg.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Singapore",
+      "ru": "Сингапур"
+    }
   },
   {
     "name": {
@@ -1428,7 +1996,11 @@
     "code": "SK",
     "flag": [
       "sk.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Bratislava",
+      "ru": "Братислава"
+    }
   },
   {
     "name": {
@@ -1438,7 +2010,11 @@
     "code": "SI",
     "flag": [
       "si.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Ljubljana",
+      "ru": "Любляна"
+    }
   },
   {
     "name": {
@@ -1448,7 +2024,11 @@
     "code": "SO",
     "flag": [
       "so.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Mogadishu",
+      "ru": "Могадишо"
+    }
   },
   {
     "name": {
@@ -1458,7 +2038,11 @@
     "code": "PS",
     "flag": [
       "ps.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Ramallah",
+      "ru": "Рамалла"
+    }
   },
   {
     "name": {
@@ -1468,7 +2052,11 @@
     "code": "ZA",
     "flag": [
       "za.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Pretoria (executive), Cape Town (legislative), Bloemfontein (judicial)",
+      "ru": "Претория (исполнительная), Кейптаун (законодательная), Блумфонтейн (судебная)"
+    }
   },
   {
     "name": {
@@ -1478,7 +2066,11 @@
     "code": "KR",
     "flag": [
       "kr.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Seoul",
+      "ru": "Сеул"
+    }
   },
   {
     "name": {
@@ -1488,7 +2080,11 @@
     "code": "SS",
     "flag": [
       "ss.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Juba",
+      "ru": "Джуба"
+    }
   },
   {
     "name": {
@@ -1498,7 +2094,11 @@
     "code": "ES",
     "flag": [
       "es.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Madrid",
+      "ru": "Мадрид"
+    }
   },
   {
     "name": {
@@ -1508,7 +2108,11 @@
     "code": "LK",
     "flag": [
       "lk.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Sri Jayawardenepura Kotte",
+      "ru": "Шри-Джаяварденепура-Котте"
+    }
   },
   {
     "name": {
@@ -1518,7 +2122,11 @@
     "code": "SD",
     "flag": [
       "sd.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Khartoum",
+      "ru": "Хартум"
+    }
   },
   {
     "name": {
@@ -1528,7 +2136,11 @@
     "code": "SR",
     "flag": [
       "sr.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Paramaribo",
+      "ru": "Парамарибо"
+    }
   },
   {
     "name": {
@@ -1538,7 +2150,11 @@
     "code": "SE",
     "flag": [
       "se.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Stockholm",
+      "ru": "Стокгольм"
+    }
   },
   {
     "name": {
@@ -1548,7 +2164,11 @@
     "code": "CH",
     "flag": [
       "ch.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Bern",
+      "ru": "Берн"
+    }
   },
   {
     "name": {
@@ -1558,7 +2178,11 @@
     "code": "ST",
     "flag": [
       "st.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "São Tomé",
+      "ru": "Сан-Томе"
+    }
   },
   {
     "name": {
@@ -1568,7 +2192,11 @@
     "code": "TJ",
     "flag": [
       "tj.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Dushanbe",
+      "ru": "Душанбе"
+    }
   },
   {
     "name": {
@@ -1578,7 +2206,11 @@
     "code": "TZ",
     "flag": [
       "tz.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Dodoma",
+      "ru": "Додома"
+    }
   },
   {
     "name": {
@@ -1588,7 +2220,11 @@
     "code": "TH",
     "flag": [
       "th.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Bangkok",
+      "ru": "Бангкок"
+    }
   },
   {
     "name": {
@@ -1598,7 +2234,11 @@
     "code": "GM",
     "flag": [
       "gm.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Banjul",
+      "ru": "Банжул"
+    }
   },
   {
     "name": {
@@ -1608,7 +2248,11 @@
     "code": "TG",
     "flag": [
       "tg.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Lomé",
+      "ru": "Ломе"
+    }
   },
   {
     "name": {
@@ -1618,7 +2262,11 @@
     "code": "TO",
     "flag": [
       "to.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Nuku'alofa",
+      "ru": "Нукуалофа"
+    }
   },
   {
     "name": {
@@ -1628,7 +2276,11 @@
     "code": "XK",
     "flag": [
       "xk.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Pristina",
+      "ru": "Приштина"
+    }
   },
   {
     "name": {
@@ -1638,7 +2290,11 @@
     "code": "TT",
     "flag": [
       "tt.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Port of Spain",
+      "ru": "Порт-оф-Спейн"
+    }
   },
   {
     "name": {
@@ -1648,7 +2304,11 @@
     "code": "TN",
     "flag": [
       "tn.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Tunis",
+      "ru": "Тунис"
+    }
   },
   {
     "name": {
@@ -1658,7 +2318,11 @@
     "code": "TR",
     "flag": [
       "tr.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Ankara",
+      "ru": "Анкара"
+    }
   },
   {
     "name": {
@@ -1668,7 +2332,11 @@
     "code": "TM",
     "flag": [
       "tm.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Ashgabat",
+      "ru": "Ашхабад"
+    }
   },
   {
     "name": {
@@ -1678,7 +2346,11 @@
     "code": "TV",
     "flag": [
       "tv.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Funafuti",
+      "ru": "Фунафути"
+    }
   },
   {
     "name": {
@@ -1688,7 +2360,11 @@
     "code": "UG",
     "flag": [
       "ug.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Kampala",
+      "ru": "Кампала"
+    }
   },
   {
     "name": {
@@ -1698,7 +2374,11 @@
     "code": "UA",
     "flag": [
       "ua.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Kyiv",
+      "ru": "Киев"
+    }
   },
   {
     "name": {
@@ -1708,7 +2388,11 @@
     "code": "UY",
     "flag": [
       "uy.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Montevideo",
+      "ru": "Монтевидео"
+    }
   },
   {
     "name": {
@@ -1718,7 +2402,11 @@
     "code": "UZ",
     "flag": [
       "uz.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Tashkent",
+      "ru": "Ташкент"
+    }
   },
   {
     "name": {
@@ -1728,7 +2416,11 @@
     "code": "VU",
     "flag": [
       "vu.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Port Vila",
+      "ru": "Порт-Вила"
+    }
   },
   {
     "name": {
@@ -1738,7 +2430,11 @@
     "code": "VA",
     "flag": [
       "va.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Vatican City",
+      "ru": "Ватикан"
+    }
   },
   {
     "name": {
@@ -1748,7 +2444,11 @@
     "code": "VE",
     "flag": [
       "ve.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Caracas",
+      "ru": "Каракас"
+    }
   },
   {
     "name": {
@@ -1758,7 +2458,11 @@
     "code": "VN",
     "flag": [
       "vn.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Hanoi",
+      "ru": "Ханой"
+    }
   },
   {
     "name": {
@@ -1768,7 +2472,11 @@
     "code": "YE",
     "flag": [
       "ye.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Sana'a",
+      "ru": "Сана"
+    }
   },
   {
     "name": {
@@ -1778,7 +2486,11 @@
     "code": "ZM",
     "flag": [
       "zm.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Lusaka",
+      "ru": "Лусака"
+    }
   },
   {
     "name": {
@@ -1788,7 +2500,11 @@
     "code": "ZW",
     "flag": [
       "zw.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Harare",
+      "ru": "Хараре"
+    }
   },
   {
     "name": {
@@ -1798,7 +2514,11 @@
     "code": "BS",
     "flag": [
       "bs.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Nassau",
+      "ru": "Нассау"
+    }
   },
   {
     "name": {
@@ -1808,7 +2528,11 @@
     "code": "CF",
     "flag": [
       "cf.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Bangui",
+      "ru": "Банги"
+    }
   },
   {
     "name": {
@@ -1818,7 +2542,11 @@
     "code": "KM",
     "flag": [
       "km.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Moroni",
+      "ru": "Морони"
+    }
   },
   {
     "name": {
@@ -1828,7 +2556,11 @@
     "code": "CZ",
     "flag": [
       "cz.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Prague",
+      "ru": "Прага"
+    }
   },
   {
     "name": {
@@ -1838,7 +2570,11 @@
     "code": "CD",
     "flag": [
       "cd.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Kinshasa",
+      "ru": "Киншаса"
+    }
   },
   {
     "name": {
@@ -1848,7 +2584,11 @@
     "code": "DO",
     "flag": [
       "do.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Santo Domingo",
+      "ru": "Санто-Доминго"
+    }
   },
   {
     "name": {
@@ -1858,7 +2598,11 @@
     "code": "MH",
     "flag": [
       "mh.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Majuro",
+      "ru": "Маджуро"
+    }
   },
   {
     "name": {
@@ -1868,7 +2612,11 @@
     "code": "FM",
     "flag": [
       "fm.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Palikir",
+      "ru": "Паликир"
+    }
   },
   {
     "name": {
@@ -1878,7 +2626,11 @@
     "code": "NL",
     "flag": [
       "nl.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Amsterdam",
+      "ru": "Амстердам"
+    }
   },
   {
     "name": {
@@ -1888,7 +2640,11 @@
     "code": "CN",
     "flag": [
       "cn.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Beijing",
+      "ru": "Пекин"
+    }
   },
   {
     "name": {
@@ -1898,7 +2654,11 @@
     "code": "PH",
     "flag": [
       "ph.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Manila",
+      "ru": "Манила"
+    }
   },
   {
     "name": {
@@ -1908,7 +2668,11 @@
     "code": "TW",
     "flag": [
       "tw.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Taipei",
+      "ru": "Тайбэй"
+    }
   },
   {
     "name": {
@@ -1918,7 +2682,11 @@
     "code": "CG",
     "flag": [
       "cg.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Brazzaville",
+      "ru": "Браззавиль"
+    }
   },
   {
     "name": {
@@ -1928,7 +2696,11 @@
     "code": "SB",
     "flag": [
       "sb.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Honiara",
+      "ru": "Хониара"
+    }
   },
   {
     "name": {
@@ -1938,7 +2710,11 @@
     "code": "AE",
     "flag": [
       "ae.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Abu Dhabi",
+      "ru": "Абу-Даби"
+    }
   },
   {
     "name": {
@@ -1948,7 +2724,11 @@
     "code": "SY",
     "flag": [
       "sy.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Damascus",
+      "ru": "Дамаск"
+    }
   },
   {
     "name": {
@@ -1958,7 +2738,11 @@
     "code": "GB",
     "flag": [
       "gb.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "London",
+      "ru": "Лондон"
+    }
   },
   {
     "name": {
@@ -1968,6 +2752,10 @@
     "code": "US",
     "flag": [
       "us.svg"
-    ]
+    ],
+    "capital_city": {
+      "en": "Washington, D.C.",
+      "ru": "Вашингтон"
+    }
   }
 ]
