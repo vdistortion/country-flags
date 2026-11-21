@@ -9,8 +9,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "af.svg"
+    "flags": [
+      {
+        "id": "af",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Kabul",
@@ -27,8 +33,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "dz.svg"
+    "flags": [
+      {
+        "id": "dz",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Algiers",
@@ -45,8 +57,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "al.svg"
+    "flags": [
+      {
+        "id": "al",
+        "aspect_ratio": [
+          480,
+          343
+        ]
+      }
     ],
     "capital_city": {
       "en": "Tirana",
@@ -63,8 +81,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "ad.svg"
+    "flags": [
+      {
+        "id": "ad",
+        "aspect_ratio": [
+          10,
+          7
+        ]
+      }
     ],
     "capital_city": {
       "en": "Andorra la Vella",
@@ -81,8 +105,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "ao.svg"
+    "flags": [
+      {
+        "id": "ao",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Luanda",
@@ -99,8 +129,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "ag.svg"
+    "flags": [
+      {
+        "id": "ag",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "St. John's",
@@ -117,8 +153,14 @@
       "en": "South America",
       "ru": "Южная Америка"
     },
-    "flag": [
-      "ar.svg"
+    "flags": [
+      {
+        "id": "ar",
+        "aspect_ratio": [
+          8,
+          5
+        ]
+      }
     ],
     "capital_city": {
       "en": "Buenos Aires",
@@ -135,8 +177,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "am.svg"
+    "flags": [
+      {
+        "id": "am",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Yerevan",
@@ -153,8 +201,14 @@
       "en": "Oceania",
       "ru": "Океания"
     },
-    "flag": [
-      "au.svg"
+    "flags": [
+      {
+        "id": "au",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Canberra",
@@ -171,8 +225,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "at.svg"
+    "flags": [
+      {
+        "id": "at",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Vienna",
@@ -189,8 +249,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "az.svg"
+    "flags": [
+      {
+        "id": "az",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Baku",
@@ -207,8 +273,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "bh.svg"
+    "flags": [
+      {
+        "id": "bh",
+        "aspect_ratio": [
+          5,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "Manama",
@@ -225,8 +297,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "bd.svg"
+    "flags": [
+      {
+        "id": "bd",
+        "aspect_ratio": [
+          5,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "Dhaka",
@@ -243,8 +321,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "bb.svg"
+    "flags": [
+      {
+        "id": "bb",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Bridgetown",
@@ -261,8 +345,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "by.svg"
+    "flags": [
+      {
+        "id": "by",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Minsk",
@@ -279,8 +369,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "be.svg"
+    "flags": [
+      {
+        "id": "be",
+        "aspect_ratio": [
+          128,
+          111
+        ]
+      }
     ],
     "capital_city": {
       "en": "Brussels",
@@ -297,8 +393,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "bz.svg"
+    "flags": [
+      {
+        "id": "bz",
+        "aspect_ratio": [
+          5,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "Belmopan",
@@ -315,8 +417,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "bj.svg"
+    "flags": [
+      {
+        "id": "bj",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Porto-Novo",
@@ -333,8 +441,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "bt.svg"
+    "flags": [
+      {
+        "id": "bt",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Thimphu",
@@ -351,8 +465,14 @@
       "en": "South America",
       "ru": "Южная Америка"
     },
-    "flag": [
-      "bo.svg"
+    "flags": [
+      {
+        "id": "bo",
+        "aspect_ratio": [
+          192,
+          131
+        ]
+      }
     ],
     "capital_city": {
       "en": "Sucre",
@@ -369,8 +489,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "ba.svg"
+    "flags": [
+      {
+        "id": "ba",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Sarajevo",
@@ -387,8 +513,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "bw.svg"
+    "flags": [
+      {
+        "id": "bw",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Gaborone",
@@ -405,8 +537,14 @@
       "en": "South America",
       "ru": "Южная Америка"
     },
-    "flag": [
-      "br.svg"
+    "flags": [
+      {
+        "id": "br",
+        "aspect_ratio": [
+          10,
+          7
+        ]
+      }
     ],
     "capital_city": {
       "en": "Brasília",
@@ -423,8 +561,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "bn.svg"
+    "flags": [
+      {
+        "id": "bn",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Bandar Seri Begawan",
@@ -441,8 +585,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "bg.svg"
+    "flags": [
+      {
+        "id": "bg",
+        "aspect_ratio": [
+          5,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "Sofia",
@@ -459,8 +609,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "bf.svg"
+    "flags": [
+      {
+        "id": "bf",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Ouagadougou",
@@ -477,8 +633,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "bi.svg"
+    "flags": [
+      {
+        "id": "bi",
+        "aspect_ratio": [
+          5,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "Gitega",
@@ -495,8 +657,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "kh.svg"
+    "flags": [
+      {
+        "id": "kh",
+        "aspect_ratio": [
+          1920,
+          1229
+        ]
+      }
     ],
     "capital_city": {
       "en": "Phnom Penh",
@@ -513,8 +681,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "cm.svg"
+    "flags": [
+      {
+        "id": "cm",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Yaoundé",
@@ -531,8 +705,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "ca.svg"
+    "flags": [
+      {
+        "id": "ca",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Ottawa",
@@ -545,15 +725,23 @@
       "ru": "Кабо-Верде"
     },
     "aliases": {
-      "en": ["Cape Verde"]
+      "en": [
+        "Cape Verde"
+      ]
     },
     "code": "CV",
     "region": {
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "cv.svg"
+    "flags": [
+      {
+        "id": "cv",
+        "aspect_ratio": [
+          192,
+          113
+        ]
+      }
     ],
     "capital_city": {
       "en": "Praia",
@@ -570,8 +758,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "td.svg"
+    "flags": [
+      {
+        "id": "td",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "N'Djamena",
@@ -588,8 +782,14 @@
       "en": "South America",
       "ru": "Южная Америка"
     },
-    "flag": [
-      "cl.svg"
+    "flags": [
+      {
+        "id": "cl",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Santiago",
@@ -606,8 +806,14 @@
       "en": "South America",
       "ru": "Южная Америка"
     },
-    "flag": [
-      "co.svg"
+    "flags": [
+      {
+        "id": "co",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Bogotá",
@@ -624,8 +830,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "cr.svg"
+    "flags": [
+      {
+        "id": "cr",
+        "aspect_ratio": [
+          5,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "San José",
@@ -642,8 +854,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "hr.svg"
+    "flags": [
+      {
+        "id": "hr",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Zagreb",
@@ -660,8 +878,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "cu.svg"
+    "flags": [
+      {
+        "id": "cu",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Havana",
@@ -674,16 +898,26 @@
       "ru": "Кот-д’Ивуар"
     },
     "aliases": {
-      "en": ["Ivory Coast"],
-      "ru": ["Берег Слоновой Кости"]
+      "en": [
+        "Ivory Coast"
+      ],
+      "ru": [
+        "Берег Слоновой Кости"
+      ]
     },
     "code": "CI",
     "region": {
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "ci.svg"
+    "flags": [
+      {
+        "id": "ci",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Yamoussoukro",
@@ -700,8 +934,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "cy.svg"
+    "flags": [
+      {
+        "id": "cy",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Nicosia",
@@ -718,8 +958,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "dk.svg"
+    "flags": [
+      {
+        "id": "dk",
+        "aspect_ratio": [
+          1280,
+          969
+        ]
+      }
     ],
     "capital_city": {
       "en": "Copenhagen",
@@ -736,8 +982,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "dj.svg"
+    "flags": [
+      {
+        "id": "dj",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Djibouti",
@@ -754,8 +1006,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "dm.svg"
+    "flags": [
+      {
+        "id": "dm",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Roseau",
@@ -768,16 +1026,26 @@
       "ru": "Восточный Тимор"
     },
     "aliases": {
-      "en": ["East Timor"],
-      "ru": ["Тимор-Лешти"]
+      "en": [
+        "East Timor"
+      ],
+      "ru": [
+        "Тимор-Лешти"
+      ]
     },
     "code": "TL",
     "region": {
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "tl.svg"
+    "flags": [
+      {
+        "id": "tl",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Dili",
@@ -794,8 +1062,14 @@
       "en": "South America",
       "ru": "Южная Америка"
     },
-    "flag": [
-      "ec.svg"
+    "flags": [
+      {
+        "id": "ec",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Quito",
@@ -812,8 +1086,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "eg.svg"
+    "flags": [
+      {
+        "id": "eg",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Cairo",
@@ -830,8 +1110,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "sv.svg"
+    "flags": [
+      {
+        "id": "sv",
+        "aspect_ratio": [
+          480,
+          271
+        ]
+      }
     ],
     "capital_city": {
       "en": "San Salvador",
@@ -848,8 +1134,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "gq.svg"
+    "flags": [
+      {
+        "id": "gq",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Ciudad de la Paz",
@@ -866,8 +1158,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "er.svg"
+    "flags": [
+      {
+        "id": "er",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Asmara",
@@ -884,8 +1182,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "ee.svg"
+    "flags": [
+      {
+        "id": "ee",
+        "aspect_ratio": [
+          960,
+          611
+        ]
+      }
     ],
     "capital_city": {
       "en": "Tallinn",
@@ -902,8 +1206,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "sz.svg"
+    "flags": [
+      {
+        "id": "sz",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Mbabane",
@@ -920,8 +1230,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "et.svg"
+    "flags": [
+      {
+        "id": "et",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Addis Ababa",
@@ -938,8 +1254,14 @@
       "en": "Oceania",
       "ru": "Океания"
     },
-    "flag": [
-      "fj.svg"
+    "flags": [
+      {
+        "id": "fj",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Suva",
@@ -956,8 +1278,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "fi.svg"
+    "flags": [
+      {
+        "id": "fi",
+        "aspect_ratio": [
+          960,
+          587
+        ]
+      }
     ],
     "capital_city": {
       "en": "Helsinki",
@@ -974,8 +1302,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "fr.svg"
+    "flags": [
+      {
+        "id": "fr",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Paris",
@@ -992,8 +1326,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "ga.svg"
+    "flags": [
+      {
+        "id": "ga",
+        "aspect_ratio": [
+          4,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "Libreville",
@@ -1010,8 +1350,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "ge.svg"
+    "flags": [
+      {
+        "id": "ge",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Tbilisi",
@@ -1028,8 +1374,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "de.svg"
+    "flags": [
+      {
+        "id": "de",
+        "aspect_ratio": [
+          5,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "Berlin",
@@ -1046,8 +1398,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "gh.svg"
+    "flags": [
+      {
+        "id": "gh",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Accra",
@@ -1064,8 +1422,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "gr.svg"
+    "flags": [
+      {
+        "id": "gr",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Athens",
@@ -1082,8 +1446,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "gd.svg"
+    "flags": [
+      {
+        "id": "gd",
+        "aspect_ratio": [
+          5,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "St. George's",
@@ -1100,8 +1470,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "gt.svg"
+    "flags": [
+      {
+        "id": "gt",
+        "aspect_ratio": [
+          8,
+          5
+        ]
+      }
     ],
     "capital_city": {
       "en": "Guatemala City",
@@ -1118,8 +1494,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "gw.svg"
+    "flags": [
+      {
+        "id": "gw",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Bissau",
@@ -1136,8 +1518,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "gn.svg"
+    "flags": [
+      {
+        "id": "gn",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Conakry",
@@ -1154,8 +1542,14 @@
       "en": "South America",
       "ru": "Южная Америка"
     },
-    "flag": [
-      "gy.svg"
+    "flags": [
+      {
+        "id": "gy",
+        "aspect_ratio": [
+          5,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "Georgetown",
@@ -1172,8 +1566,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "ht.svg"
+    "flags": [
+      {
+        "id": "ht",
+        "aspect_ratio": [
+          5,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "Port-au-Prince",
@@ -1190,8 +1590,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "hn.svg"
+    "flags": [
+      {
+        "id": "hn",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Tegucigalpa",
@@ -1208,8 +1614,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "hu.svg"
+    "flags": [
+      {
+        "id": "hu",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Budapest",
@@ -1226,8 +1638,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "is.svg"
+    "flags": [
+      {
+        "id": "is",
+        "aspect_ratio": [
+          640,
+          461
+        ]
+      }
     ],
     "capital_city": {
       "en": "Reykjavik",
@@ -1244,8 +1662,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "in.svg"
+    "flags": [
+      {
+        "id": "in",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "New Delhi",
@@ -1262,8 +1686,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "id.svg"
+    "flags": [
+      {
+        "id": "id",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Jakarta",
@@ -1280,8 +1710,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "ir.svg"
+    "flags": [
+      {
+        "id": "ir",
+        "aspect_ratio": [
+          320,
+          183
+        ]
+      }
     ],
     "capital_city": {
       "en": "Tehran",
@@ -1298,8 +1734,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "iq.svg"
+    "flags": [
+      {
+        "id": "iq",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Baghdad",
@@ -1316,8 +1758,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "ie.svg"
+    "flags": [
+      {
+        "id": "ie",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Dublin",
@@ -1334,8 +1782,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "il.svg"
+    "flags": [
+      {
+        "id": "il",
+        "aspect_ratio": [
+          1920,
+          1397
+        ]
+      }
     ],
     "capital_city": {
       "en": "Jerusalem",
@@ -1352,8 +1806,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "it.svg"
+    "flags": [
+      {
+        "id": "it",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Rome",
@@ -1370,8 +1830,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "jm.svg"
+    "flags": [
+      {
+        "id": "jm",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Kingston",
@@ -1388,8 +1854,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "jp.svg"
+    "flags": [
+      {
+        "id": "jp",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Tokyo",
@@ -1406,8 +1878,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "jo.svg"
+    "flags": [
+      {
+        "id": "jo",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Amman",
@@ -1424,8 +1902,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "kz.svg"
+    "flags": [
+      {
+        "id": "kz",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Astana",
@@ -1442,8 +1926,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "ke.svg"
+    "flags": [
+      {
+        "id": "ke",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Nairobi",
@@ -1460,8 +1950,14 @@
       "en": "Oceania",
       "ru": "Океания"
     },
-    "flag": [
-      "ki.svg"
+    "flags": [
+      {
+        "id": "ki",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "South Tarawa",
@@ -1478,8 +1974,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "kw.svg"
+    "flags": [
+      {
+        "id": "kw",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Kuwait City",
@@ -1496,8 +1998,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "kg.svg"
+    "flags": [
+      {
+        "id": "kg",
+        "aspect_ratio": [
+          5,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "Bishkek",
@@ -1514,8 +2022,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "la.svg"
+    "flags": [
+      {
+        "id": "la",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Vientiane",
@@ -1532,8 +2046,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "lv.svg"
+    "flags": [
+      {
+        "id": "lv",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Riga",
@@ -1550,8 +2070,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "lb.svg"
+    "flags": [
+      {
+        "id": "lb",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Beirut",
@@ -1568,8 +2094,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "ls.svg"
+    "flags": [
+      {
+        "id": "ls",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Maseru",
@@ -1586,8 +2118,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "lr.svg"
+    "flags": [
+      {
+        "id": "lr",
+        "aspect_ratio": [
+          640,
+          337
+        ]
+      }
     ],
     "capital_city": {
       "en": "Monrovia",
@@ -1604,8 +2142,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "ly.svg"
+    "flags": [
+      {
+        "id": "ly",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Tripoli",
@@ -1622,8 +2166,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "li.svg"
+    "flags": [
+      {
+        "id": "li",
+        "aspect_ratio": [
+          5,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "Vaduz",
@@ -1640,8 +2190,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "lt.svg"
+    "flags": [
+      {
+        "id": "lt",
+        "aspect_ratio": [
+          5,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "Vilnius",
@@ -1658,8 +2214,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "lu.svg"
+    "flags": [
+      {
+        "id": "lu",
+        "aspect_ratio": [
+          5,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "Luxembourg",
@@ -1676,8 +2238,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "mg.svg"
+    "flags": [
+      {
+        "id": "mg",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Antananarivo",
@@ -1694,8 +2262,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "mw.svg"
+    "flags": [
+      {
+        "id": "mw",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Lilongwe",
@@ -1712,8 +2286,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "my.svg"
+    "flags": [
+      {
+        "id": "my",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Kuala Lumpur",
@@ -1730,8 +2310,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "mv.svg"
+    "flags": [
+      {
+        "id": "mv",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Malé",
@@ -1748,8 +2334,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "mt.svg"
+    "flags": [
+      {
+        "id": "mt",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Valletta",
@@ -1766,8 +2358,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "ml.svg"
+    "flags": [
+      {
+        "id": "ml",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Bamako",
@@ -1784,8 +2382,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "mr.svg"
+    "flags": [
+      {
+        "id": "mr",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Nouakchott",
@@ -1802,8 +2406,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "mu.svg"
+    "flags": [
+      {
+        "id": "mu",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Port Louis",
@@ -1820,8 +2430,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "mx.svg"
+    "flags": [
+      {
+        "id": "mx",
+        "aspect_ratio": [
+          320,
+          183
+        ]
+      }
     ],
     "capital_city": {
       "en": "Mexico City",
@@ -1838,8 +2454,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "md.svg"
+    "flags": [
+      {
+        "id": "md",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Chișinău",
@@ -1856,8 +2478,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "mc.svg"
+    "flags": [
+      {
+        "id": "mc",
+        "aspect_ratio": [
+          5,
+          4
+        ]
+      }
     ],
     "capital_city": {
       "en": "Monaco",
@@ -1874,8 +2502,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "mn.svg"
+    "flags": [
+      {
+        "id": "mn",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Ulaanbaatar",
@@ -1892,8 +2526,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "me.svg"
+    "flags": [
+      {
+        "id": "me",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Podgorica",
@@ -1910,8 +2550,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "ma.svg"
+    "flags": [
+      {
+        "id": "ma",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Rabat",
@@ -1928,8 +2574,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "mz.svg"
+    "flags": [
+      {
+        "id": "mz",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Maputo",
@@ -1942,16 +2594,26 @@
       "ru": "Мьянма"
     },
     "aliases": {
-      "en": ["Burma"],
-      "ru": ["Бирма"]
+      "en": [
+        "Burma"
+      ],
+      "ru": [
+        "Бирма"
+      ]
     },
     "code": "MM",
     "region": {
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "mm.svg"
+    "flags": [
+      {
+        "id": "mm",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Naypyidaw",
@@ -1968,8 +2630,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "na.svg"
+    "flags": [
+      {
+        "id": "na",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Windhoek",
@@ -1986,8 +2654,14 @@
       "en": "Oceania",
       "ru": "Океания"
     },
-    "flag": [
-      "nr.svg"
+    "flags": [
+      {
+        "id": "nr",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Yaren",
@@ -2004,8 +2678,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "np.svg"
+    "flags": [
+      {
+        "id": "np",
+        "aspect_ratio": [
+          50,
+          61
+        ]
+      }
     ],
     "capital_city": {
       "en": "Kathmandu",
@@ -2022,8 +2702,14 @@
       "en": "Oceania",
       "ru": "Океания"
     },
-    "flag": [
-      "nz.svg"
+    "flags": [
+      {
+        "id": "nz",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Wellington",
@@ -2040,8 +2726,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "ni.svg"
+    "flags": [
+      {
+        "id": "ni",
+        "aspect_ratio": [
+          5,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "Managua",
@@ -2058,8 +2750,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "ne.svg"
+    "flags": [
+      {
+        "id": "ne",
+        "aspect_ratio": [
+          640,
+          549
+        ]
+      }
     ],
     "capital_city": {
       "en": "Niamey",
@@ -2072,16 +2770,28 @@
       "ru": "Северная Корея"
     },
     "aliases": {
-      "en": ["DPRK", "Democratic People's Republic of Korea"],
-      "ru": ["КНДР", "Корейская Народно-Демократическая Республика"]
+      "en": [
+        "DPRK",
+        "Democratic People's Republic of Korea"
+      ],
+      "ru": [
+        "КНДР",
+        "Корейская Народно-Демократическая Республика"
+      ]
     },
     "code": "KP",
     "region": {
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "kp.svg"
+    "flags": [
+      {
+        "id": "kp",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Pyongyang",
@@ -2098,8 +2808,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "ng.svg"
+    "flags": [
+      {
+        "id": "ng",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Abuja",
@@ -2116,8 +2832,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "mk.svg"
+    "flags": [
+      {
+        "id": "mk",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Skopje",
@@ -2134,8 +2856,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "no.svg"
+    "flags": [
+      {
+        "id": "no",
+        "aspect_ratio": [
+          1920,
+          1397
+        ]
+      }
     ],
     "capital_city": {
       "en": "Oslo",
@@ -2152,8 +2880,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "om.svg"
+    "flags": [
+      {
+        "id": "om",
+        "aspect_ratio": [
+          320,
+          183
+        ]
+      }
     ],
     "capital_city": {
       "en": "Muscat",
@@ -2170,8 +2904,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "pk.svg"
+    "flags": [
+      {
+        "id": "pk",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Islamabad",
@@ -2188,8 +2928,14 @@
       "en": "Oceania",
       "ru": "Океания"
     },
-    "flag": [
-      "pw.svg"
+    "flags": [
+      {
+        "id": "pw",
+        "aspect_ratio": [
+          8,
+          5
+        ]
+      }
     ],
     "capital_city": {
       "en": "Ngerulmud",
@@ -2206,8 +2952,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "pa.svg"
+    "flags": [
+      {
+        "id": "pa",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Panama City",
@@ -2224,9 +2976,21 @@
       "en": "South America",
       "ru": "Южная Америка"
     },
-    "flag": [
-      "py.svg",
-      "py-reverse.svg"
+    "flags": [
+      {
+        "id": "py",
+        "aspect_ratio": [
+          20,
+          11
+        ]
+      },
+      {
+        "id": "py-reverse",
+        "aspect_ratio": [
+          20,
+          11
+        ]
+      }
     ],
     "capital_city": {
       "en": "Asunción",
@@ -2243,8 +3007,14 @@
       "en": "Oceania",
       "ru": "Океания"
     },
-    "flag": [
-      "pg.svg"
+    "flags": [
+      {
+        "id": "pg",
+        "aspect_ratio": [
+          4,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "Port Moresby",
@@ -2261,8 +3031,14 @@
       "en": "South America",
       "ru": "Южная Америка"
     },
-    "flag": [
-      "pe.svg"
+    "flags": [
+      {
+        "id": "pe",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Lima",
@@ -2279,8 +3055,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "pl.svg"
+    "flags": [
+      {
+        "id": "pl",
+        "aspect_ratio": [
+          8,
+          5
+        ]
+      }
     ],
     "capital_city": {
       "en": "Warsaw",
@@ -2297,8 +3079,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "pt.svg"
+    "flags": [
+      {
+        "id": "pt",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Lisbon",
@@ -2315,8 +3103,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "qa.svg"
+    "flags": [
+      {
+        "id": "qa",
+        "aspect_ratio": [
+          384,
+          151
+        ]
+      }
     ],
     "capital_city": {
       "en": "Doha",
@@ -2333,8 +3127,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "ro.svg"
+    "flags": [
+      {
+        "id": "ro",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Bucharest",
@@ -2351,8 +3151,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "ru.svg"
+    "flags": [
+      {
+        "id": "ru",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Moscow",
@@ -2369,8 +3175,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "rw.svg"
+    "flags": [
+      {
+        "id": "rw",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Kigali",
@@ -2387,8 +3199,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "kn.svg"
+    "flags": [
+      {
+        "id": "kn",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Basseterre",
@@ -2405,8 +3223,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "lc.svg"
+    "flags": [
+      {
+        "id": "lc",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Castries",
@@ -2423,8 +3247,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "sm.svg"
+    "flags": [
+      {
+        "id": "sm",
+        "aspect_ratio": [
+          4,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "San Marino",
@@ -2441,8 +3271,14 @@
       "en": "Oceania",
       "ru": "Океания"
     },
-    "flag": [
-      "ws.svg"
+    "flags": [
+      {
+        "id": "ws",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Apia",
@@ -2459,8 +3295,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "sa.svg"
+    "flags": [
+      {
+        "id": "sa",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Riyadh",
@@ -2477,8 +3319,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "sn.svg"
+    "flags": [
+      {
+        "id": "sn",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Dakar",
@@ -2495,8 +3343,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "rs.svg"
+    "flags": [
+      {
+        "id": "rs",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Belgrade",
@@ -2513,8 +3367,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "vc.svg"
+    "flags": [
+      {
+        "id": "vc",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Kingstown",
@@ -2531,8 +3391,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "sc.svg"
+    "flags": [
+      {
+        "id": "sc",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Victoria",
@@ -2549,8 +3415,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "sl.svg"
+    "flags": [
+      {
+        "id": "sl",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Freetown",
@@ -2567,8 +3439,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "sg.svg"
+    "flags": [
+      {
+        "id": "sg",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Singapore",
@@ -2585,8 +3463,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "sk.svg"
+    "flags": [
+      {
+        "id": "sk",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Bratislava",
@@ -2603,8 +3487,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "si.svg"
+    "flags": [
+      {
+        "id": "si",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Ljubljana",
@@ -2621,8 +3511,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "so.svg"
+    "flags": [
+      {
+        "id": "so",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Mogadishu",
@@ -2639,8 +3535,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "ps.svg"
+    "flags": [
+      {
+        "id": "ps",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Ramallah",
@@ -2657,8 +3559,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "za.svg"
+    "flags": [
+      {
+        "id": "za",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Cape Town",
@@ -2671,16 +3579,26 @@
       "ru": "Южная Корея"
     },
     "aliases": {
-      "en": ["Republic of Korea"],
-      "ru": ["Республика Корея"]
+      "en": [
+        "Republic of Korea"
+      ],
+      "ru": [
+        "Республика Корея"
+      ]
     },
     "code": "KR",
     "region": {
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "kr.svg"
+    "flags": [
+      {
+        "id": "kr",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Seoul",
@@ -2697,8 +3615,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "ss.svg"
+    "flags": [
+      {
+        "id": "ss",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Juba",
@@ -2715,8 +3639,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "es.svg"
+    "flags": [
+      {
+        "id": "es",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Madrid",
@@ -2733,8 +3663,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "lk.svg"
+    "flags": [
+      {
+        "id": "lk",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Sri Jayawardenepura Kotte",
@@ -2751,8 +3687,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "sd.svg"
+    "flags": [
+      {
+        "id": "sd",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Khartoum",
@@ -2769,8 +3711,14 @@
       "en": "South America",
       "ru": "Южная Америка"
     },
-    "flag": [
-      "sr.svg"
+    "flags": [
+      {
+        "id": "sr",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Paramaribo",
@@ -2787,8 +3735,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "se.svg"
+    "flags": [
+      {
+        "id": "se",
+        "aspect_ratio": [
+          8,
+          5
+        ]
+      }
     ],
     "capital_city": {
       "en": "Stockholm",
@@ -2805,8 +3759,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "ch.svg"
+    "flags": [
+      {
+        "id": "ch",
+        "aspect_ratio": [
+          1,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Bern",
@@ -2823,8 +3783,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "st.svg"
+    "flags": [
+      {
+        "id": "st",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "São Tomé",
@@ -2841,8 +3807,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "tj.svg"
+    "flags": [
+      {
+        "id": "tj",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Dushanbe",
@@ -2859,8 +3831,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "tz.svg"
+    "flags": [
+      {
+        "id": "tz",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Dodoma",
@@ -2877,8 +3855,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "th.svg"
+    "flags": [
+      {
+        "id": "th",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Bangkok",
@@ -2895,8 +3879,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "gm.svg"
+    "flags": [
+      {
+        "id": "gm",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Banjul",
@@ -2913,8 +3903,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "tg.svg"
+    "flags": [
+      {
+        "id": "tg",
+        "aspect_ratio": [
+          1920,
+          1187
+        ]
+      }
     ],
     "capital_city": {
       "en": "Lomé",
@@ -2931,8 +3927,14 @@
       "en": "Oceania",
       "ru": "Океания"
     },
-    "flag": [
-      "to.svg"
+    "flags": [
+      {
+        "id": "to",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Nuku'alofa",
@@ -2949,8 +3951,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "xk.svg"
+    "flags": [
+      {
+        "id": "xk",
+        "aspect_ratio": [
+          480,
+          343
+        ]
+      }
     ],
     "capital_city": {
       "en": "Pristina",
@@ -2967,8 +3975,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "tt.svg"
+    "flags": [
+      {
+        "id": "tt",
+        "aspect_ratio": [
+          5,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "Port of Spain",
@@ -2985,8 +3999,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "tn.svg"
+    "flags": [
+      {
+        "id": "tn",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Tunis",
@@ -2999,15 +4019,23 @@
       "ru": "Турция"
     },
     "aliases": {
-      "en": ["Turkey"]
+      "en": [
+        "Turkey"
+      ]
     },
     "code": "TR",
     "region": {
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "tr.svg"
+    "flags": [
+      {
+        "id": "tr",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Ankara",
@@ -3024,8 +4052,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "tm.svg"
+    "flags": [
+      {
+        "id": "tm",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Ashgabat",
@@ -3042,8 +4076,14 @@
       "en": "Oceania",
       "ru": "Океания"
     },
-    "flag": [
-      "tv.svg"
+    "flags": [
+      {
+        "id": "tv",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Funafuti",
@@ -3060,8 +4100,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "ug.svg"
+    "flags": [
+      {
+        "id": "ug",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Kampala",
@@ -3078,8 +4124,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "ua.svg"
+    "flags": [
+      {
+        "id": "ua",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Kyiv",
@@ -3096,8 +4148,14 @@
       "en": "South America",
       "ru": "Южная Америка"
     },
-    "flag": [
-      "uy.svg"
+    "flags": [
+      {
+        "id": "uy",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Montevideo",
@@ -3114,8 +4172,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "uz.svg"
+    "flags": [
+      {
+        "id": "uz",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Tashkent",
@@ -3132,8 +4196,14 @@
       "en": "Oceania",
       "ru": "Океания"
     },
-    "flag": [
-      "vu.svg"
+    "flags": [
+      {
+        "id": "vu",
+        "aspect_ratio": [
+          5,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "Port Vila",
@@ -3146,16 +4216,27 @@
       "ru": "Ватикан"
     },
     "aliases": {
-      "en": ["Vatican City", "Holy See"],
-      "ru": ["Святой Престол"]
+      "en": [
+        "Vatican City",
+        "Holy See"
+      ],
+      "ru": [
+        "Святой Престол"
+      ]
     },
     "code": "VA",
     "region": {
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "va.svg"
+    "flags": [
+      {
+        "id": "va",
+        "aspect_ratio": [
+          1,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Vatican City",
@@ -3172,8 +4253,14 @@
       "en": "South America",
       "ru": "Южная Америка"
     },
-    "flag": [
-      "ve.svg"
+    "flags": [
+      {
+        "id": "ve",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Caracas",
@@ -3190,8 +4277,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "vn.svg"
+    "flags": [
+      {
+        "id": "vn",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Hanoi",
@@ -3208,8 +4301,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "ye.svg"
+    "flags": [
+      {
+        "id": "ye",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Sana'a",
@@ -3226,8 +4325,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "zm.svg"
+    "flags": [
+      {
+        "id": "zm",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Lusaka",
@@ -3244,8 +4349,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "zw.svg"
+    "flags": [
+      {
+        "id": "zw",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Harare",
@@ -3262,8 +4373,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "bs.svg"
+    "flags": [
+      {
+        "id": "bs",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Nassau",
@@ -3280,8 +4397,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "cf.svg"
+    "flags": [
+      {
+        "id": "cf",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Bangui",
@@ -3298,8 +4421,14 @@
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "km.svg"
+    "flags": [
+      {
+        "id": "km",
+        "aspect_ratio": [
+          5,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "Moroni",
@@ -3312,16 +4441,26 @@
       "ru": "Чехия"
     },
     "aliases": {
-      "en": ["Czechia"],
-      "ru": ["Чешская Республика"]
+      "en": [
+        "Czechia"
+      ],
+      "ru": [
+        "Чешская Республика"
+      ]
     },
     "code": "CZ",
     "region": {
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "cz.svg"
+    "flags": [
+      {
+        "id": "cz",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Prague",
@@ -3334,16 +4473,29 @@
       "ru": "Демократическая Республика Конго"
     },
     "aliases": {
-      "en": ["DR Congo", "DRC", "Congo-Kinshasa"],
-      "ru": ["ДР Конго", "Конго-Киншаса"]
+      "en": [
+        "DR Congo",
+        "DRC",
+        "Congo-Kinshasa"
+      ],
+      "ru": [
+        "ДР Конго",
+        "Конго-Киншаса"
+      ]
     },
     "code": "CD",
     "region": {
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "cd.svg"
+    "flags": [
+      {
+        "id": "cd",
+        "aspect_ratio": [
+          4,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "Kinshasa",
@@ -3360,8 +4512,14 @@
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "do.svg"
+    "flags": [
+      {
+        "id": "do",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Santo Domingo",
@@ -3378,8 +4536,14 @@
       "en": "Oceania",
       "ru": "Океания"
     },
-    "flag": [
-      "mh.svg"
+    "flags": [
+      {
+        "id": "mh",
+        "aspect_ratio": [
+          640,
+          337
+        ]
+      }
     ],
     "capital_city": {
       "en": "Majuro",
@@ -3396,8 +4560,14 @@
       "en": "Oceania",
       "ru": "Океания"
     },
-    "flag": [
-      "fm.svg"
+    "flags": [
+      {
+        "id": "fm",
+        "aspect_ratio": [
+          640,
+          337
+        ]
+      }
     ],
     "capital_city": {
       "en": "Palikir",
@@ -3414,8 +4584,14 @@
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "nl.svg"
+    "flags": [
+      {
+        "id": "nl",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Amsterdam",
@@ -3432,8 +4608,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "cn.svg"
+    "flags": [
+      {
+        "id": "cn",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Beijing",
@@ -3450,8 +4632,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "ph.svg"
+    "flags": [
+      {
+        "id": "ph",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Manila",
@@ -3468,8 +4656,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "tw.svg"
+    "flags": [
+      {
+        "id": "tw",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Taipei",
@@ -3482,16 +4676,26 @@
       "ru": "Республика Конго"
     },
     "aliases": {
-      "en": ["Congo-Brazzaville"],
-      "ru": ["Конго-Браззавиль"]
+      "en": [
+        "Congo-Brazzaville"
+      ],
+      "ru": [
+        "Конго-Браззавиль"
+      ]
     },
     "code": "CG",
     "region": {
       "en": "Africa",
       "ru": "Африка"
     },
-    "flag": [
-      "cg.svg"
+    "flags": [
+      {
+        "id": "cg",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Brazzaville",
@@ -3508,8 +4712,14 @@
       "en": "Oceania",
       "ru": "Океания"
     },
-    "flag": [
-      "sb.svg"
+    "flags": [
+      {
+        "id": "sb",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Honiara",
@@ -3522,16 +4732,26 @@
       "ru": "ОАЭ"
     },
     "aliases": {
-      "en": ["UAE"],
-      "ru": ["Объединённые Арабские Эмираты"]
+      "en": [
+        "UAE"
+      ],
+      "ru": [
+        "Объединённые Арабские Эмираты"
+      ]
     },
     "code": "AE",
     "region": {
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "ae.svg"
+    "flags": [
+      {
+        "id": "ae",
+        "aspect_ratio": [
+          2,
+          1
+        ]
+      }
     ],
     "capital_city": {
       "en": "Abu Dhabi",
@@ -3548,8 +4768,14 @@
       "en": "Asia",
       "ru": "Азия"
     },
-    "flag": [
-      "sy.svg"
+    "flags": [
+      {
+        "id": "sy",
+        "aspect_ratio": [
+          3,
+          2
+        ]
+      }
     ],
     "capital_city": {
       "en": "Damascus",
@@ -3562,16 +4788,26 @@
       "ru": "Великобритания"
     },
     "aliases": {
-      "en": ["UK"],
-      "ru": ["Соединённое Королевство"]
+      "en": [
+        "UK"
+      ],
+      "ru": [
+        "Соединённое Королевство"
+      ]
     },
     "code": "GB",
     "region": {
       "en": "Europe",
       "ru": "Европа"
     },
-    "flag": [
-      "gb.svg"
+    "flags": [
+      {
+        "id": "gb",
+        "aspect_ratio": [
+          5,
+          3
+        ]
+      }
     ],
     "capital_city": {
       "en": "London",
@@ -3584,16 +4820,28 @@
       "ru": "США"
     },
     "aliases": {
-      "en": ["USA", "United States of America"],
-      "ru": ["Соединённые Штаты Америки", "Соединённые Штаты"]
+      "en": [
+        "USA",
+        "United States of America"
+      ],
+      "ru": [
+        "Соединённые Штаты Америки",
+        "Соединённые Штаты"
+      ]
     },
     "code": "US",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
     },
-    "flag": [
-      "us.svg"
+    "flags": [
+      {
+        "id": "us",
+        "aspect_ratio": [
+          640,
+          337
+        ]
+      }
     ],
     "capital_city": {
       "en": "Washington, D.C.",

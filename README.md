@@ -22,25 +22,27 @@ Filenames use lowercase two-letter country codes, plus `xk` for Kosovo and `py-r
 
 ## Country metadata
 
-[`countries.json`](countries.json) contains 197 countries with uppercase codes, English and Russian names, English and Russian capitals and regions, and SVG filenames. To fetch a flag, use its filename under the `flags/` directory; for example, `br.svg` is served at `https://cdn.jsdelivr.net/gh/vdistortion/country-flags@0.2.0/flags/br.svg`. Paraguay has two filenames.
+[`countries.json`](countries.json) contains 197 countries with uppercase codes, English and Russian names, capitals and regions, and flag metadata. The following example shows the unreleased catalog format:
 
 ```json
 {
   "name": { "en": "Brazil", "ru": "Бразилия" },
   "code": "BR",
   "region": { "en": "South America", "ru": "Южная Америка" },
-  "flag": ["br.svg"],
+  "flags": [
+    { "id": "br", "aspect_ratio": [10, 7] }
+  ],
   "capital_city": { "en": "Brasília", "ru": "Бразилиа" }
 }
 ```
 
-The JSON is also available through the CDN:
+Each flag `id` is extensionless. Build the SVG URL as `flags/{id}.svg`, relative to `countries.json` at the same version. Paraguay lists both `py` (obverse) and `py-reverse` (reverse).
+
+The published `0.2.0` catalog is also available through the CDN. It still uses `flag`, an array of SVG filenames:
 
 ```text
 https://cdn.jsdelivr.net/gh/vdistortion/country-flags@0.2.0/countries.json
 ```
-
-You can use `@main` instead of a version tag, but the branch can change at any time and is not a reliable version reference. Prepend `flags/` to a filename in the `flag` array when building a CDN URL. Paraguay's array lists both the obverse and reverse SVG filenames.
 
 jsDelivr serves stored files without image resizing. Set SVG display dimensions with HTML/CSS; this does not reduce download size. Smaller raster images would need to be generated and published separately.
 
@@ -49,6 +51,12 @@ jsDelivr serves stored files without image resizing. Set SVG display dimensions 
 Some entries have an optional `aliases` object with alternative names or common abbreviations for search. Each language key (`en` or `ru`) maps to an array of strings and can be omitted if there are no aliases for that language. For example, Türkiye (`TR`) has `"aliases": { "en": ["Turkey"] }`.
 
 Use `name` for display. Aliases are not exhaustive or unique identifiers; use `code` to identify countries. For bilingual search, match against both languages. Normalize case, accents and punctuation in the search itself rather than storing spelling variants that only differ in formatting.
+
+### Flag proportions (unreleased)
+
+Each `aspect_ratio` pair is `[width, height]` reduced to the smallest positive integers. It describes the published SVG's declared dimensions, not a fixed display size or an official flag specification. For example, Nepal's `[50, 61]` can be used as CSS `aspect-ratio: 50 / 61`.
+
+After adding a flag or changing its SVG's declared dimensions, update `aspect_ratio` from the SVG's `width` and `height`, reducing both numbers by their greatest common divisor.
 
 ## Sources and modifications
 
