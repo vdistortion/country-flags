@@ -8,6 +8,7 @@
 - Updated the display names for [Czechia](https://mzv.gov.cz/jnp/en/foreign_relations/public_diplomacy/digital_diplomacy/using_Czechia.html), [Naoero](https://www.un.org/en/about-us/member-states/naoero), and [Timor-Leste in Russian](https://gadebate.un.org/ru/80/timor-leste). Previous display labels remain searchable as aliases.
 - Replaced `capital_city` with `capitals`, an array of city IDs with optional roles and statuses. Added an optional `seat_of_government` for a separately listed administrative center.
 - Moved country names and aliases, region names, and city names into `locales/en.json` and `locales/ru.json`. Load a locale from the same version as the language-independent catalog.
+- Added JSON schemas for the country catalog and locale files.
 
 ## 0.2.0 — 2026-11-15
 

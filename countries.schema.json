@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Country flags catalog",
+  "type": "array",
+  "minItems": 1,
+  "items": {
+    "type": "object",
+    "required": ["code", "region_code", "flags", "capitals"],
+    "additionalProperties": false,
+    "properties": {
+      "code": {
+        "type": "string",
+        "pattern": "^[A-Z]{2}$"
+      },
+      "region_code": {
+        "enum": ["africa", "asia", "europe", "north_america", "oceania", "south_america"]
+      },
+      "flags": {
+        "type": "array",
+        "minItems": 1,
+        "items": {
+          "$ref": "#/$defs/flag"
+        }
+      },
+      "capitals": {
+        "type": "array",
+        "items": {
+          "$ref": "#/$defs/capital"
+        }
+      },
+      "seat_of_government": {
+        "$ref": "#/$defs/cityId"
+      }
+    }
+  },
+  "$defs": {
+    "cityId": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:_[a-z0-9]+)*$"
+    },
+    "flag": {
+      "type": "object",
+      "required": ["id", "aspect_ratio"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[a-z]{2}(?:-[a-z0-9]+)*$"
+        },
+        "aspect_ratio": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 2,
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          }
+        }
+      }
+    },
+    "capital": {
+      "type": "object",
+      "required": ["id"],
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "$ref": "#/$defs/cityId"
+        },
+        "role": {
+          "enum": ["administrative", "legislative", "judicial"]
+        },
+        "status": {
+          "enum": ["de_facto", "proclaimed", "claimed"]
+        }
+      }
+    }
+  }
+}

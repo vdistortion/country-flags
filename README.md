@@ -96,6 +96,12 @@ Each `aspect_ratio` pair is `[width, height]` reduced to the smallest positive i
 
 After adding a flag or changing its SVG's declared dimensions, update `aspect_ratio` from the SVG's `width` and `height`, reducing both numbers by their greatest common divisor.
 
+### JSON schemas (unreleased)
+
+Use [`countries.schema.json`](countries.schema.json) for `countries.json` and [`locales/locale.schema.json`](locales/locale.schema.json) for each locale. Both use JSON Schema Draft 2020-12 and can be associated with the data files in an editor or used by a validator.
+
+The schemas validate individual files, not cross-file references, uniqueness of country codes and flag IDs, or whether aspect ratios match the SVG dimensions.
+
 ## Sources and modifications
 
 182 files were obtained from Wikimedia Commons, 11 from FlagCDN, and 5 from `hampusborgos/country-flags`. The latter sources also distribute artwork originating elsewhere.

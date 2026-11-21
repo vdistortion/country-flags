@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Country flags locale",
+  "type": "object",
+  "required": ["countries", "regions", "cities"],
+  "additionalProperties": false,
+  "properties": {
+    "countries": {
+      "type": "object",
+      "propertyNames": {
+        "pattern": "^[A-Z]{2}$"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "required": ["name"],
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "$ref": "#/$defs/label"
+          },
+          "aliases": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": {
+              "$ref": "#/$defs/label"
+            }
+          }
+        }
+      }
+    },
+    "regions": {
+      "$ref": "#/$defs/labelsById"
+    },
+    "cities": {
+      "$ref": "#/$defs/labelsById"
+    }
+  },
+  "$defs": {
+    "label": {
+      "type": "string",
+      "pattern": "\\S"
+    },
+    "labelsById": {
+      "type": "object",
+      "propertyNames": {
+        "pattern": "^[a-z0-9]+(?:_[a-z0-9]+)*$"
+      },
+      "additionalProperties": {
+        "$ref": "#/$defs/label"
+      }
+    }
+  }
+}
