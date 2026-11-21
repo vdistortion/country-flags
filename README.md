@@ -22,19 +22,17 @@ Filenames use lowercase two-letter country codes, plus `xk` for Kosovo and `py-r
 
 ## Country metadata
 
-[`countries.json`](countries.json) contains 197 countries with uppercase codes, English and Russian names, capitals and regions, and flag metadata. The following example shows the unreleased catalog format:
+[`countries.json`](countries.json) contains language-independent data for 197 countries: country and region codes, flag metadata, and city IDs with capital roles and statuses. The following example shows the unreleased catalog format:
 
 ```json
 {
-  "name": { "en": "Brazil", "ru": "Бразилия" },
   "code": "BR",
   "region_code": "south_america",
-  "region": { "en": "South America", "ru": "Южная Америка" },
   "flags": [
     { "id": "br", "aspect_ratio": [10, 7] }
   ],
   "capitals": [
-    { "name": { "en": "Brasília", "ru": "Бразилиа" } }
+    { "id": "brasilia" }
   ]
 }
 ```
@@ -49,11 +47,25 @@ https://cdn.jsdelivr.net/gh/vdistortion/country-flags@0.2.0/countries.json
 
 jsDelivr serves stored files without image resizing. Set SVG display dimensions with HTML/CSS; this does not reduce download size. Smaller raster images would need to be generated and published separately.
 
+### Locales (unreleased)
+
+Load [`locales/en.json`](locales/en.json) or [`locales/ru.json`](locales/ru.json) from the same catalog version. Each file provides country names and aliases by country code, region names by region code, and city names by city ID:
+
+```json
+{
+  "countries": { "BR": { "name": "Бразилия" } },
+  "regions": { "south_america": "Южная Америка" },
+  "cities": { "brasilia": "Бразилиа" }
+}
+```
+
+Use IDs as lookup keys, not as display labels. Keep existing IDs when changing a translation or spelling. Consumers that support a partial locale can fall back to the English dictionary for missing names. Labels for capital roles and statuses are up to the consumer.
+
 ### Capitals (unreleased)
 
-`capitals` is always an array. Each entry has a localized `name` and may have a `role` (`administrative`, `legislative`, `judicial`) or a `status` (`de_facto`, `proclaimed`, `claimed`). Status describes how the city is treated as a capital, independently of the functions it serves. The array is not ranked.
+`capitals` is always an array. Each entry has a city `id` from the `cities` dictionary and may have a `role` (`administrative`, `legislative`, `judicial`) or a `status` (`de_facto`, `proclaimed`, `claimed`). Status describes how the city is treated as a capital, independently of the functions it serves. The array is not ranked.
 
-`seat_of_government` is an optional localized name for a separately listed seat of government or administrative center. For example, the Netherlands lists Amsterdam as its capital and The Hague as its seat of government. Naoero has an empty `capitals` array and lists Yaren District separately. Palestine lists East Jerusalem as its claimed capital and Ramallah as the administrative center of the Palestinian Authority. Yemen lists Sana'a as its capital and [Aden as the interim seat of its internationally recognized government](https://transcripts.un.org/en/sc/10090).
+`seat_of_government` is an optional city ID for a separately listed seat of government or administrative center. For example, the Netherlands lists Amsterdam as its capital and The Hague as its seat of government. Naoero has an empty `capitals` array and lists Yaren District separately. Palestine lists East Jerusalem as its claimed capital and Ramallah as the administrative center of the Palestinian Authority. Yemen lists Sana'a as its capital and [Aden as the interim seat of its internationally recognized government](https://transcripts.un.org/en/sc/10090).
 
 For display and search, use the names of all listed cities, keeping the government seat distinct from the capital. For a quiz that expects one unqualified answer, a conservative starting point is to use only countries with one capital, no explicit role or status, and no separate government seat.
 
@@ -61,7 +73,7 @@ References for special cases include the [South African government](https://www.
 
 ### Region keys (unreleased)
 
-Use `region_code` for filtering and grouping, and `region.en` or `region.ru` for display. Region keys are catalog identifiers independent of the display labels, not ISO or UN M49 codes. The catalog assigns each country to one region; these assignments reflect the catalog's own grouping.
+Use `region_code` for filtering and grouping, and look up the display name in the locale's `regions` dictionary. Region keys are catalog identifiers, not ISO or UN M49 codes. The catalog assigns each country to one of six regions; these assignments reflect the catalog's own grouping.
 
 | `region_code` | English | Russian |
 | --- | --- | --- |
@@ -74,7 +86,7 @@ Use `region_code` for filtering and grouping, and `region.en` or `region.ru` for
 
 ### Search aliases (unreleased)
 
-Some entries have an optional `aliases` object with alternative names or common abbreviations for search. Each language key (`en` or `ru`) maps to an array of strings and can be omitted if there are no aliases for that language. For example, Türkiye (`TR`) has `"aliases": { "en": ["Turkey"] }`.
+Some country entries in a locale have an optional `aliases` array with alternative names or common abbreviations for search. For example, Türkiye (`TR`) has `"aliases": ["Turkey"]` in the English locale.
 
 Use `name` for display. Aliases are not exhaustive or unique identifiers; use `code` to identify countries. For bilingual search, match against both languages. Normalize case, accents and punctuation in the search itself rather than storing spelling variants that only differ in formatting.
 

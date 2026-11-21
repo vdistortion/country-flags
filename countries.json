@@ -1,15 +1,7 @@
 [
   {
-    "name": {
-      "en": "Afghanistan",
-      "ru": "Афганистан"
-    },
     "code": "AF",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "af",
@@ -21,24 +13,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Kabul",
-          "ru": "Кабул"
-        }
+        "id": "kabul"
       }
     ]
   },
   {
-    "name": {
-      "en": "Algeria",
-      "ru": "Алжир"
-    },
     "code": "DZ",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "dz",
@@ -50,24 +31,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Algiers",
-          "ru": "Алжир"
-        }
+        "id": "algiers"
       }
     ]
   },
   {
-    "name": {
-      "en": "Albania",
-      "ru": "Албания"
-    },
     "code": "AL",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "al",
@@ -79,24 +49,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Tirana",
-          "ru": "Тирана"
-        }
+        "id": "tirana"
       }
     ]
   },
   {
-    "name": {
-      "en": "Andorra",
-      "ru": "Андорра"
-    },
     "code": "AD",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "ad",
@@ -108,24 +67,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Andorra la Vella",
-          "ru": "Андорра-ла-Велья"
-        }
+        "id": "andorra_la_vella"
       }
     ]
   },
   {
-    "name": {
-      "en": "Angola",
-      "ru": "Ангола"
-    },
     "code": "AO",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "ao",
@@ -137,24 +85,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Luanda",
-          "ru": "Луанда"
-        }
+        "id": "luanda"
       }
     ]
   },
   {
-    "name": {
-      "en": "Antigua and Barbuda",
-      "ru": "Антигуа и Барбуда"
-    },
     "code": "AG",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "ag",
@@ -166,24 +103,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "St. John's",
-          "ru": "Сент-Джонс"
-        }
+        "id": "st_john_s"
       }
     ]
   },
   {
-    "name": {
-      "en": "Argentina",
-      "ru": "Аргентина"
-    },
     "code": "AR",
     "region_code": "south_america",
-    "region": {
-      "en": "South America",
-      "ru": "Южная Америка"
-    },
     "flags": [
       {
         "id": "ar",
@@ -195,24 +121,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Buenos Aires",
-          "ru": "Буэнос-Айрес"
-        }
+        "id": "buenos_aires"
       }
     ]
   },
   {
-    "name": {
-      "en": "Armenia",
-      "ru": "Армения"
-    },
     "code": "AM",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "am",
@@ -224,24 +139,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Yerevan",
-          "ru": "Ереван"
-        }
+        "id": "yerevan"
       }
     ]
   },
   {
-    "name": {
-      "en": "Australia",
-      "ru": "Австралия"
-    },
     "code": "AU",
     "region_code": "oceania",
-    "region": {
-      "en": "Oceania",
-      "ru": "Океания"
-    },
     "flags": [
       {
         "id": "au",
@@ -253,24 +157,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Canberra",
-          "ru": "Канберра"
-        }
+        "id": "canberra"
       }
     ]
   },
   {
-    "name": {
-      "en": "Austria",
-      "ru": "Австрия"
-    },
     "code": "AT",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "at",
@@ -282,24 +175,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Vienna",
-          "ru": "Вена"
-        }
+        "id": "vienna"
       }
     ]
   },
   {
-    "name": {
-      "en": "Azerbaijan",
-      "ru": "Азербайджан"
-    },
     "code": "AZ",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "az",
@@ -311,24 +193,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Baku",
-          "ru": "Баку"
-        }
+        "id": "baku"
       }
     ]
   },
   {
-    "name": {
-      "en": "Bahrain",
-      "ru": "Бахрейн"
-    },
     "code": "BH",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "bh",
@@ -340,24 +211,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Manama",
-          "ru": "Манама"
-        }
+        "id": "manama"
       }
     ]
   },
   {
-    "name": {
-      "en": "Bangladesh",
-      "ru": "Бангладеш"
-    },
     "code": "BD",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "bd",
@@ -369,24 +229,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Dhaka",
-          "ru": "Дакка"
-        }
+        "id": "dhaka"
       }
     ]
   },
   {
-    "name": {
-      "en": "Barbados",
-      "ru": "Барбадос"
-    },
     "code": "BB",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "bb",
@@ -398,24 +247,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Bridgetown",
-          "ru": "Бриджтаун"
-        }
+        "id": "bridgetown"
       }
     ]
   },
   {
-    "name": {
-      "en": "Belarus",
-      "ru": "Беларусь"
-    },
     "code": "BY",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "by",
@@ -427,24 +265,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Minsk",
-          "ru": "Минск"
-        }
+        "id": "minsk"
       }
     ]
   },
   {
-    "name": {
-      "en": "Belgium",
-      "ru": "Бельгия"
-    },
     "code": "BE",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "be",
@@ -456,24 +283,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Brussels",
-          "ru": "Брюссель"
-        }
+        "id": "brussels"
       }
     ]
   },
   {
-    "name": {
-      "en": "Belize",
-      "ru": "Белиз"
-    },
     "code": "BZ",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "bz",
@@ -485,24 +301,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Belmopan",
-          "ru": "Бельмопан"
-        }
+        "id": "belmopan"
       }
     ]
   },
   {
-    "name": {
-      "en": "Benin",
-      "ru": "Бенин"
-    },
     "code": "BJ",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "bj",
@@ -514,28 +319,14 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Porto-Novo",
-          "ru": "Порто-Ново"
-        }
+        "id": "porto_novo"
       }
     ],
-    "seat_of_government": {
-      "en": "Cotonou",
-      "ru": "Котону"
-    }
+    "seat_of_government": "cotonou"
   },
   {
-    "name": {
-      "en": "Bhutan",
-      "ru": "Бутан"
-    },
     "code": "BT",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "bt",
@@ -547,24 +338,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Thimphu",
-          "ru": "Тхимпху"
-        }
+        "id": "thimphu"
       }
     ]
   },
   {
-    "name": {
-      "en": "Bolivia",
-      "ru": "Боливия"
-    },
     "code": "BO",
     "region_code": "south_america",
-    "region": {
-      "en": "South America",
-      "ru": "Южная Америка"
-    },
     "flags": [
       {
         "id": "bo",
@@ -576,28 +356,14 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Sucre",
-          "ru": "Сукре"
-        }
+        "id": "sucre"
       }
     ],
-    "seat_of_government": {
-      "en": "La Paz",
-      "ru": "Ла-Пас"
-    }
+    "seat_of_government": "la_paz"
   },
   {
-    "name": {
-      "en": "Bosnia and Herzegovina",
-      "ru": "Босния и Герцеговина"
-    },
     "code": "BA",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "ba",
@@ -609,24 +375,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Sarajevo",
-          "ru": "Сараево"
-        }
+        "id": "sarajevo"
       }
     ]
   },
   {
-    "name": {
-      "en": "Botswana",
-      "ru": "Ботсвана"
-    },
     "code": "BW",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "bw",
@@ -638,24 +393,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Gaborone",
-          "ru": "Габороне"
-        }
+        "id": "gaborone"
       }
     ]
   },
   {
-    "name": {
-      "en": "Brazil",
-      "ru": "Бразилия"
-    },
     "code": "BR",
     "region_code": "south_america",
-    "region": {
-      "en": "South America",
-      "ru": "Южная Америка"
-    },
     "flags": [
       {
         "id": "br",
@@ -667,24 +411,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Brasília",
-          "ru": "Бразилиа"
-        }
+        "id": "brasilia"
       }
     ]
   },
   {
-    "name": {
-      "en": "Brunei",
-      "ru": "Бруней"
-    },
     "code": "BN",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "bn",
@@ -696,24 +429,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Bandar Seri Begawan",
-          "ru": "Бандар-Сери-Бегаван"
-        }
+        "id": "bandar_seri_begawan"
       }
     ]
   },
   {
-    "name": {
-      "en": "Bulgaria",
-      "ru": "Болгария"
-    },
     "code": "BG",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "bg",
@@ -725,24 +447,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Sofia",
-          "ru": "София"
-        }
+        "id": "sofia"
       }
     ]
   },
   {
-    "name": {
-      "en": "Burkina Faso",
-      "ru": "Буркина-Фасо"
-    },
     "code": "BF",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "bf",
@@ -754,24 +465,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Ouagadougou",
-          "ru": "Уагадугу"
-        }
+        "id": "ouagadougou"
       }
     ]
   },
   {
-    "name": {
-      "en": "Burundi",
-      "ru": "Бурунди"
-    },
     "code": "BI",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "bi",
@@ -783,24 +483,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Gitega",
-          "ru": "Гитега"
-        }
+        "id": "gitega"
       }
     ]
   },
   {
-    "name": {
-      "en": "Cambodia",
-      "ru": "Камбоджа"
-    },
     "code": "KH",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "kh",
@@ -812,24 +501,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Phnom Penh",
-          "ru": "Пномпень"
-        }
+        "id": "phnom_penh"
       }
     ]
   },
   {
-    "name": {
-      "en": "Cameroon",
-      "ru": "Камерун"
-    },
     "code": "CM",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "cm",
@@ -841,24 +519,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Yaoundé",
-          "ru": "Яунде"
-        }
+        "id": "yaounde"
       }
     ]
   },
   {
-    "name": {
-      "en": "Canada",
-      "ru": "Канада"
-    },
     "code": "CA",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "ca",
@@ -870,29 +537,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Ottawa",
-          "ru": "Оттава"
-        }
+        "id": "ottawa"
       }
     ]
   },
   {
-    "name": {
-      "en": "Cabo Verde",
-      "ru": "Кабо-Верде"
-    },
-    "aliases": {
-      "en": [
-        "Cape Verde"
-      ]
-    },
     "code": "CV",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "cv",
@@ -904,24 +555,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Praia",
-          "ru": "Прая"
-        }
+        "id": "praia"
       }
     ]
   },
   {
-    "name": {
-      "en": "Chad",
-      "ru": "Чад"
-    },
     "code": "TD",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "td",
@@ -933,24 +573,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "N'Djamena",
-          "ru": "Нджамена"
-        }
+        "id": "n_djamena"
       }
     ]
   },
   {
-    "name": {
-      "en": "Chile",
-      "ru": "Чили"
-    },
     "code": "CL",
     "region_code": "south_america",
-    "region": {
-      "en": "South America",
-      "ru": "Южная Америка"
-    },
     "flags": [
       {
         "id": "cl",
@@ -962,24 +591,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Santiago",
-          "ru": "Сантьяго"
-        }
+        "id": "santiago"
       }
     ]
   },
   {
-    "name": {
-      "en": "Colombia",
-      "ru": "Колумбия"
-    },
     "code": "CO",
     "region_code": "south_america",
-    "region": {
-      "en": "South America",
-      "ru": "Южная Америка"
-    },
     "flags": [
       {
         "id": "co",
@@ -991,24 +609,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Bogotá",
-          "ru": "Богота"
-        }
+        "id": "bogota"
       }
     ]
   },
   {
-    "name": {
-      "en": "Costa Rica",
-      "ru": "Коста-Рика"
-    },
     "code": "CR",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "cr",
@@ -1020,24 +627,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "San José",
-          "ru": "Сан-Хосе"
-        }
+        "id": "san_jose"
       }
     ]
   },
   {
-    "name": {
-      "en": "Croatia",
-      "ru": "Хорватия"
-    },
     "code": "HR",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "hr",
@@ -1049,24 +645,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Zagreb",
-          "ru": "Загреб"
-        }
+        "id": "zagreb"
       }
     ]
   },
   {
-    "name": {
-      "en": "Cuba",
-      "ru": "Куба"
-    },
     "code": "CU",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "cu",
@@ -1078,32 +663,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Havana",
-          "ru": "Гавана"
-        }
+        "id": "havana"
       }
     ]
   },
   {
-    "name": {
-      "en": "Côte d’Ivoire",
-      "ru": "Кот-д’Ивуар"
-    },
-    "aliases": {
-      "en": [
-        "Ivory Coast"
-      ],
-      "ru": [
-        "Берег Слоновой Кости"
-      ]
-    },
     "code": "CI",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "ci",
@@ -1115,24 +681,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Yamoussoukro",
-          "ru": "Ямусукро"
-        }
+        "id": "yamoussoukro"
       }
     ]
   },
   {
-    "name": {
-      "en": "Cyprus",
-      "ru": "Кипр"
-    },
     "code": "CY",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "cy",
@@ -1144,24 +699,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Nicosia",
-          "ru": "Никосия"
-        }
+        "id": "nicosia"
       }
     ]
   },
   {
-    "name": {
-      "en": "Denmark",
-      "ru": "Дания"
-    },
     "code": "DK",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "dk",
@@ -1173,24 +717,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Copenhagen",
-          "ru": "Копенгаген"
-        }
+        "id": "copenhagen"
       }
     ]
   },
   {
-    "name": {
-      "en": "Djibouti",
-      "ru": "Джибути"
-    },
     "code": "DJ",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "dj",
@@ -1202,24 +735,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Djibouti",
-          "ru": "Джибути"
-        }
+        "id": "djibouti"
       }
     ]
   },
   {
-    "name": {
-      "en": "Dominica",
-      "ru": "Доминика"
-    },
     "code": "DM",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "dm",
@@ -1231,32 +753,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Roseau",
-          "ru": "Розо"
-        }
+        "id": "roseau"
       }
     ]
   },
   {
-    "name": {
-      "en": "Timor-Leste",
-      "ru": "Тимор-Лешти"
-    },
-    "aliases": {
-      "en": [
-        "East Timor"
-      ],
-      "ru": [
-        "Восточный Тимор"
-      ]
-    },
     "code": "TL",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "tl",
@@ -1268,24 +771,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Dili",
-          "ru": "Дили"
-        }
+        "id": "dili"
       }
     ]
   },
   {
-    "name": {
-      "en": "Ecuador",
-      "ru": "Эквадор"
-    },
     "code": "EC",
     "region_code": "south_america",
-    "region": {
-      "en": "South America",
-      "ru": "Южная Америка"
-    },
     "flags": [
       {
         "id": "ec",
@@ -1297,24 +789,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Quito",
-          "ru": "Кито"
-        }
+        "id": "quito"
       }
     ]
   },
   {
-    "name": {
-      "en": "Egypt",
-      "ru": "Египет"
-    },
     "code": "EG",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "eg",
@@ -1326,24 +807,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Cairo",
-          "ru": "Каир"
-        }
+        "id": "cairo"
       }
     ]
   },
   {
-    "name": {
-      "en": "El Salvador",
-      "ru": "Сальвадор"
-    },
     "code": "SV",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "sv",
@@ -1355,24 +825,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "San Salvador",
-          "ru": "Сан-Сальвадор"
-        }
+        "id": "san_salvador"
       }
     ]
   },
   {
-    "name": {
-      "en": "Equatorial Guinea",
-      "ru": "Экваториальная Гвинея"
-    },
     "code": "GQ",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "gq",
@@ -1384,24 +843,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Ciudad de la Paz",
-          "ru": "Сьюдад-де-ла-Пас"
-        }
+        "id": "ciudad_de_la_paz"
       }
     ]
   },
   {
-    "name": {
-      "en": "Eritrea",
-      "ru": "Эритрея"
-    },
     "code": "ER",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "er",
@@ -1413,24 +861,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Asmara",
-          "ru": "Асмэра"
-        }
+        "id": "asmara"
       }
     ]
   },
   {
-    "name": {
-      "en": "Estonia",
-      "ru": "Эстония"
-    },
     "code": "EE",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "ee",
@@ -1442,24 +879,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Tallinn",
-          "ru": "Таллин"
-        }
+        "id": "tallinn"
       }
     ]
   },
   {
-    "name": {
-      "en": "Eswatini",
-      "ru": "Эсватини"
-    },
     "code": "SZ",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "sz",
@@ -1471,32 +897,18 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Mbabane",
-          "ru": "Мбабане"
-        },
+        "id": "mbabane",
         "role": "administrative"
       },
       {
-        "name": {
-          "en": "Lobamba",
-          "ru": "Лобамба"
-        },
+        "id": "lobamba",
         "role": "legislative"
       }
     ]
   },
   {
-    "name": {
-      "en": "Ethiopia",
-      "ru": "Эфиопия"
-    },
     "code": "ET",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "et",
@@ -1508,24 +920,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Addis Ababa",
-          "ru": "Аддис-Абеба"
-        }
+        "id": "addis_ababa"
       }
     ]
   },
   {
-    "name": {
-      "en": "Fiji",
-      "ru": "Фиджи"
-    },
     "code": "FJ",
     "region_code": "oceania",
-    "region": {
-      "en": "Oceania",
-      "ru": "Океания"
-    },
     "flags": [
       {
         "id": "fj",
@@ -1537,24 +938,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Suva",
-          "ru": "Сува"
-        }
+        "id": "suva"
       }
     ]
   },
   {
-    "name": {
-      "en": "Finland",
-      "ru": "Финляндия"
-    },
     "code": "FI",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "fi",
@@ -1566,24 +956,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Helsinki",
-          "ru": "Хельсинки"
-        }
+        "id": "helsinki"
       }
     ]
   },
   {
-    "name": {
-      "en": "France",
-      "ru": "Франция"
-    },
     "code": "FR",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "fr",
@@ -1595,24 +974,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Paris",
-          "ru": "Париж"
-        }
+        "id": "paris"
       }
     ]
   },
   {
-    "name": {
-      "en": "Gabon",
-      "ru": "Габон"
-    },
     "code": "GA",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "ga",
@@ -1624,24 +992,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Libreville",
-          "ru": "Либревиль"
-        }
+        "id": "libreville"
       }
     ]
   },
   {
-    "name": {
-      "en": "Georgia",
-      "ru": "Грузия"
-    },
     "code": "GE",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "ge",
@@ -1653,24 +1010,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Tbilisi",
-          "ru": "Тбилиси"
-        }
+        "id": "tbilisi"
       }
     ]
   },
   {
-    "name": {
-      "en": "Germany",
-      "ru": "Германия"
-    },
     "code": "DE",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "de",
@@ -1682,24 +1028,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Berlin",
-          "ru": "Берлин"
-        }
+        "id": "berlin"
       }
     ]
   },
   {
-    "name": {
-      "en": "Ghana",
-      "ru": "Гана"
-    },
     "code": "GH",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "gh",
@@ -1711,24 +1046,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Accra",
-          "ru": "Аккра"
-        }
+        "id": "accra"
       }
     ]
   },
   {
-    "name": {
-      "en": "Greece",
-      "ru": "Греция"
-    },
     "code": "GR",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "gr",
@@ -1740,24 +1064,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Athens",
-          "ru": "Афины"
-        }
+        "id": "athens"
       }
     ]
   },
   {
-    "name": {
-      "en": "Grenada",
-      "ru": "Гренада"
-    },
     "code": "GD",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "gd",
@@ -1769,24 +1082,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "St. George's",
-          "ru": "Сент-Джорджес"
-        }
+        "id": "st_george_s"
       }
     ]
   },
   {
-    "name": {
-      "en": "Guatemala",
-      "ru": "Гватемала"
-    },
     "code": "GT",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "gt",
@@ -1798,24 +1100,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Guatemala City",
-          "ru": "Гватемала"
-        }
+        "id": "guatemala_city"
       }
     ]
   },
   {
-    "name": {
-      "en": "Guinea-Bissau",
-      "ru": "Гвинея-Бисау"
-    },
     "code": "GW",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "gw",
@@ -1827,24 +1118,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Bissau",
-          "ru": "Бисау"
-        }
+        "id": "bissau"
       }
     ]
   },
   {
-    "name": {
-      "en": "Guinea",
-      "ru": "Гвинея"
-    },
     "code": "GN",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "gn",
@@ -1856,24 +1136,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Conakry",
-          "ru": "Конакри"
-        }
+        "id": "conakry"
       }
     ]
   },
   {
-    "name": {
-      "en": "Guyana",
-      "ru": "Гайана"
-    },
     "code": "GY",
     "region_code": "south_america",
-    "region": {
-      "en": "South America",
-      "ru": "Южная Америка"
-    },
     "flags": [
       {
         "id": "gy",
@@ -1885,24 +1154,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Georgetown",
-          "ru": "Джорджтаун"
-        }
+        "id": "georgetown"
       }
     ]
   },
   {
-    "name": {
-      "en": "Haiti",
-      "ru": "Гаити"
-    },
     "code": "HT",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "ht",
@@ -1914,24 +1172,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Port-au-Prince",
-          "ru": "Порт-о-Пренс"
-        }
+        "id": "port_au_prince"
       }
     ]
   },
   {
-    "name": {
-      "en": "Honduras",
-      "ru": "Гондурас"
-    },
     "code": "HN",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "hn",
@@ -1943,24 +1190,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Tegucigalpa",
-          "ru": "Тегусигальпа"
-        }
+        "id": "tegucigalpa"
       }
     ]
   },
   {
-    "name": {
-      "en": "Hungary",
-      "ru": "Венгрия"
-    },
     "code": "HU",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "hu",
@@ -1972,24 +1208,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Budapest",
-          "ru": "Будапешт"
-        }
+        "id": "budapest"
       }
     ]
   },
   {
-    "name": {
-      "en": "Iceland",
-      "ru": "Исландия"
-    },
     "code": "IS",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "is",
@@ -2001,24 +1226,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Reykjavik",
-          "ru": "Рейкьявик"
-        }
+        "id": "reykjavik"
       }
     ]
   },
   {
-    "name": {
-      "en": "India",
-      "ru": "Индия"
-    },
     "code": "IN",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "in",
@@ -2030,24 +1244,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "New Delhi",
-          "ru": "Нью-Дели"
-        }
+        "id": "new_delhi"
       }
     ]
   },
   {
-    "name": {
-      "en": "Indonesia",
-      "ru": "Индонезия"
-    },
     "code": "ID",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "id",
@@ -2059,24 +1262,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Jakarta",
-          "ru": "Джакарта"
-        }
+        "id": "jakarta"
       }
     ]
   },
   {
-    "name": {
-      "en": "Iran",
-      "ru": "Иран"
-    },
     "code": "IR",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "ir",
@@ -2088,24 +1280,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Tehran",
-          "ru": "Тегеран"
-        }
+        "id": "tehran"
       }
     ]
   },
   {
-    "name": {
-      "en": "Iraq",
-      "ru": "Ирак"
-    },
     "code": "IQ",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "iq",
@@ -2117,24 +1298,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Baghdad",
-          "ru": "Багдад"
-        }
+        "id": "baghdad"
       }
     ]
   },
   {
-    "name": {
-      "en": "Ireland",
-      "ru": "Ирландия"
-    },
     "code": "IE",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "ie",
@@ -2146,24 +1316,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Dublin",
-          "ru": "Дублин"
-        }
+        "id": "dublin"
       }
     ]
   },
   {
-    "name": {
-      "en": "Israel",
-      "ru": "Израиль"
-    },
     "code": "IL",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "il",
@@ -2175,25 +1334,14 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Jerusalem",
-          "ru": "Иерусалим"
-        },
+        "id": "jerusalem",
         "status": "proclaimed"
       }
     ]
   },
   {
-    "name": {
-      "en": "Italy",
-      "ru": "Италия"
-    },
     "code": "IT",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "it",
@@ -2205,24 +1353,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Rome",
-          "ru": "Рим"
-        }
+        "id": "rome"
       }
     ]
   },
   {
-    "name": {
-      "en": "Jamaica",
-      "ru": "Ямайка"
-    },
     "code": "JM",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "jm",
@@ -2234,24 +1371,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Kingston",
-          "ru": "Кингстон"
-        }
+        "id": "kingston"
       }
     ]
   },
   {
-    "name": {
-      "en": "Japan",
-      "ru": "Япония"
-    },
     "code": "JP",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "jp",
@@ -2263,24 +1389,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Tokyo",
-          "ru": "Токио"
-        }
+        "id": "tokyo"
       }
     ]
   },
   {
-    "name": {
-      "en": "Jordan",
-      "ru": "Иордания"
-    },
     "code": "JO",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "jo",
@@ -2292,24 +1407,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Amman",
-          "ru": "Амман"
-        }
+        "id": "amman"
       }
     ]
   },
   {
-    "name": {
-      "en": "Kazakhstan",
-      "ru": "Казахстан"
-    },
     "code": "KZ",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "kz",
@@ -2321,24 +1425,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Astana",
-          "ru": "Астана"
-        }
+        "id": "astana"
       }
     ]
   },
   {
-    "name": {
-      "en": "Kenya",
-      "ru": "Кения"
-    },
     "code": "KE",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "ke",
@@ -2350,24 +1443,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Nairobi",
-          "ru": "Найроби"
-        }
+        "id": "nairobi"
       }
     ]
   },
   {
-    "name": {
-      "en": "Kiribati",
-      "ru": "Кирибати"
-    },
     "code": "KI",
     "region_code": "oceania",
-    "region": {
-      "en": "Oceania",
-      "ru": "Океания"
-    },
     "flags": [
       {
         "id": "ki",
@@ -2379,24 +1461,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "South Tarawa",
-          "ru": "Южная Тарава"
-        }
+        "id": "south_tarawa"
       }
     ]
   },
   {
-    "name": {
-      "en": "Kuwait",
-      "ru": "Кувейт"
-    },
     "code": "KW",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "kw",
@@ -2408,24 +1479,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Kuwait City",
-          "ru": "Эль-Кувейт"
-        }
+        "id": "kuwait_city"
       }
     ]
   },
   {
-    "name": {
-      "en": "Kyrgyzstan",
-      "ru": "Кыргызстан"
-    },
     "code": "KG",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "kg",
@@ -2437,24 +1497,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Bishkek",
-          "ru": "Бишкек"
-        }
+        "id": "bishkek"
       }
     ]
   },
   {
-    "name": {
-      "en": "Laos",
-      "ru": "Лаос"
-    },
     "code": "LA",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "la",
@@ -2466,24 +1515,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Vientiane",
-          "ru": "Вьентьян"
-        }
+        "id": "vientiane"
       }
     ]
   },
   {
-    "name": {
-      "en": "Latvia",
-      "ru": "Латвия"
-    },
     "code": "LV",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "lv",
@@ -2495,24 +1533,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Riga",
-          "ru": "Рига"
-        }
+        "id": "riga"
       }
     ]
   },
   {
-    "name": {
-      "en": "Lebanon",
-      "ru": "Ливан"
-    },
     "code": "LB",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "lb",
@@ -2524,24 +1551,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Beirut",
-          "ru": "Бейрут"
-        }
+        "id": "beirut"
       }
     ]
   },
   {
-    "name": {
-      "en": "Lesotho",
-      "ru": "Лесото"
-    },
     "code": "LS",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "ls",
@@ -2553,24 +1569,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Maseru",
-          "ru": "Масеру"
-        }
+        "id": "maseru"
       }
     ]
   },
   {
-    "name": {
-      "en": "Liberia",
-      "ru": "Либерия"
-    },
     "code": "LR",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "lr",
@@ -2582,24 +1587,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Monrovia",
-          "ru": "Монровия"
-        }
+        "id": "monrovia"
       }
     ]
   },
   {
-    "name": {
-      "en": "Libya",
-      "ru": "Ливия"
-    },
     "code": "LY",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "ly",
@@ -2611,24 +1605,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Tripoli",
-          "ru": "Триполи"
-        }
+        "id": "tripoli"
       }
     ]
   },
   {
-    "name": {
-      "en": "Liechtenstein",
-      "ru": "Лихтенштейн"
-    },
     "code": "LI",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "li",
@@ -2640,24 +1623,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Vaduz",
-          "ru": "Вадуц"
-        }
+        "id": "vaduz"
       }
     ]
   },
   {
-    "name": {
-      "en": "Lithuania",
-      "ru": "Литва"
-    },
     "code": "LT",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "lt",
@@ -2669,24 +1641,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Vilnius",
-          "ru": "Вильнюс"
-        }
+        "id": "vilnius"
       }
     ]
   },
   {
-    "name": {
-      "en": "Luxembourg",
-      "ru": "Люксембург"
-    },
     "code": "LU",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "lu",
@@ -2698,24 +1659,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Luxembourg",
-          "ru": "Люксембург"
-        }
+        "id": "luxembourg"
       }
     ]
   },
   {
-    "name": {
-      "en": "Madagascar",
-      "ru": "Мадагаскар"
-    },
     "code": "MG",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "mg",
@@ -2727,24 +1677,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Antananarivo",
-          "ru": "Антананариву"
-        }
+        "id": "antananarivo"
       }
     ]
   },
   {
-    "name": {
-      "en": "Malawi",
-      "ru": "Малави"
-    },
     "code": "MW",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "mw",
@@ -2756,24 +1695,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Lilongwe",
-          "ru": "Лилонгве"
-        }
+        "id": "lilongwe"
       }
     ]
   },
   {
-    "name": {
-      "en": "Malaysia",
-      "ru": "Малайзия"
-    },
     "code": "MY",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "my",
@@ -2785,28 +1713,14 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Kuala Lumpur",
-          "ru": "Куала-Лумпур"
-        }
+        "id": "kuala_lumpur"
       }
     ],
-    "seat_of_government": {
-      "en": "Putrajaya",
-      "ru": "Путраджая"
-    }
+    "seat_of_government": "putrajaya"
   },
   {
-    "name": {
-      "en": "Maldives",
-      "ru": "Мальдивы"
-    },
     "code": "MV",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "mv",
@@ -2818,24 +1732,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Malé",
-          "ru": "Мале"
-        }
+        "id": "male"
       }
     ]
   },
   {
-    "name": {
-      "en": "Malta",
-      "ru": "Мальта"
-    },
     "code": "MT",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "mt",
@@ -2847,24 +1750,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Valletta",
-          "ru": "Валлетта"
-        }
+        "id": "valletta"
       }
     ]
   },
   {
-    "name": {
-      "en": "Mali",
-      "ru": "Мали"
-    },
     "code": "ML",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "ml",
@@ -2876,24 +1768,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Bamako",
-          "ru": "Бамако"
-        }
+        "id": "bamako"
       }
     ]
   },
   {
-    "name": {
-      "en": "Mauritania",
-      "ru": "Мавритания"
-    },
     "code": "MR",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "mr",
@@ -2905,24 +1786,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Nouakchott",
-          "ru": "Нуакшот"
-        }
+        "id": "nouakchott"
       }
     ]
   },
   {
-    "name": {
-      "en": "Mauritius",
-      "ru": "Маврикий"
-    },
     "code": "MU",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "mu",
@@ -2934,24 +1804,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Port Louis",
-          "ru": "Порт-Луи"
-        }
+        "id": "port_louis"
       }
     ]
   },
   {
-    "name": {
-      "en": "Mexico",
-      "ru": "Мексика"
-    },
     "code": "MX",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "mx",
@@ -2963,24 +1822,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Mexico City",
-          "ru": "Мехико"
-        }
+        "id": "mexico_city"
       }
     ]
   },
   {
-    "name": {
-      "en": "Moldova",
-      "ru": "Молдова"
-    },
     "code": "MD",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "md",
@@ -2992,24 +1840,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Chișinău",
-          "ru": "Кишинёв"
-        }
+        "id": "chisinau"
       }
     ]
   },
   {
-    "name": {
-      "en": "Monaco",
-      "ru": "Монако"
-    },
     "code": "MC",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "mc",
@@ -3021,24 +1858,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Monaco",
-          "ru": "Монако"
-        }
+        "id": "monaco"
       }
     ]
   },
   {
-    "name": {
-      "en": "Mongolia",
-      "ru": "Монголия"
-    },
     "code": "MN",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "mn",
@@ -3050,24 +1876,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Ulaanbaatar",
-          "ru": "Улан-Батор"
-        }
+        "id": "ulaanbaatar"
       }
     ]
   },
   {
-    "name": {
-      "en": "Montenegro",
-      "ru": "Черногория"
-    },
     "code": "ME",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "me",
@@ -3079,24 +1894,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Podgorica",
-          "ru": "Подгорица"
-        }
+        "id": "podgorica"
       }
     ]
   },
   {
-    "name": {
-      "en": "Morocco",
-      "ru": "Марокко"
-    },
     "code": "MA",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "ma",
@@ -3108,24 +1912,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Rabat",
-          "ru": "Рабат"
-        }
+        "id": "rabat"
       }
     ]
   },
   {
-    "name": {
-      "en": "Mozambique",
-      "ru": "Мозамбик"
-    },
     "code": "MZ",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "mz",
@@ -3137,32 +1930,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Maputo",
-          "ru": "Мапуту"
-        }
+        "id": "maputo"
       }
     ]
   },
   {
-    "name": {
-      "en": "Myanmar",
-      "ru": "Мьянма"
-    },
-    "aliases": {
-      "en": [
-        "Burma"
-      ],
-      "ru": [
-        "Бирма"
-      ]
-    },
     "code": "MM",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "mm",
@@ -3174,24 +1948,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Naypyidaw",
-          "ru": "Нейпьидо"
-        }
+        "id": "naypyidaw"
       }
     ]
   },
   {
-    "name": {
-      "en": "Namibia",
-      "ru": "Намибия"
-    },
     "code": "NA",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "na",
@@ -3203,32 +1966,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Windhoek",
-          "ru": "Виндхук"
-        }
+        "id": "windhoek"
       }
     ]
   },
   {
-    "name": {
-      "en": "Naoero",
-      "ru": "Наоэро"
-    },
-    "aliases": {
-      "en": [
-        "Nauru"
-      ],
-      "ru": [
-        "Науру"
-      ]
-    },
     "code": "NR",
     "region_code": "oceania",
-    "region": {
-      "en": "Oceania",
-      "ru": "Океания"
-    },
     "flags": [
       {
         "id": "nr",
@@ -3239,22 +1983,11 @@
       }
     ],
     "capitals": [],
-    "seat_of_government": {
-      "en": "Yaren District",
-      "ru": "округ Ярен"
-    }
+    "seat_of_government": "yaren_district"
   },
   {
-    "name": {
-      "en": "Nepal",
-      "ru": "Непал"
-    },
     "code": "NP",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "np",
@@ -3266,24 +1999,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Kathmandu",
-          "ru": "Катманду"
-        }
+        "id": "kathmandu"
       }
     ]
   },
   {
-    "name": {
-      "en": "New Zealand",
-      "ru": "Новая Зеландия"
-    },
     "code": "NZ",
     "region_code": "oceania",
-    "region": {
-      "en": "Oceania",
-      "ru": "Океания"
-    },
     "flags": [
       {
         "id": "nz",
@@ -3295,24 +2017,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Wellington",
-          "ru": "Веллингтон"
-        }
+        "id": "wellington"
       }
     ]
   },
   {
-    "name": {
-      "en": "Nicaragua",
-      "ru": "Никарагуа"
-    },
     "code": "NI",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "ni",
@@ -3324,24 +2035,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Managua",
-          "ru": "Манагуа"
-        }
+        "id": "managua"
       }
     ]
   },
   {
-    "name": {
-      "en": "Niger",
-      "ru": "Нигер"
-    },
     "code": "NE",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "ne",
@@ -3353,34 +2053,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Niamey",
-          "ru": "Ниамей"
-        }
+        "id": "niamey"
       }
     ]
   },
   {
-    "name": {
-      "en": "North Korea",
-      "ru": "Северная Корея"
-    },
-    "aliases": {
-      "en": [
-        "DPRK",
-        "Democratic People's Republic of Korea"
-      ],
-      "ru": [
-        "КНДР",
-        "Корейская Народно-Демократическая Республика"
-      ]
-    },
     "code": "KP",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "kp",
@@ -3392,24 +2071,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Pyongyang",
-          "ru": "Пхеньян"
-        }
+        "id": "pyongyang"
       }
     ]
   },
   {
-    "name": {
-      "en": "Nigeria",
-      "ru": "Нигерия"
-    },
     "code": "NG",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "ng",
@@ -3421,24 +2089,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Abuja",
-          "ru": "Абуджа"
-        }
+        "id": "abuja"
       }
     ]
   },
   {
-    "name": {
-      "en": "North Macedonia",
-      "ru": "Северная Македония"
-    },
     "code": "MK",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "mk",
@@ -3450,24 +2107,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Skopje",
-          "ru": "Скопье"
-        }
+        "id": "skopje"
       }
     ]
   },
   {
-    "name": {
-      "en": "Norway",
-      "ru": "Норвегия"
-    },
     "code": "NO",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "no",
@@ -3479,24 +2125,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Oslo",
-          "ru": "Осло"
-        }
+        "id": "oslo"
       }
     ]
   },
   {
-    "name": {
-      "en": "Oman",
-      "ru": "Оман"
-    },
     "code": "OM",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "om",
@@ -3508,24 +2143,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Muscat",
-          "ru": "Маскат"
-        }
+        "id": "muscat"
       }
     ]
   },
   {
-    "name": {
-      "en": "Pakistan",
-      "ru": "Пакистан"
-    },
     "code": "PK",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "pk",
@@ -3537,24 +2161,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Islamabad",
-          "ru": "Исламабад"
-        }
+        "id": "islamabad"
       }
     ]
   },
   {
-    "name": {
-      "en": "Palau",
-      "ru": "Палау"
-    },
     "code": "PW",
     "region_code": "oceania",
-    "region": {
-      "en": "Oceania",
-      "ru": "Океания"
-    },
     "flags": [
       {
         "id": "pw",
@@ -3566,24 +2179,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Ngerulmud",
-          "ru": "Нгерулмуд"
-        }
+        "id": "ngerulmud"
       }
     ]
   },
   {
-    "name": {
-      "en": "Panama",
-      "ru": "Панама"
-    },
     "code": "PA",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "pa",
@@ -3595,24 +2197,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Panama City",
-          "ru": "Панама"
-        }
+        "id": "panama_city"
       }
     ]
   },
   {
-    "name": {
-      "en": "Paraguay",
-      "ru": "Парагвай"
-    },
     "code": "PY",
     "region_code": "south_america",
-    "region": {
-      "en": "South America",
-      "ru": "Южная Америка"
-    },
     "flags": [
       {
         "id": "py",
@@ -3631,24 +2222,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Asunción",
-          "ru": "Асунсьон"
-        }
+        "id": "asuncion"
       }
     ]
   },
   {
-    "name": {
-      "en": "Papua New Guinea",
-      "ru": "Папуа — Новая Гвинея"
-    },
     "code": "PG",
     "region_code": "oceania",
-    "region": {
-      "en": "Oceania",
-      "ru": "Океания"
-    },
     "flags": [
       {
         "id": "pg",
@@ -3660,24 +2240,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Port Moresby",
-          "ru": "Порт-Морсби"
-        }
+        "id": "port_moresby"
       }
     ]
   },
   {
-    "name": {
-      "en": "Peru",
-      "ru": "Перу"
-    },
     "code": "PE",
     "region_code": "south_america",
-    "region": {
-      "en": "South America",
-      "ru": "Южная Америка"
-    },
     "flags": [
       {
         "id": "pe",
@@ -3689,24 +2258,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Lima",
-          "ru": "Лима"
-        }
+        "id": "lima"
       }
     ]
   },
   {
-    "name": {
-      "en": "Poland",
-      "ru": "Польша"
-    },
     "code": "PL",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "pl",
@@ -3718,24 +2276,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Warsaw",
-          "ru": "Варшава"
-        }
+        "id": "warsaw"
       }
     ]
   },
   {
-    "name": {
-      "en": "Portugal",
-      "ru": "Португалия"
-    },
     "code": "PT",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "pt",
@@ -3747,24 +2294,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Lisbon",
-          "ru": "Лиссабон"
-        }
+        "id": "lisbon"
       }
     ]
   },
   {
-    "name": {
-      "en": "Qatar",
-      "ru": "Катар"
-    },
     "code": "QA",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "qa",
@@ -3776,24 +2312,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Doha",
-          "ru": "Доха"
-        }
+        "id": "doha"
       }
     ]
   },
   {
-    "name": {
-      "en": "Romania",
-      "ru": "Румыния"
-    },
     "code": "RO",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "ro",
@@ -3805,24 +2330,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Bucharest",
-          "ru": "Бухарест"
-        }
+        "id": "bucharest"
       }
     ]
   },
   {
-    "name": {
-      "en": "Russia",
-      "ru": "Россия"
-    },
     "code": "RU",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "ru",
@@ -3834,24 +2348,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Moscow",
-          "ru": "Москва"
-        }
+        "id": "moscow"
       }
     ]
   },
   {
-    "name": {
-      "en": "Rwanda",
-      "ru": "Руанда"
-    },
     "code": "RW",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "rw",
@@ -3863,24 +2366,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Kigali",
-          "ru": "Кигали"
-        }
+        "id": "kigali"
       }
     ]
   },
   {
-    "name": {
-      "en": "Saint Kitts and Nevis",
-      "ru": "Сент-Китс и Невис"
-    },
     "code": "KN",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "kn",
@@ -3892,24 +2384,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Basseterre",
-          "ru": "Бастер"
-        }
+        "id": "basseterre"
       }
     ]
   },
   {
-    "name": {
-      "en": "Saint Lucia",
-      "ru": "Сент-Люсия"
-    },
     "code": "LC",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "lc",
@@ -3921,24 +2402,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Castries",
-          "ru": "Кастри"
-        }
+        "id": "castries"
       }
     ]
   },
   {
-    "name": {
-      "en": "San Marino",
-      "ru": "Сан-Марино"
-    },
     "code": "SM",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "sm",
@@ -3950,24 +2420,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "San Marino",
-          "ru": "Сан-Марино"
-        }
+        "id": "san_marino"
       }
     ]
   },
   {
-    "name": {
-      "en": "Samoa",
-      "ru": "Самоа"
-    },
     "code": "WS",
     "region_code": "oceania",
-    "region": {
-      "en": "Oceania",
-      "ru": "Океания"
-    },
     "flags": [
       {
         "id": "ws",
@@ -3979,24 +2438,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Apia",
-          "ru": "Апиа"
-        }
+        "id": "apia"
       }
     ]
   },
   {
-    "name": {
-      "en": "Saudi Arabia",
-      "ru": "Саудовская Аравия"
-    },
     "code": "SA",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "sa",
@@ -4008,24 +2456,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Riyadh",
-          "ru": "Эр-Рияд"
-        }
+        "id": "riyadh"
       }
     ]
   },
   {
-    "name": {
-      "en": "Senegal",
-      "ru": "Сенегал"
-    },
     "code": "SN",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "sn",
@@ -4037,24 +2474,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Dakar",
-          "ru": "Дакар"
-        }
+        "id": "dakar"
       }
     ]
   },
   {
-    "name": {
-      "en": "Serbia",
-      "ru": "Сербия"
-    },
     "code": "RS",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "rs",
@@ -4066,24 +2492,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Belgrade",
-          "ru": "Белград"
-        }
+        "id": "belgrade"
       }
     ]
   },
   {
-    "name": {
-      "en": "Saint Vincent and the Grenadines",
-      "ru": "Сент-Винсент и Гренадины"
-    },
     "code": "VC",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "vc",
@@ -4095,24 +2510,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Kingstown",
-          "ru": "Кингстаун"
-        }
+        "id": "kingstown"
       }
     ]
   },
   {
-    "name": {
-      "en": "Seychelles",
-      "ru": "Сейшельские Острова"
-    },
     "code": "SC",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "sc",
@@ -4124,24 +2528,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Victoria",
-          "ru": "Виктория"
-        }
+        "id": "victoria"
       }
     ]
   },
   {
-    "name": {
-      "en": "Sierra Leone",
-      "ru": "Сьерра-Леоне"
-    },
     "code": "SL",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "sl",
@@ -4153,24 +2546,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Freetown",
-          "ru": "Фритаун"
-        }
+        "id": "freetown"
       }
     ]
   },
   {
-    "name": {
-      "en": "Singapore",
-      "ru": "Сингапур"
-    },
     "code": "SG",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "sg",
@@ -4182,24 +2564,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Singapore",
-          "ru": "Сингапур"
-        }
+        "id": "singapore"
       }
     ]
   },
   {
-    "name": {
-      "en": "Slovakia",
-      "ru": "Словакия"
-    },
     "code": "SK",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "sk",
@@ -4211,24 +2582,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Bratislava",
-          "ru": "Братислава"
-        }
+        "id": "bratislava"
       }
     ]
   },
   {
-    "name": {
-      "en": "Slovenia",
-      "ru": "Словения"
-    },
     "code": "SI",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "si",
@@ -4240,24 +2600,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Ljubljana",
-          "ru": "Любляна"
-        }
+        "id": "ljubljana"
       }
     ]
   },
   {
-    "name": {
-      "en": "Somalia",
-      "ru": "Сомали"
-    },
     "code": "SO",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "so",
@@ -4269,24 +2618,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Mogadishu",
-          "ru": "Могадишо"
-        }
+        "id": "mogadishu"
       }
     ]
   },
   {
-    "name": {
-      "en": "Palestine",
-      "ru": "Палестина"
-    },
     "code": "PS",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "ps",
@@ -4298,29 +2636,15 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "East Jerusalem",
-          "ru": "Восточный Иерусалим"
-        },
+        "id": "east_jerusalem",
         "status": "claimed"
       }
     ],
-    "seat_of_government": {
-      "en": "Ramallah",
-      "ru": "Рамалла"
-    }
+    "seat_of_government": "ramallah"
   },
   {
-    "name": {
-      "en": "South Africa",
-      "ru": "ЮАР"
-    },
     "code": "ZA",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "za",
@@ -4332,47 +2656,22 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Pretoria",
-          "ru": "Претория"
-        },
+        "id": "pretoria",
         "role": "administrative"
       },
       {
-        "name": {
-          "en": "Cape Town",
-          "ru": "Кейптаун"
-        },
+        "id": "cape_town",
         "role": "legislative"
       },
       {
-        "name": {
-          "en": "Bloemfontein",
-          "ru": "Блумфонтейн"
-        },
+        "id": "bloemfontein",
         "role": "judicial"
       }
     ]
   },
   {
-    "name": {
-      "en": "South Korea",
-      "ru": "Южная Корея"
-    },
-    "aliases": {
-      "en": [
-        "Republic of Korea"
-      ],
-      "ru": [
-        "Республика Корея"
-      ]
-    },
     "code": "KR",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "kr",
@@ -4384,24 +2683,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Seoul",
-          "ru": "Сеул"
-        }
+        "id": "seoul"
       }
     ]
   },
   {
-    "name": {
-      "en": "South Sudan",
-      "ru": "Южный Судан"
-    },
     "code": "SS",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "ss",
@@ -4413,24 +2701,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Juba",
-          "ru": "Джуба"
-        }
+        "id": "juba"
       }
     ]
   },
   {
-    "name": {
-      "en": "Spain",
-      "ru": "Испания"
-    },
     "code": "ES",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "es",
@@ -4442,24 +2719,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Madrid",
-          "ru": "Мадрид"
-        }
+        "id": "madrid"
       }
     ]
   },
   {
-    "name": {
-      "en": "Sri Lanka",
-      "ru": "Шри-Ланка"
-    },
     "code": "LK",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "lk",
@@ -4471,24 +2737,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Sri Jayawardenepura Kotte",
-          "ru": "Шри-Джаяварденепура-Котте"
-        }
+        "id": "sri_jayawardenepura_kotte"
       }
     ]
   },
   {
-    "name": {
-      "en": "Sudan",
-      "ru": "Судан"
-    },
     "code": "SD",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "sd",
@@ -4500,24 +2755,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Khartoum",
-          "ru": "Хартум"
-        }
+        "id": "khartoum"
       }
     ]
   },
   {
-    "name": {
-      "en": "Suriname",
-      "ru": "Суринам"
-    },
     "code": "SR",
     "region_code": "south_america",
-    "region": {
-      "en": "South America",
-      "ru": "Южная Америка"
-    },
     "flags": [
       {
         "id": "sr",
@@ -4529,24 +2773,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Paramaribo",
-          "ru": "Парамарибо"
-        }
+        "id": "paramaribo"
       }
     ]
   },
   {
-    "name": {
-      "en": "Sweden",
-      "ru": "Швеция"
-    },
     "code": "SE",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "se",
@@ -4558,24 +2791,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Stockholm",
-          "ru": "Стокгольм"
-        }
+        "id": "stockholm"
       }
     ]
   },
   {
-    "name": {
-      "en": "Switzerland",
-      "ru": "Швейцария"
-    },
     "code": "CH",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "ch",
@@ -4587,25 +2809,14 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Bern",
-          "ru": "Берн"
-        },
+        "id": "bern",
         "status": "de_facto"
       }
     ]
   },
   {
-    "name": {
-      "en": "São Tomé and Príncipe",
-      "ru": "Сан-Томе и Принсипи"
-    },
     "code": "ST",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "st",
@@ -4617,24 +2828,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "São Tomé",
-          "ru": "Сан-Томе"
-        }
+        "id": "sao_tome"
       }
     ]
   },
   {
-    "name": {
-      "en": "Tajikistan",
-      "ru": "Таджикистан"
-    },
     "code": "TJ",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "tj",
@@ -4646,24 +2846,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Dushanbe",
-          "ru": "Душанбе"
-        }
+        "id": "dushanbe"
       }
     ]
   },
   {
-    "name": {
-      "en": "Tanzania",
-      "ru": "Танзания"
-    },
     "code": "TZ",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "tz",
@@ -4675,24 +2864,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Dodoma",
-          "ru": "Додома"
-        }
+        "id": "dodoma"
       }
     ]
   },
   {
-    "name": {
-      "en": "Thailand",
-      "ru": "Таиланд"
-    },
     "code": "TH",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "th",
@@ -4704,24 +2882,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Bangkok",
-          "ru": "Бангкок"
-        }
+        "id": "bangkok"
       }
     ]
   },
   {
-    "name": {
-      "en": "The Gambia",
-      "ru": "Гамбия"
-    },
     "code": "GM",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "gm",
@@ -4733,24 +2900,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Banjul",
-          "ru": "Банжул"
-        }
+        "id": "banjul"
       }
     ]
   },
   {
-    "name": {
-      "en": "Togo",
-      "ru": "Того"
-    },
     "code": "TG",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "tg",
@@ -4762,24 +2918,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Lomé",
-          "ru": "Ломе"
-        }
+        "id": "lome"
       }
     ]
   },
   {
-    "name": {
-      "en": "Tonga",
-      "ru": "Тонга"
-    },
     "code": "TO",
     "region_code": "oceania",
-    "region": {
-      "en": "Oceania",
-      "ru": "Океания"
-    },
     "flags": [
       {
         "id": "to",
@@ -4791,24 +2936,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Nuku'alofa",
-          "ru": "Нукуалофа"
-        }
+        "id": "nuku_alofa"
       }
     ]
   },
   {
-    "name": {
-      "en": "Kosovo",
-      "ru": "Косово"
-    },
     "code": "XK",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "xk",
@@ -4820,24 +2954,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Pristina",
-          "ru": "Приштина"
-        }
+        "id": "pristina"
       }
     ]
   },
   {
-    "name": {
-      "en": "Trinidad and Tobago",
-      "ru": "Тринидад и Тобаго"
-    },
     "code": "TT",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "tt",
@@ -4849,24 +2972,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Port of Spain",
-          "ru": "Порт-оф-Спейн"
-        }
+        "id": "port_of_spain"
       }
     ]
   },
   {
-    "name": {
-      "en": "Tunisia",
-      "ru": "Тунис"
-    },
     "code": "TN",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "tn",
@@ -4878,29 +2990,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Tunis",
-          "ru": "Тунис"
-        }
+        "id": "tunis"
       }
     ]
   },
   {
-    "name": {
-      "en": "Türkiye",
-      "ru": "Турция"
-    },
-    "aliases": {
-      "en": [
-        "Turkey"
-      ]
-    },
     "code": "TR",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "tr",
@@ -4912,24 +3008,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Ankara",
-          "ru": "Анкара"
-        }
+        "id": "ankara"
       }
     ]
   },
   {
-    "name": {
-      "en": "Turkmenistan",
-      "ru": "Туркменистан"
-    },
     "code": "TM",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "tm",
@@ -4941,24 +3026,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Ashgabat",
-          "ru": "Ашхабад"
-        }
+        "id": "ashgabat"
       }
     ]
   },
   {
-    "name": {
-      "en": "Tuvalu",
-      "ru": "Тувалу"
-    },
     "code": "TV",
     "region_code": "oceania",
-    "region": {
-      "en": "Oceania",
-      "ru": "Океания"
-    },
     "flags": [
       {
         "id": "tv",
@@ -4970,24 +3044,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Funafuti",
-          "ru": "Фунафути"
-        }
+        "id": "funafuti"
       }
     ]
   },
   {
-    "name": {
-      "en": "Uganda",
-      "ru": "Уганда"
-    },
     "code": "UG",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "ug",
@@ -4999,24 +3062,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Kampala",
-          "ru": "Кампала"
-        }
+        "id": "kampala"
       }
     ]
   },
   {
-    "name": {
-      "en": "Ukraine",
-      "ru": "Украина"
-    },
     "code": "UA",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "ua",
@@ -5028,24 +3080,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Kyiv",
-          "ru": "Киев"
-        }
+        "id": "kyiv"
       }
     ]
   },
   {
-    "name": {
-      "en": "Uruguay",
-      "ru": "Уругвай"
-    },
     "code": "UY",
     "region_code": "south_america",
-    "region": {
-      "en": "South America",
-      "ru": "Южная Америка"
-    },
     "flags": [
       {
         "id": "uy",
@@ -5057,24 +3098,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Montevideo",
-          "ru": "Монтевидео"
-        }
+        "id": "montevideo"
       }
     ]
   },
   {
-    "name": {
-      "en": "Uzbekistan",
-      "ru": "Узбекистан"
-    },
     "code": "UZ",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "uz",
@@ -5086,24 +3116,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Tashkent",
-          "ru": "Ташкент"
-        }
+        "id": "tashkent"
       }
     ]
   },
   {
-    "name": {
-      "en": "Vanuatu",
-      "ru": "Вануату"
-    },
     "code": "VU",
     "region_code": "oceania",
-    "region": {
-      "en": "Oceania",
-      "ru": "Океания"
-    },
     "flags": [
       {
         "id": "vu",
@@ -5115,33 +3134,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Port Vila",
-          "ru": "Порт-Вила"
-        }
+        "id": "port_vila"
       }
     ]
   },
   {
-    "name": {
-      "en": "Vatican",
-      "ru": "Ватикан"
-    },
-    "aliases": {
-      "en": [
-        "Vatican City",
-        "Holy See"
-      ],
-      "ru": [
-        "Святой Престол"
-      ]
-    },
     "code": "VA",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "va",
@@ -5153,24 +3152,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Vatican City",
-          "ru": "Ватикан"
-        }
+        "id": "vatican_city"
       }
     ]
   },
   {
-    "name": {
-      "en": "Venezuela",
-      "ru": "Венесуэла"
-    },
     "code": "VE",
     "region_code": "south_america",
-    "region": {
-      "en": "South America",
-      "ru": "Южная Америка"
-    },
     "flags": [
       {
         "id": "ve",
@@ -5182,24 +3170,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Caracas",
-          "ru": "Каракас"
-        }
+        "id": "caracas"
       }
     ]
   },
   {
-    "name": {
-      "en": "Vietnam",
-      "ru": "Вьетнам"
-    },
     "code": "VN",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "vn",
@@ -5211,24 +3188,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Hanoi",
-          "ru": "Ханой"
-        }
+        "id": "hanoi"
       }
     ]
   },
   {
-    "name": {
-      "en": "Yemen",
-      "ru": "Йемен"
-    },
     "code": "YE",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "ye",
@@ -5240,28 +3206,14 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Sana'a",
-          "ru": "Сана"
-        }
+        "id": "sana_a"
       }
     ],
-    "seat_of_government": {
-      "en": "Aden",
-      "ru": "Аден"
-    }
+    "seat_of_government": "aden"
   },
   {
-    "name": {
-      "en": "Zambia",
-      "ru": "Замбия"
-    },
     "code": "ZM",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "zm",
@@ -5273,24 +3225,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Lusaka",
-          "ru": "Лусака"
-        }
+        "id": "lusaka"
       }
     ]
   },
   {
-    "name": {
-      "en": "Zimbabwe",
-      "ru": "Зимбабве"
-    },
     "code": "ZW",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "zw",
@@ -5302,24 +3243,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Harare",
-          "ru": "Хараре"
-        }
+        "id": "harare"
       }
     ]
   },
   {
-    "name": {
-      "en": "The Bahamas",
-      "ru": "Багамские Острова"
-    },
     "code": "BS",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "bs",
@@ -5331,24 +3261,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Nassau",
-          "ru": "Нассау"
-        }
+        "id": "nassau"
       }
     ]
   },
   {
-    "name": {
-      "en": "Central African Republic",
-      "ru": "Центральноафриканская Республика"
-    },
     "code": "CF",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "cf",
@@ -5360,24 +3279,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Bangui",
-          "ru": "Банги"
-        }
+        "id": "bangui"
       }
     ]
   },
   {
-    "name": {
-      "en": "Comoros",
-      "ru": "Коморы"
-    },
     "code": "KM",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "km",
@@ -5389,32 +3297,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Moroni",
-          "ru": "Морони"
-        }
+        "id": "moroni"
       }
     ]
   },
   {
-    "name": {
-      "en": "Czechia",
-      "ru": "Чехия"
-    },
-    "aliases": {
-      "en": [
-        "Czech Republic"
-      ],
-      "ru": [
-        "Чешская Республика"
-      ]
-    },
     "code": "CZ",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "cz",
@@ -5426,35 +3315,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Prague",
-          "ru": "Прага"
-        }
+        "id": "prague"
       }
     ]
   },
   {
-    "name": {
-      "en": "Democratic Republic of the Congo",
-      "ru": "Демократическая Республика Конго"
-    },
-    "aliases": {
-      "en": [
-        "DR Congo",
-        "DRC",
-        "Congo-Kinshasa"
-      ],
-      "ru": [
-        "ДР Конго",
-        "Конго-Киншаса"
-      ]
-    },
     "code": "CD",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "cd",
@@ -5466,24 +3333,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Kinshasa",
-          "ru": "Киншаса"
-        }
+        "id": "kinshasa"
       }
     ]
   },
   {
-    "name": {
-      "en": "Dominican Republic",
-      "ru": "Доминиканская Республика"
-    },
     "code": "DO",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "do",
@@ -5495,24 +3351,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Santo Domingo",
-          "ru": "Санто-Доминго"
-        }
+        "id": "santo_domingo"
       }
     ]
   },
   {
-    "name": {
-      "en": "Marshall Islands",
-      "ru": "Маршалловы Острова"
-    },
     "code": "MH",
     "region_code": "oceania",
-    "region": {
-      "en": "Oceania",
-      "ru": "Океания"
-    },
     "flags": [
       {
         "id": "mh",
@@ -5524,24 +3369,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Majuro",
-          "ru": "Маджуро"
-        }
+        "id": "majuro"
       }
     ]
   },
   {
-    "name": {
-      "en": "Federated States of Micronesia",
-      "ru": "Федеративные Штаты Микронезии"
-    },
     "code": "FM",
     "region_code": "oceania",
-    "region": {
-      "en": "Oceania",
-      "ru": "Океания"
-    },
     "flags": [
       {
         "id": "fm",
@@ -5553,24 +3387,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Palikir",
-          "ru": "Паликир"
-        }
+        "id": "palikir"
       }
     ]
   },
   {
-    "name": {
-      "en": "Netherlands",
-      "ru": "Нидерланды"
-    },
     "code": "NL",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "nl",
@@ -5582,28 +3405,14 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Amsterdam",
-          "ru": "Амстердам"
-        }
+        "id": "amsterdam"
       }
     ],
-    "seat_of_government": {
-      "en": "The Hague",
-      "ru": "Гаага"
-    }
+    "seat_of_government": "the_hague"
   },
   {
-    "name": {
-      "en": "China",
-      "ru": "Китай"
-    },
     "code": "CN",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "cn",
@@ -5615,24 +3424,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Beijing",
-          "ru": "Пекин"
-        }
+        "id": "beijing"
       }
     ]
   },
   {
-    "name": {
-      "en": "Philippines",
-      "ru": "Филиппины"
-    },
     "code": "PH",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "ph",
@@ -5644,24 +3442,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Manila",
-          "ru": "Манила"
-        }
+        "id": "manila"
       }
     ]
   },
   {
-    "name": {
-      "en": "Taiwan",
-      "ru": "Тайвань"
-    },
     "code": "TW",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "tw",
@@ -5673,32 +3460,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Taipei",
-          "ru": "Тайбэй"
-        }
+        "id": "taipei"
       }
     ]
   },
   {
-    "name": {
-      "en": "Republic of the Congo",
-      "ru": "Республика Конго"
-    },
-    "aliases": {
-      "en": [
-        "Congo-Brazzaville"
-      ],
-      "ru": [
-        "Конго-Браззавиль"
-      ]
-    },
     "code": "CG",
     "region_code": "africa",
-    "region": {
-      "en": "Africa",
-      "ru": "Африка"
-    },
     "flags": [
       {
         "id": "cg",
@@ -5710,24 +3478,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Brazzaville",
-          "ru": "Браззавиль"
-        }
+        "id": "brazzaville"
       }
     ]
   },
   {
-    "name": {
-      "en": "Solomon Islands",
-      "ru": "Соломоновы Острова"
-    },
     "code": "SB",
     "region_code": "oceania",
-    "region": {
-      "en": "Oceania",
-      "ru": "Океания"
-    },
     "flags": [
       {
         "id": "sb",
@@ -5739,32 +3496,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Honiara",
-          "ru": "Хониара"
-        }
+        "id": "honiara"
       }
     ]
   },
   {
-    "name": {
-      "en": "United Arab Emirates",
-      "ru": "ОАЭ"
-    },
-    "aliases": {
-      "en": [
-        "UAE"
-      ],
-      "ru": [
-        "Объединённые Арабские Эмираты"
-      ]
-    },
     "code": "AE",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "ae",
@@ -5776,24 +3514,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Abu Dhabi",
-          "ru": "Абу-Даби"
-        }
+        "id": "abu_dhabi"
       }
     ]
   },
   {
-    "name": {
-      "en": "Syria",
-      "ru": "Сирия"
-    },
     "code": "SY",
     "region_code": "asia",
-    "region": {
-      "en": "Asia",
-      "ru": "Азия"
-    },
     "flags": [
       {
         "id": "sy",
@@ -5805,32 +3532,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Damascus",
-          "ru": "Дамаск"
-        }
+        "id": "damascus"
       }
     ]
   },
   {
-    "name": {
-      "en": "United Kingdom",
-      "ru": "Великобритания"
-    },
-    "aliases": {
-      "en": [
-        "UK"
-      ],
-      "ru": [
-        "Соединённое Королевство"
-      ]
-    },
     "code": "GB",
     "region_code": "europe",
-    "region": {
-      "en": "Europe",
-      "ru": "Европа"
-    },
     "flags": [
       {
         "id": "gb",
@@ -5842,34 +3550,13 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "London",
-          "ru": "Лондон"
-        }
+        "id": "london"
       }
     ]
   },
   {
-    "name": {
-      "en": "United States",
-      "ru": "США"
-    },
-    "aliases": {
-      "en": [
-        "USA",
-        "United States of America"
-      ],
-      "ru": [
-        "Соединённые Штаты Америки",
-        "Соединённые Штаты"
-      ]
-    },
     "code": "US",
     "region_code": "north_america",
-    "region": {
-      "en": "North America",
-      "ru": "Северная Америка"
-    },
     "flags": [
       {
         "id": "us",
@@ -5881,10 +3568,7 @@
     ],
     "capitals": [
       {
-        "name": {
-          "en": "Washington, D.C.",
-          "ru": "Вашингтон"
-        }
+        "id": "washington_d_c"
       }
     ]
   }
