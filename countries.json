@@ -544,6 +544,9 @@
       "en": "Cabo Verde",
       "ru": "Кабо-Верде"
     },
+    "aliases": {
+      "en": ["Cape Verde"]
+    },
     "code": "CV",
     "region": {
       "en": "Africa",
@@ -670,6 +673,10 @@
       "en": "Côte d’Ivoire",
       "ru": "Кот-д’Ивуар"
     },
+    "aliases": {
+      "en": ["Ivory Coast"],
+      "ru": ["Берег Слоновой Кости"]
+    },
     "code": "CI",
     "region": {
       "en": "Africa",
@@ -759,6 +766,10 @@
     "name": {
       "en": "Timor-Leste",
       "ru": "Восточный Тимор"
+    },
+    "aliases": {
+      "en": ["East Timor"],
+      "ru": ["Тимор-Лешти"]
     },
     "code": "TL",
     "region": {
@@ -1930,6 +1941,10 @@
       "en": "Myanmar",
       "ru": "Мьянма"
     },
+    "aliases": {
+      "en": ["Burma"],
+      "ru": ["Бирма"]
+    },
     "code": "MM",
     "region": {
       "en": "Asia",
@@ -2055,6 +2070,10 @@
     "name": {
       "en": "North Korea",
       "ru": "Северная Корея"
+    },
+    "aliases": {
+      "en": ["DPRK", "Democratic People's Republic of Korea"],
+      "ru": ["КНДР", "Корейская Народно-Демократическая Республика"]
     },
     "code": "KP",
     "region": {
@@ -2651,6 +2670,10 @@
       "en": "South Korea",
       "ru": "Южная Корея"
     },
+    "aliases": {
+      "en": ["Republic of Korea"],
+      "ru": ["Республика Корея"]
+    },
     "code": "KR",
     "region": {
       "en": "Asia",
@@ -2975,6 +2998,9 @@
       "en": "Türkiye",
       "ru": "Турция"
     },
+    "aliases": {
+      "en": ["Turkey"]
+    },
     "code": "TR",
     "region": {
       "en": "Asia",
@@ -3118,6 +3144,10 @@
     "name": {
       "en": "Vatican",
       "ru": "Ватикан"
+    },
+    "aliases": {
+      "en": ["Vatican City", "Holy See"],
+      "ru": ["Святой Престол"]
     },
     "code": "VA",
     "region": {
@@ -3281,6 +3311,10 @@
       "en": "Czech Republic",
       "ru": "Чехия"
     },
+    "aliases": {
+      "en": ["Czechia"],
+      "ru": ["Чешская Республика"]
+    },
     "code": "CZ",
     "region": {
       "en": "Europe",
@@ -3298,6 +3332,10 @@
     "name": {
       "en": "Democratic Republic of the Congo",
       "ru": "Демократическая Республика Конго"
+    },
+    "aliases": {
+      "en": ["DR Congo", "DRC", "Congo-Kinshasa"],
+      "ru": ["ДР Конго", "Конго-Киншаса"]
     },
     "code": "CD",
     "region": {
@@ -3443,6 +3481,10 @@
       "en": "Republic of the Congo",
       "ru": "Республика Конго"
     },
+    "aliases": {
+      "en": ["Congo-Brazzaville"],
+      "ru": ["Конго-Браззавиль"]
+    },
     "code": "CG",
     "region": {
       "en": "Africa",
@@ -3478,6 +3520,10 @@
     "name": {
       "en": "United Arab Emirates",
       "ru": "ОАЭ"
+    },
+    "aliases": {
+      "en": ["UAE"],
+      "ru": ["Объединённые Арабские Эмираты"]
     },
     "code": "AE",
     "region": {
@@ -3515,6 +3561,10 @@
       "en": "United Kingdom",
       "ru": "Великобритания"
     },
+    "aliases": {
+      "en": ["UK"],
+      "ru": ["Соединённое Королевство"]
+    },
     "code": "GB",
     "region": {
       "en": "Europe",
@@ -3532,6 +3582,10 @@
     "name": {
       "en": "United States",
       "ru": "США"
+    },
+    "aliases": {
+      "en": ["USA", "United States of America"],
+      "ru": ["Соединённые Штаты Америки", "Соединённые Штаты"]
     },
     "code": "US",
     "region": {

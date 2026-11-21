@@ -44,6 +44,12 @@ You can use `@main` instead of a version tag, but the branch can change at any t
 
 jsDelivr serves stored files without image resizing. Set SVG display dimensions with HTML/CSS; this does not reduce download size. Smaller raster images would need to be generated and published separately.
 
+### Search aliases (unreleased)
+
+Some entries have an optional `aliases` object with alternative names or common abbreviations for search. Each language key (`en` or `ru`) maps to an array of strings and can be omitted if there are no aliases for that language. For example, Türkiye (`TR`) has `"aliases": { "en": ["Turkey"] }`.
+
+Use `name` for display. Aliases are not exhaustive or unique identifiers; use `code` to identify countries. For bilingual search, match against both languages. Normalize case, accents and punctuation in the search itself rather than storing spelling variants that only differ in formatting.
+
 ## Sources and modifications
 
 182 files were obtained from Wikimedia Commons, 11 from FlagCDN, and 5 from `hampusborgos/country-flags`. The latter sources also distribute artwork originating elsewhere.

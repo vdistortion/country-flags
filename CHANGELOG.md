@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Added optional English and Russian search aliases for selected countries without changing their display names or existing fields.
+
 ## 0.2.0 — 2026-11-15
 
 - Added `capital_city` with English/Russian names to every country.
