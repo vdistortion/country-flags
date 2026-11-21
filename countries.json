@@ -5,6 +5,7 @@
       "ru": "Афганистан"
     },
     "code": "AF",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -29,6 +30,7 @@
       "ru": "Алжир"
     },
     "code": "DZ",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -53,6 +55,7 @@
       "ru": "Албания"
     },
     "code": "AL",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -77,6 +80,7 @@
       "ru": "Андорра"
     },
     "code": "AD",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -101,6 +105,7 @@
       "ru": "Ангола"
     },
     "code": "AO",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -125,6 +130,7 @@
       "ru": "Антигуа и Барбуда"
     },
     "code": "AG",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -149,6 +155,7 @@
       "ru": "Аргентина"
     },
     "code": "AR",
+    "region_code": "south_america",
     "region": {
       "en": "South America",
       "ru": "Южная Америка"
@@ -173,6 +180,7 @@
       "ru": "Армения"
     },
     "code": "AM",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -197,6 +205,7 @@
       "ru": "Австралия"
     },
     "code": "AU",
+    "region_code": "oceania",
     "region": {
       "en": "Oceania",
       "ru": "Океания"
@@ -221,6 +230,7 @@
       "ru": "Австрия"
     },
     "code": "AT",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -245,6 +255,7 @@
       "ru": "Азербайджан"
     },
     "code": "AZ",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -269,6 +280,7 @@
       "ru": "Бахрейн"
     },
     "code": "BH",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -293,6 +305,7 @@
       "ru": "Бангладеш"
     },
     "code": "BD",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -317,6 +330,7 @@
       "ru": "Барбадос"
     },
     "code": "BB",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -341,6 +355,7 @@
       "ru": "Беларусь"
     },
     "code": "BY",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -365,6 +380,7 @@
       "ru": "Бельгия"
     },
     "code": "BE",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -389,6 +405,7 @@
       "ru": "Белиз"
     },
     "code": "BZ",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -413,6 +430,7 @@
       "ru": "Бенин"
     },
     "code": "BJ",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -437,6 +455,7 @@
       "ru": "Бутан"
     },
     "code": "BT",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -461,6 +480,7 @@
       "ru": "Боливия"
     },
     "code": "BO",
+    "region_code": "south_america",
     "region": {
       "en": "South America",
       "ru": "Южная Америка"
@@ -485,6 +505,7 @@
       "ru": "Босния и Герцеговина"
     },
     "code": "BA",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -509,6 +530,7 @@
       "ru": "Ботсвана"
     },
     "code": "BW",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -533,6 +555,7 @@
       "ru": "Бразилия"
     },
     "code": "BR",
+    "region_code": "south_america",
     "region": {
       "en": "South America",
       "ru": "Южная Америка"
@@ -557,6 +580,7 @@
       "ru": "Бруней"
     },
     "code": "BN",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -581,6 +605,7 @@
       "ru": "Болгария"
     },
     "code": "BG",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -605,6 +630,7 @@
       "ru": "Буркина-Фасо"
     },
     "code": "BF",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -629,6 +655,7 @@
       "ru": "Бурунди"
     },
     "code": "BI",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -653,6 +680,7 @@
       "ru": "Камбоджа"
     },
     "code": "KH",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -677,6 +705,7 @@
       "ru": "Камерун"
     },
     "code": "CM",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -701,6 +730,7 @@
       "ru": "Канада"
     },
     "code": "CA",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -730,6 +760,7 @@
       ]
     },
     "code": "CV",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -754,6 +785,7 @@
       "ru": "Чад"
     },
     "code": "TD",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -778,6 +810,7 @@
       "ru": "Чили"
     },
     "code": "CL",
+    "region_code": "south_america",
     "region": {
       "en": "South America",
       "ru": "Южная Америка"
@@ -802,6 +835,7 @@
       "ru": "Колумбия"
     },
     "code": "CO",
+    "region_code": "south_america",
     "region": {
       "en": "South America",
       "ru": "Южная Америка"
@@ -826,6 +860,7 @@
       "ru": "Коста-Рика"
     },
     "code": "CR",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -850,6 +885,7 @@
       "ru": "Хорватия"
     },
     "code": "HR",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -874,6 +910,7 @@
       "ru": "Куба"
     },
     "code": "CU",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -906,6 +943,7 @@
       ]
     },
     "code": "CI",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -930,6 +968,7 @@
       "ru": "Кипр"
     },
     "code": "CY",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -954,6 +993,7 @@
       "ru": "Дания"
     },
     "code": "DK",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -978,6 +1018,7 @@
       "ru": "Джибути"
     },
     "code": "DJ",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -1002,6 +1043,7 @@
       "ru": "Доминика"
     },
     "code": "DM",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -1034,6 +1076,7 @@
       ]
     },
     "code": "TL",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -1058,6 +1101,7 @@
       "ru": "Эквадор"
     },
     "code": "EC",
+    "region_code": "south_america",
     "region": {
       "en": "South America",
       "ru": "Южная Америка"
@@ -1082,6 +1126,7 @@
       "ru": "Египет"
     },
     "code": "EG",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -1106,6 +1151,7 @@
       "ru": "Сальвадор"
     },
     "code": "SV",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -1130,6 +1176,7 @@
       "ru": "Экваториальная Гвинея"
     },
     "code": "GQ",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -1154,6 +1201,7 @@
       "ru": "Эритрея"
     },
     "code": "ER",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -1178,6 +1226,7 @@
       "ru": "Эстония"
     },
     "code": "EE",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -1202,6 +1251,7 @@
       "ru": "Эсватини"
     },
     "code": "SZ",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -1226,6 +1276,7 @@
       "ru": "Эфиопия"
     },
     "code": "ET",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -1250,6 +1301,7 @@
       "ru": "Фиджи"
     },
     "code": "FJ",
+    "region_code": "oceania",
     "region": {
       "en": "Oceania",
       "ru": "Океания"
@@ -1274,6 +1326,7 @@
       "ru": "Финляндия"
     },
     "code": "FI",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -1298,6 +1351,7 @@
       "ru": "Франция"
     },
     "code": "FR",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -1322,6 +1376,7 @@
       "ru": "Габон"
     },
     "code": "GA",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -1346,6 +1401,7 @@
       "ru": "Грузия"
     },
     "code": "GE",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -1370,6 +1426,7 @@
       "ru": "Германия"
     },
     "code": "DE",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -1394,6 +1451,7 @@
       "ru": "Гана"
     },
     "code": "GH",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -1418,6 +1476,7 @@
       "ru": "Греция"
     },
     "code": "GR",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -1442,6 +1501,7 @@
       "ru": "Гренада"
     },
     "code": "GD",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -1466,6 +1526,7 @@
       "ru": "Гватемала"
     },
     "code": "GT",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -1490,6 +1551,7 @@
       "ru": "Гвинея-Бисау"
     },
     "code": "GW",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -1514,6 +1576,7 @@
       "ru": "Гвинея"
     },
     "code": "GN",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -1538,6 +1601,7 @@
       "ru": "Гайана"
     },
     "code": "GY",
+    "region_code": "south_america",
     "region": {
       "en": "South America",
       "ru": "Южная Америка"
@@ -1562,6 +1626,7 @@
       "ru": "Гаити"
     },
     "code": "HT",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -1586,6 +1651,7 @@
       "ru": "Гондурас"
     },
     "code": "HN",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -1610,6 +1676,7 @@
       "ru": "Венгрия"
     },
     "code": "HU",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -1634,6 +1701,7 @@
       "ru": "Исландия"
     },
     "code": "IS",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -1658,6 +1726,7 @@
       "ru": "Индия"
     },
     "code": "IN",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -1682,6 +1751,7 @@
       "ru": "Индонезия"
     },
     "code": "ID",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -1706,6 +1776,7 @@
       "ru": "Иран"
     },
     "code": "IR",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -1730,6 +1801,7 @@
       "ru": "Ирак"
     },
     "code": "IQ",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -1754,6 +1826,7 @@
       "ru": "Ирландия"
     },
     "code": "IE",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -1778,6 +1851,7 @@
       "ru": "Израиль"
     },
     "code": "IL",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -1802,6 +1876,7 @@
       "ru": "Италия"
     },
     "code": "IT",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -1826,6 +1901,7 @@
       "ru": "Ямайка"
     },
     "code": "JM",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -1850,6 +1926,7 @@
       "ru": "Япония"
     },
     "code": "JP",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -1874,6 +1951,7 @@
       "ru": "Иордания"
     },
     "code": "JO",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -1898,6 +1976,7 @@
       "ru": "Казахстан"
     },
     "code": "KZ",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -1922,6 +2001,7 @@
       "ru": "Кения"
     },
     "code": "KE",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -1946,6 +2026,7 @@
       "ru": "Кирибати"
     },
     "code": "KI",
+    "region_code": "oceania",
     "region": {
       "en": "Oceania",
       "ru": "Океания"
@@ -1970,6 +2051,7 @@
       "ru": "Кувейт"
     },
     "code": "KW",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -1994,6 +2076,7 @@
       "ru": "Кыргызстан"
     },
     "code": "KG",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -2018,6 +2101,7 @@
       "ru": "Лаос"
     },
     "code": "LA",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -2042,6 +2126,7 @@
       "ru": "Латвия"
     },
     "code": "LV",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -2066,6 +2151,7 @@
       "ru": "Ливан"
     },
     "code": "LB",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -2090,6 +2176,7 @@
       "ru": "Лесото"
     },
     "code": "LS",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -2114,6 +2201,7 @@
       "ru": "Либерия"
     },
     "code": "LR",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -2138,6 +2226,7 @@
       "ru": "Ливия"
     },
     "code": "LY",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -2162,6 +2251,7 @@
       "ru": "Лихтенштейн"
     },
     "code": "LI",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -2186,6 +2276,7 @@
       "ru": "Литва"
     },
     "code": "LT",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -2210,6 +2301,7 @@
       "ru": "Люксембург"
     },
     "code": "LU",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -2234,6 +2326,7 @@
       "ru": "Мадагаскар"
     },
     "code": "MG",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -2258,6 +2351,7 @@
       "ru": "Малави"
     },
     "code": "MW",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -2282,6 +2376,7 @@
       "ru": "Малайзия"
     },
     "code": "MY",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -2306,6 +2401,7 @@
       "ru": "Мальдивы"
     },
     "code": "MV",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -2330,6 +2426,7 @@
       "ru": "Мальта"
     },
     "code": "MT",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -2354,6 +2451,7 @@
       "ru": "Мали"
     },
     "code": "ML",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -2378,6 +2476,7 @@
       "ru": "Мавритания"
     },
     "code": "MR",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -2402,6 +2501,7 @@
       "ru": "Маврикий"
     },
     "code": "MU",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -2426,6 +2526,7 @@
       "ru": "Мексика"
     },
     "code": "MX",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -2450,6 +2551,7 @@
       "ru": "Молдова"
     },
     "code": "MD",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -2474,6 +2576,7 @@
       "ru": "Монако"
     },
     "code": "MC",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -2498,6 +2601,7 @@
       "ru": "Монголия"
     },
     "code": "MN",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -2522,6 +2626,7 @@
       "ru": "Черногория"
     },
     "code": "ME",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -2546,6 +2651,7 @@
       "ru": "Марокко"
     },
     "code": "MA",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -2570,6 +2676,7 @@
       "ru": "Мозамбик"
     },
     "code": "MZ",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -2602,6 +2709,7 @@
       ]
     },
     "code": "MM",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -2626,6 +2734,7 @@
       "ru": "Намибия"
     },
     "code": "NA",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -2650,6 +2759,7 @@
       "ru": "Науру"
     },
     "code": "NR",
+    "region_code": "oceania",
     "region": {
       "en": "Oceania",
       "ru": "Океания"
@@ -2674,6 +2784,7 @@
       "ru": "Непал"
     },
     "code": "NP",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -2698,6 +2809,7 @@
       "ru": "Новая Зеландия"
     },
     "code": "NZ",
+    "region_code": "oceania",
     "region": {
       "en": "Oceania",
       "ru": "Океания"
@@ -2722,6 +2834,7 @@
       "ru": "Никарагуа"
     },
     "code": "NI",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -2746,6 +2859,7 @@
       "ru": "Нигер"
     },
     "code": "NE",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -2780,6 +2894,7 @@
       ]
     },
     "code": "KP",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -2804,6 +2919,7 @@
       "ru": "Нигерия"
     },
     "code": "NG",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -2828,6 +2944,7 @@
       "ru": "Северная Македония"
     },
     "code": "MK",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -2852,6 +2969,7 @@
       "ru": "Норвегия"
     },
     "code": "NO",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -2876,6 +2994,7 @@
       "ru": "Оман"
     },
     "code": "OM",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -2900,6 +3019,7 @@
       "ru": "Пакистан"
     },
     "code": "PK",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -2924,6 +3044,7 @@
       "ru": "Палау"
     },
     "code": "PW",
+    "region_code": "oceania",
     "region": {
       "en": "Oceania",
       "ru": "Океания"
@@ -2948,6 +3069,7 @@
       "ru": "Панама"
     },
     "code": "PA",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -2972,6 +3094,7 @@
       "ru": "Парагвай"
     },
     "code": "PY",
+    "region_code": "south_america",
     "region": {
       "en": "South America",
       "ru": "Южная Америка"
@@ -3003,6 +3126,7 @@
       "ru": "Папуа — Новая Гвинея"
     },
     "code": "PG",
+    "region_code": "oceania",
     "region": {
       "en": "Oceania",
       "ru": "Океания"
@@ -3027,6 +3151,7 @@
       "ru": "Перу"
     },
     "code": "PE",
+    "region_code": "south_america",
     "region": {
       "en": "South America",
       "ru": "Южная Америка"
@@ -3051,6 +3176,7 @@
       "ru": "Польша"
     },
     "code": "PL",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -3075,6 +3201,7 @@
       "ru": "Португалия"
     },
     "code": "PT",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -3099,6 +3226,7 @@
       "ru": "Катар"
     },
     "code": "QA",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -3123,6 +3251,7 @@
       "ru": "Румыния"
     },
     "code": "RO",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -3147,6 +3276,7 @@
       "ru": "Россия"
     },
     "code": "RU",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -3171,6 +3301,7 @@
       "ru": "Руанда"
     },
     "code": "RW",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -3195,6 +3326,7 @@
       "ru": "Сент-Китс и Невис"
     },
     "code": "KN",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -3219,6 +3351,7 @@
       "ru": "Сент-Люсия"
     },
     "code": "LC",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -3243,6 +3376,7 @@
       "ru": "Сан-Марино"
     },
     "code": "SM",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -3267,6 +3401,7 @@
       "ru": "Самоа"
     },
     "code": "WS",
+    "region_code": "oceania",
     "region": {
       "en": "Oceania",
       "ru": "Океания"
@@ -3291,6 +3426,7 @@
       "ru": "Саудовская Аравия"
     },
     "code": "SA",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -3315,6 +3451,7 @@
       "ru": "Сенегал"
     },
     "code": "SN",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -3339,6 +3476,7 @@
       "ru": "Сербия"
     },
     "code": "RS",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -3363,6 +3501,7 @@
       "ru": "Сент-Винсент и Гренадины"
     },
     "code": "VC",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -3387,6 +3526,7 @@
       "ru": "Сейшельские Острова"
     },
     "code": "SC",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -3411,6 +3551,7 @@
       "ru": "Сьерра-Леоне"
     },
     "code": "SL",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -3435,6 +3576,7 @@
       "ru": "Сингапур"
     },
     "code": "SG",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -3459,6 +3601,7 @@
       "ru": "Словакия"
     },
     "code": "SK",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -3483,6 +3626,7 @@
       "ru": "Словения"
     },
     "code": "SI",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -3507,6 +3651,7 @@
       "ru": "Сомали"
     },
     "code": "SO",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -3531,6 +3676,7 @@
       "ru": "Палестина"
     },
     "code": "PS",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -3555,6 +3701,7 @@
       "ru": "ЮАР"
     },
     "code": "ZA",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -3587,6 +3734,7 @@
       ]
     },
     "code": "KR",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -3611,6 +3759,7 @@
       "ru": "Южный Судан"
     },
     "code": "SS",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -3635,6 +3784,7 @@
       "ru": "Испания"
     },
     "code": "ES",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -3659,6 +3809,7 @@
       "ru": "Шри-Ланка"
     },
     "code": "LK",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -3683,6 +3834,7 @@
       "ru": "Судан"
     },
     "code": "SD",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -3707,6 +3859,7 @@
       "ru": "Суринам"
     },
     "code": "SR",
+    "region_code": "south_america",
     "region": {
       "en": "South America",
       "ru": "Южная Америка"
@@ -3731,6 +3884,7 @@
       "ru": "Швеция"
     },
     "code": "SE",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -3755,6 +3909,7 @@
       "ru": "Швейцария"
     },
     "code": "CH",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -3779,6 +3934,7 @@
       "ru": "Сан-Томе и Принсипи"
     },
     "code": "ST",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -3803,6 +3959,7 @@
       "ru": "Таджикистан"
     },
     "code": "TJ",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -3827,6 +3984,7 @@
       "ru": "Танзания"
     },
     "code": "TZ",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -3851,6 +4009,7 @@
       "ru": "Таиланд"
     },
     "code": "TH",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -3875,6 +4034,7 @@
       "ru": "Гамбия"
     },
     "code": "GM",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -3899,6 +4059,7 @@
       "ru": "Того"
     },
     "code": "TG",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -3923,6 +4084,7 @@
       "ru": "Тонга"
     },
     "code": "TO",
+    "region_code": "oceania",
     "region": {
       "en": "Oceania",
       "ru": "Океания"
@@ -3947,6 +4109,7 @@
       "ru": "Косово"
     },
     "code": "XK",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -3971,6 +4134,7 @@
       "ru": "Тринидад и Тобаго"
     },
     "code": "TT",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -3995,6 +4159,7 @@
       "ru": "Тунис"
     },
     "code": "TN",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -4024,6 +4189,7 @@
       ]
     },
     "code": "TR",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -4048,6 +4214,7 @@
       "ru": "Туркменистан"
     },
     "code": "TM",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -4072,6 +4239,7 @@
       "ru": "Тувалу"
     },
     "code": "TV",
+    "region_code": "oceania",
     "region": {
       "en": "Oceania",
       "ru": "Океания"
@@ -4096,6 +4264,7 @@
       "ru": "Уганда"
     },
     "code": "UG",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -4120,6 +4289,7 @@
       "ru": "Украина"
     },
     "code": "UA",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -4144,6 +4314,7 @@
       "ru": "Уругвай"
     },
     "code": "UY",
+    "region_code": "south_america",
     "region": {
       "en": "South America",
       "ru": "Южная Америка"
@@ -4168,6 +4339,7 @@
       "ru": "Узбекистан"
     },
     "code": "UZ",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -4192,6 +4364,7 @@
       "ru": "Вануату"
     },
     "code": "VU",
+    "region_code": "oceania",
     "region": {
       "en": "Oceania",
       "ru": "Океания"
@@ -4225,6 +4398,7 @@
       ]
     },
     "code": "VA",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -4249,6 +4423,7 @@
       "ru": "Венесуэла"
     },
     "code": "VE",
+    "region_code": "south_america",
     "region": {
       "en": "South America",
       "ru": "Южная Америка"
@@ -4273,6 +4448,7 @@
       "ru": "Вьетнам"
     },
     "code": "VN",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -4297,6 +4473,7 @@
       "ru": "Йемен"
     },
     "code": "YE",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -4321,6 +4498,7 @@
       "ru": "Замбия"
     },
     "code": "ZM",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -4345,6 +4523,7 @@
       "ru": "Зимбабве"
     },
     "code": "ZW",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -4369,6 +4548,7 @@
       "ru": "Багамские Острова"
     },
     "code": "BS",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -4393,6 +4573,7 @@
       "ru": "Центральноафриканская Республика"
     },
     "code": "CF",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -4417,6 +4598,7 @@
       "ru": "Коморы"
     },
     "code": "KM",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -4449,6 +4631,7 @@
       ]
     },
     "code": "CZ",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -4484,6 +4667,7 @@
       ]
     },
     "code": "CD",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -4508,6 +4692,7 @@
       "ru": "Доминиканская Республика"
     },
     "code": "DO",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"
@@ -4532,6 +4717,7 @@
       "ru": "Маршалловы Острова"
     },
     "code": "MH",
+    "region_code": "oceania",
     "region": {
       "en": "Oceania",
       "ru": "Океания"
@@ -4556,6 +4742,7 @@
       "ru": "Федеративные Штаты Микронезии"
     },
     "code": "FM",
+    "region_code": "oceania",
     "region": {
       "en": "Oceania",
       "ru": "Океания"
@@ -4580,6 +4767,7 @@
       "ru": "Нидерланды"
     },
     "code": "NL",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -4604,6 +4792,7 @@
       "ru": "Китай"
     },
     "code": "CN",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -4628,6 +4817,7 @@
       "ru": "Филиппины"
     },
     "code": "PH",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -4652,6 +4842,7 @@
       "ru": "Тайвань"
     },
     "code": "TW",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -4684,6 +4875,7 @@
       ]
     },
     "code": "CG",
+    "region_code": "africa",
     "region": {
       "en": "Africa",
       "ru": "Африка"
@@ -4708,6 +4900,7 @@
       "ru": "Соломоновы Острова"
     },
     "code": "SB",
+    "region_code": "oceania",
     "region": {
       "en": "Oceania",
       "ru": "Океания"
@@ -4740,6 +4933,7 @@
       ]
     },
     "code": "AE",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -4764,6 +4958,7 @@
       "ru": "Сирия"
     },
     "code": "SY",
+    "region_code": "asia",
     "region": {
       "en": "Asia",
       "ru": "Азия"
@@ -4796,6 +4991,7 @@
       ]
     },
     "code": "GB",
+    "region_code": "europe",
     "region": {
       "en": "Europe",
       "ru": "Европа"
@@ -4830,6 +5026,7 @@
       ]
     },
     "code": "US",
+    "region_code": "north_america",
     "region": {
       "en": "North America",
       "ru": "Северная Америка"

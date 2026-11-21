@@ -28,6 +28,7 @@ Filenames use lowercase two-letter country codes, plus `xk` for Kosovo and `py-r
 {
   "name": { "en": "Brazil", "ru": "Бразилия" },
   "code": "BR",
+  "region_code": "south_america",
   "region": { "en": "South America", "ru": "Южная Америка" },
   "flags": [
     { "id": "br", "aspect_ratio": [10, 7] }
@@ -45,6 +46,19 @@ https://cdn.jsdelivr.net/gh/vdistortion/country-flags@0.2.0/countries.json
 ```
 
 jsDelivr serves stored files without image resizing. Set SVG display dimensions with HTML/CSS; this does not reduce download size. Smaller raster images would need to be generated and published separately.
+
+### Region keys (unreleased)
+
+Use `region_code` for filtering and grouping, and `region.en` or `region.ru` for display. Region keys are catalog identifiers independent of the display labels, not ISO or UN M49 codes. The catalog assigns each country to one region; these assignments reflect the catalog's own grouping.
+
+| `region_code` | English | Russian |
+| --- | --- | --- |
+| `africa` | Africa | Африка |
+| `asia` | Asia | Азия |
+| `europe` | Europe | Европа |
+| `north_america` | North America | Северная Америка |
+| `oceania` | Oceania | Океания |
+| `south_america` | South America | Южная Америка |
 
 ### Search aliases (unreleased)
 
