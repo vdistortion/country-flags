@@ -17,6 +17,7 @@
       },
       "flags": {
         "type": "array",
+        "description": "Ordered flag variants. The first item is the primary flag; the remaining items are additional variants.",
         "minItems": 1,
         "items": {
           "$ref": "#/$defs/flag"

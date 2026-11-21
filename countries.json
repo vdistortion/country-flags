@@ -2,3574 +2,1200 @@
   {
     "code": "AF",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "af",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "kabul"
-      }
-    ]
+    "flags": [{ "id": "af", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "kabul" }]
   },
   {
     "code": "DZ",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "dz",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "algiers"
-      }
-    ]
+    "flags": [{ "id": "dz", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "algiers" }]
   },
   {
     "code": "AL",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "al",
-        "aspect_ratio": [
-          480,
-          343
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "tirana"
-      }
-    ]
+    "flags": [{ "id": "al", "aspect_ratio": [480, 343] }],
+    "capitals": [{ "id": "tirana" }]
   },
   {
     "code": "AD",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "ad",
-        "aspect_ratio": [
-          10,
-          7
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "andorra_la_vella"
-      }
-    ]
+    "flags": [{ "id": "ad", "aspect_ratio": [10, 7] }],
+    "capitals": [{ "id": "andorra_la_vella" }]
   },
   {
     "code": "AO",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "ao",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "luanda"
-      }
-    ]
+    "flags": [{ "id": "ao", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "luanda" }]
   },
   {
     "code": "AG",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "ag",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "st_john_s"
-      }
-    ]
+    "flags": [{ "id": "ag", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "st_john_s" }]
   },
   {
     "code": "AR",
     "region_code": "south_america",
-    "flags": [
-      {
-        "id": "ar",
-        "aspect_ratio": [
-          8,
-          5
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "buenos_aires"
-      }
-    ]
+    "flags": [{ "id": "ar", "aspect_ratio": [8, 5] }],
+    "capitals": [{ "id": "buenos_aires" }]
   },
   {
     "code": "AM",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "am",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "yerevan"
-      }
-    ]
+    "flags": [{ "id": "am", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "yerevan" }]
   },
   {
     "code": "AU",
     "region_code": "oceania",
-    "flags": [
-      {
-        "id": "au",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "canberra"
-      }
-    ]
+    "flags": [{ "id": "au", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "canberra" }]
   },
   {
     "code": "AT",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "at",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "vienna"
-      }
-    ]
+    "flags": [{ "id": "at", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "vienna" }]
   },
   {
     "code": "AZ",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "az",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "baku"
-      }
-    ]
+    "flags": [{ "id": "az", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "baku" }]
   },
   {
     "code": "BH",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "bh",
-        "aspect_ratio": [
-          5,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "manama"
-      }
-    ]
+    "flags": [{ "id": "bh", "aspect_ratio": [5, 3] }],
+    "capitals": [{ "id": "manama" }]
   },
   {
     "code": "BD",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "bd",
-        "aspect_ratio": [
-          5,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "dhaka"
-      }
-    ]
+    "flags": [{ "id": "bd", "aspect_ratio": [5, 3] }],
+    "capitals": [{ "id": "dhaka" }]
   },
   {
     "code": "BB",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "bb",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "bridgetown"
-      }
-    ]
+    "flags": [{ "id": "bb", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "bridgetown" }]
   },
   {
     "code": "BY",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "by",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "minsk"
-      }
-    ]
+    "flags": [{ "id": "by", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "minsk" }]
   },
   {
     "code": "BE",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "be",
-        "aspect_ratio": [
-          128,
-          111
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "brussels"
-      }
-    ]
+    "flags": [{ "id": "be", "aspect_ratio": [128, 111] }],
+    "capitals": [{ "id": "brussels" }]
   },
   {
     "code": "BZ",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "bz",
-        "aspect_ratio": [
-          5,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "belmopan"
-      }
-    ]
+    "flags": [{ "id": "bz", "aspect_ratio": [5, 3] }],
+    "capitals": [{ "id": "belmopan" }]
   },
   {
     "code": "BJ",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "bj",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "porto_novo"
-      }
-    ],
+    "flags": [{ "id": "bj", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "porto_novo" }],
     "seat_of_government": "cotonou"
   },
   {
     "code": "BT",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "bt",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "thimphu"
-      }
-    ]
+    "flags": [{ "id": "bt", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "thimphu" }]
   },
   {
     "code": "BO",
     "region_code": "south_america",
-    "flags": [
-      {
-        "id": "bo",
-        "aspect_ratio": [
-          192,
-          131
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "sucre"
-      }
-    ],
+    "flags": [{ "id": "bo", "aspect_ratio": [192, 131] }],
+    "capitals": [{ "id": "sucre" }],
     "seat_of_government": "la_paz"
   },
   {
     "code": "BA",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "ba",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "sarajevo"
-      }
-    ]
+    "flags": [{ "id": "ba", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "sarajevo" }]
   },
   {
     "code": "BW",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "bw",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "gaborone"
-      }
-    ]
+    "flags": [{ "id": "bw", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "gaborone" }]
   },
   {
     "code": "BR",
     "region_code": "south_america",
-    "flags": [
-      {
-        "id": "br",
-        "aspect_ratio": [
-          10,
-          7
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "brasilia"
-      }
-    ]
+    "flags": [{ "id": "br", "aspect_ratio": [10, 7] }],
+    "capitals": [{ "id": "brasilia" }]
   },
   {
     "code": "BN",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "bn",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "bandar_seri_begawan"
-      }
-    ]
+    "flags": [{ "id": "bn", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "bandar_seri_begawan" }]
   },
   {
     "code": "BG",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "bg",
-        "aspect_ratio": [
-          5,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "sofia"
-      }
-    ]
+    "flags": [{ "id": "bg", "aspect_ratio": [5, 3] }],
+    "capitals": [{ "id": "sofia" }]
   },
   {
     "code": "BF",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "bf",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "ouagadougou"
-      }
-    ]
+    "flags": [{ "id": "bf", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "ouagadougou" }]
   },
   {
     "code": "BI",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "bi",
-        "aspect_ratio": [
-          5,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "gitega"
-      }
-    ]
+    "flags": [{ "id": "bi", "aspect_ratio": [5, 3] }],
+    "capitals": [{ "id": "gitega" }]
   },
   {
     "code": "KH",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "kh",
-        "aspect_ratio": [
-          1920,
-          1229
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "phnom_penh"
-      }
-    ]
+    "flags": [{ "id": "kh", "aspect_ratio": [1920, 1229] }],
+    "capitals": [{ "id": "phnom_penh" }]
   },
   {
     "code": "CM",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "cm",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "yaounde"
-      }
-    ]
+    "flags": [{ "id": "cm", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "yaounde" }]
   },
   {
     "code": "CA",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "ca",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "ottawa"
-      }
-    ]
+    "flags": [{ "id": "ca", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "ottawa" }]
   },
   {
     "code": "CV",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "cv",
-        "aspect_ratio": [
-          192,
-          113
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "praia"
-      }
-    ]
+    "flags": [{ "id": "cv", "aspect_ratio": [192, 113] }],
+    "capitals": [{ "id": "praia" }]
   },
   {
     "code": "TD",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "td",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "n_djamena"
-      }
-    ]
+    "flags": [{ "id": "td", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "n_djamena" }]
   },
   {
     "code": "CL",
     "region_code": "south_america",
-    "flags": [
-      {
-        "id": "cl",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "santiago"
-      }
-    ]
+    "flags": [{ "id": "cl", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "santiago" }]
   },
   {
     "code": "CO",
     "region_code": "south_america",
-    "flags": [
-      {
-        "id": "co",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "bogota"
-      }
-    ]
+    "flags": [{ "id": "co", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "bogota" }]
   },
   {
     "code": "CR",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "cr",
-        "aspect_ratio": [
-          5,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "san_jose"
-      }
-    ]
+    "flags": [{ "id": "cr", "aspect_ratio": [5, 3] }],
+    "capitals": [{ "id": "san_jose" }]
   },
   {
     "code": "HR",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "hr",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "zagreb"
-      }
-    ]
+    "flags": [{ "id": "hr", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "zagreb" }]
   },
   {
     "code": "CU",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "cu",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "havana"
-      }
-    ]
+    "flags": [{ "id": "cu", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "havana" }]
   },
   {
     "code": "CI",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "ci",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "yamoussoukro"
-      }
-    ]
+    "flags": [{ "id": "ci", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "yamoussoukro" }]
   },
   {
     "code": "CY",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "cy",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "nicosia"
-      }
-    ]
+    "flags": [{ "id": "cy", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "nicosia" }]
   },
   {
     "code": "DK",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "dk",
-        "aspect_ratio": [
-          1280,
-          969
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "copenhagen"
-      }
-    ]
+    "flags": [{ "id": "dk", "aspect_ratio": [1280, 969] }],
+    "capitals": [{ "id": "copenhagen" }]
   },
   {
     "code": "DJ",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "dj",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "djibouti"
-      }
-    ]
+    "flags": [{ "id": "dj", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "djibouti" }]
   },
   {
     "code": "DM",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "dm",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "roseau"
-      }
-    ]
+    "flags": [{ "id": "dm", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "roseau" }]
   },
   {
     "code": "TL",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "tl",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "dili"
-      }
-    ]
+    "flags": [{ "id": "tl", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "dili" }]
   },
   {
     "code": "EC",
     "region_code": "south_america",
-    "flags": [
-      {
-        "id": "ec",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "quito"
-      }
-    ]
+    "flags": [{ "id": "ec", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "quito" }]
   },
   {
     "code": "EG",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "eg",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "cairo"
-      }
-    ]
+    "flags": [{ "id": "eg", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "cairo" }]
   },
   {
     "code": "SV",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "sv",
-        "aspect_ratio": [
-          480,
-          271
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "san_salvador"
-      }
-    ]
+    "flags": [{ "id": "sv", "aspect_ratio": [480, 271] }],
+    "capitals": [{ "id": "san_salvador" }]
   },
   {
     "code": "GQ",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "gq",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "ciudad_de_la_paz"
-      }
-    ]
+    "flags": [{ "id": "gq", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "ciudad_de_la_paz" }]
   },
   {
     "code": "ER",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "er",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "asmara"
-      }
-    ]
+    "flags": [{ "id": "er", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "asmara" }]
   },
   {
     "code": "EE",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "ee",
-        "aspect_ratio": [
-          960,
-          611
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "tallinn"
-      }
-    ]
+    "flags": [{ "id": "ee", "aspect_ratio": [960, 611] }],
+    "capitals": [{ "id": "tallinn" }]
   },
   {
     "code": "SZ",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "sz",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
+    "flags": [{ "id": "sz", "aspect_ratio": [3, 2] }],
     "capitals": [
-      {
-        "id": "mbabane",
-        "role": "administrative"
-      },
-      {
-        "id": "lobamba",
-        "role": "legislative"
-      }
+      { "id": "mbabane", "role": "administrative" },
+      { "id": "lobamba", "role": "legislative" }
     ]
   },
   {
     "code": "ET",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "et",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "addis_ababa"
-      }
-    ]
+    "flags": [{ "id": "et", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "addis_ababa" }]
   },
   {
     "code": "FJ",
     "region_code": "oceania",
-    "flags": [
-      {
-        "id": "fj",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "suva"
-      }
-    ]
+    "flags": [{ "id": "fj", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "suva" }]
   },
   {
     "code": "FI",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "fi",
-        "aspect_ratio": [
-          960,
-          587
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "helsinki"
-      }
-    ]
+    "flags": [{ "id": "fi", "aspect_ratio": [960, 587] }],
+    "capitals": [{ "id": "helsinki" }]
   },
   {
     "code": "FR",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "fr",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "paris"
-      }
-    ]
+    "flags": [{ "id": "fr", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "paris" }]
   },
   {
     "code": "GA",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "ga",
-        "aspect_ratio": [
-          4,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "libreville"
-      }
-    ]
+    "flags": [{ "id": "ga", "aspect_ratio": [4, 3] }],
+    "capitals": [{ "id": "libreville" }]
   },
   {
     "code": "GE",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "ge",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "tbilisi"
-      }
-    ]
+    "flags": [{ "id": "ge", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "tbilisi" }]
   },
   {
     "code": "DE",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "de",
-        "aspect_ratio": [
-          5,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "berlin"
-      }
-    ]
+    "flags": [{ "id": "de", "aspect_ratio": [5, 3] }],
+    "capitals": [{ "id": "berlin" }]
   },
   {
     "code": "GH",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "gh",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "accra"
-      }
-    ]
+    "flags": [{ "id": "gh", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "accra" }]
   },
   {
     "code": "GR",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "gr",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "athens"
-      }
-    ]
+    "flags": [{ "id": "gr", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "athens" }]
   },
   {
     "code": "GD",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "gd",
-        "aspect_ratio": [
-          5,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "st_george_s"
-      }
-    ]
+    "flags": [{ "id": "gd", "aspect_ratio": [5, 3] }],
+    "capitals": [{ "id": "st_george_s" }]
   },
   {
     "code": "GT",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "gt",
-        "aspect_ratio": [
-          8,
-          5
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "guatemala_city"
-      }
-    ]
+    "flags": [{ "id": "gt", "aspect_ratio": [8, 5] }],
+    "capitals": [{ "id": "guatemala_city" }]
   },
   {
     "code": "GW",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "gw",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "bissau"
-      }
-    ]
+    "flags": [{ "id": "gw", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "bissau" }]
   },
   {
     "code": "GN",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "gn",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "conakry"
-      }
-    ]
+    "flags": [{ "id": "gn", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "conakry" }]
   },
   {
     "code": "GY",
     "region_code": "south_america",
-    "flags": [
-      {
-        "id": "gy",
-        "aspect_ratio": [
-          5,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "georgetown"
-      }
-    ]
+    "flags": [{ "id": "gy", "aspect_ratio": [5, 3] }],
+    "capitals": [{ "id": "georgetown" }]
   },
   {
     "code": "HT",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "ht",
-        "aspect_ratio": [
-          5,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "port_au_prince"
-      }
-    ]
+    "flags": [{ "id": "ht", "aspect_ratio": [5, 3] }],
+    "capitals": [{ "id": "port_au_prince" }]
   },
   {
     "code": "HN",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "hn",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "tegucigalpa"
-      }
-    ]
+    "flags": [{ "id": "hn", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "tegucigalpa" }]
   },
   {
     "code": "HU",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "hu",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "budapest"
-      }
-    ]
+    "flags": [{ "id": "hu", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "budapest" }]
   },
   {
     "code": "IS",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "is",
-        "aspect_ratio": [
-          640,
-          461
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "reykjavik"
-      }
-    ]
+    "flags": [{ "id": "is", "aspect_ratio": [640, 461] }],
+    "capitals": [{ "id": "reykjavik" }]
   },
   {
     "code": "IN",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "in",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "new_delhi"
-      }
-    ]
+    "flags": [{ "id": "in", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "new_delhi" }]
   },
   {
     "code": "ID",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "id",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "jakarta"
-      }
-    ]
+    "flags": [{ "id": "id", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "jakarta" }]
   },
   {
     "code": "IR",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "ir",
-        "aspect_ratio": [
-          320,
-          183
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "tehran"
-      }
-    ]
+    "flags": [{ "id": "ir", "aspect_ratio": [320, 183] }],
+    "capitals": [{ "id": "tehran" }]
   },
   {
     "code": "IQ",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "iq",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "baghdad"
-      }
-    ]
+    "flags": [{ "id": "iq", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "baghdad" }]
   },
   {
     "code": "IE",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "ie",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "dublin"
-      }
-    ]
+    "flags": [{ "id": "ie", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "dublin" }]
   },
   {
     "code": "IL",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "il",
-        "aspect_ratio": [
-          1920,
-          1397
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "jerusalem",
-        "status": "proclaimed"
-      }
-    ]
+    "flags": [{ "id": "il", "aspect_ratio": [1920, 1397] }],
+    "capitals": [{ "id": "jerusalem", "status": "proclaimed" }]
   },
   {
     "code": "IT",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "it",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "rome"
-      }
-    ]
+    "flags": [{ "id": "it", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "rome" }]
   },
   {
     "code": "JM",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "jm",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "kingston"
-      }
-    ]
+    "flags": [{ "id": "jm", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "kingston" }]
   },
   {
     "code": "JP",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "jp",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "tokyo"
-      }
-    ]
+    "flags": [{ "id": "jp", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "tokyo" }]
   },
   {
     "code": "JO",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "jo",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "amman"
-      }
-    ]
+    "flags": [{ "id": "jo", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "amman" }]
   },
   {
     "code": "KZ",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "kz",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "astana"
-      }
-    ]
+    "flags": [{ "id": "kz", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "astana" }]
   },
   {
     "code": "KE",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "ke",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "nairobi"
-      }
-    ]
+    "flags": [{ "id": "ke", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "nairobi" }]
   },
   {
     "code": "KI",
     "region_code": "oceania",
-    "flags": [
-      {
-        "id": "ki",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "south_tarawa"
-      }
-    ]
+    "flags": [{ "id": "ki", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "south_tarawa" }]
   },
   {
     "code": "KW",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "kw",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "kuwait_city"
-      }
-    ]
+    "flags": [{ "id": "kw", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "kuwait_city" }]
   },
   {
     "code": "KG",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "kg",
-        "aspect_ratio": [
-          5,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "bishkek"
-      }
-    ]
+    "flags": [{ "id": "kg", "aspect_ratio": [5, 3] }],
+    "capitals": [{ "id": "bishkek" }]
   },
   {
     "code": "LA",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "la",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "vientiane"
-      }
-    ]
+    "flags": [{ "id": "la", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "vientiane" }]
   },
   {
     "code": "LV",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "lv",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "riga"
-      }
-    ]
+    "flags": [{ "id": "lv", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "riga" }]
   },
   {
     "code": "LB",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "lb",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "beirut"
-      }
-    ]
+    "flags": [{ "id": "lb", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "beirut" }]
   },
   {
     "code": "LS",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "ls",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "maseru"
-      }
-    ]
+    "flags": [{ "id": "ls", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "maseru" }]
   },
   {
     "code": "LR",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "lr",
-        "aspect_ratio": [
-          640,
-          337
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "monrovia"
-      }
-    ]
+    "flags": [{ "id": "lr", "aspect_ratio": [640, 337] }],
+    "capitals": [{ "id": "monrovia" }]
   },
   {
     "code": "LY",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "ly",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "tripoli"
-      }
-    ]
+    "flags": [{ "id": "ly", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "tripoli" }]
   },
   {
     "code": "LI",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "li",
-        "aspect_ratio": [
-          5,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "vaduz"
-      }
-    ]
+    "flags": [{ "id": "li", "aspect_ratio": [5, 3] }],
+    "capitals": [{ "id": "vaduz" }]
   },
   {
     "code": "LT",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "lt",
-        "aspect_ratio": [
-          5,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "vilnius"
-      }
-    ]
+    "flags": [{ "id": "lt", "aspect_ratio": [5, 3] }],
+    "capitals": [{ "id": "vilnius" }]
   },
   {
     "code": "LU",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "lu",
-        "aspect_ratio": [
-          5,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "luxembourg"
-      }
-    ]
+    "flags": [{ "id": "lu", "aspect_ratio": [5, 3] }],
+    "capitals": [{ "id": "luxembourg" }]
   },
   {
     "code": "MG",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "mg",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "antananarivo"
-      }
-    ]
+    "flags": [{ "id": "mg", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "antananarivo" }]
   },
   {
     "code": "MW",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "mw",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "lilongwe"
-      }
-    ]
+    "flags": [{ "id": "mw", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "lilongwe" }]
   },
   {
     "code": "MY",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "my",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "kuala_lumpur"
-      }
-    ],
+    "flags": [{ "id": "my", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "kuala_lumpur" }],
     "seat_of_government": "putrajaya"
   },
   {
     "code": "MV",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "mv",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "male"
-      }
-    ]
+    "flags": [{ "id": "mv", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "male" }]
   },
   {
     "code": "MT",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "mt",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "valletta"
-      }
-    ]
+    "flags": [{ "id": "mt", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "valletta" }]
   },
   {
     "code": "ML",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "ml",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "bamako"
-      }
-    ]
+    "flags": [{ "id": "ml", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "bamako" }]
   },
   {
     "code": "MR",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "mr",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "nouakchott"
-      }
-    ]
+    "flags": [{ "id": "mr", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "nouakchott" }]
   },
   {
     "code": "MU",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "mu",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "port_louis"
-      }
-    ]
+    "flags": [{ "id": "mu", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "port_louis" }]
   },
   {
     "code": "MX",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "mx",
-        "aspect_ratio": [
-          320,
-          183
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "mexico_city"
-      }
-    ]
+    "flags": [{ "id": "mx", "aspect_ratio": [320, 183] }],
+    "capitals": [{ "id": "mexico_city" }]
   },
   {
     "code": "MD",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "md",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "chisinau"
-      }
-    ]
+    "flags": [{ "id": "md", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "chisinau" }]
   },
   {
     "code": "MC",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "mc",
-        "aspect_ratio": [
-          5,
-          4
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "monaco"
-      }
-    ]
+    "flags": [{ "id": "mc", "aspect_ratio": [5, 4] }],
+    "capitals": [{ "id": "monaco" }]
   },
   {
     "code": "MN",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "mn",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "ulaanbaatar"
-      }
-    ]
+    "flags": [{ "id": "mn", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "ulaanbaatar" }]
   },
   {
     "code": "ME",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "me",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "podgorica"
-      }
-    ]
+    "flags": [{ "id": "me", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "podgorica" }]
   },
   {
     "code": "MA",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "ma",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "rabat"
-      }
-    ]
+    "flags": [{ "id": "ma", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "rabat" }]
   },
   {
     "code": "MZ",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "mz",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "maputo"
-      }
-    ]
+    "flags": [{ "id": "mz", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "maputo" }]
   },
   {
     "code": "MM",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "mm",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "naypyidaw"
-      }
-    ]
+    "flags": [{ "id": "mm", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "naypyidaw" }]
   },
   {
     "code": "NA",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "na",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "windhoek"
-      }
-    ]
+    "flags": [{ "id": "na", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "windhoek" }]
   },
   {
     "code": "NR",
     "region_code": "oceania",
-    "flags": [
-      {
-        "id": "nr",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
+    "flags": [{ "id": "nr", "aspect_ratio": [2, 1] }],
     "capitals": [],
     "seat_of_government": "yaren_district"
   },
   {
     "code": "NP",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "np",
-        "aspect_ratio": [
-          50,
-          61
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "kathmandu"
-      }
-    ]
+    "flags": [{ "id": "np", "aspect_ratio": [50, 61] }],
+    "capitals": [{ "id": "kathmandu" }]
   },
   {
     "code": "NZ",
     "region_code": "oceania",
-    "flags": [
-      {
-        "id": "nz",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "wellington"
-      }
-    ]
+    "flags": [{ "id": "nz", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "wellington" }]
   },
   {
     "code": "NI",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "ni",
-        "aspect_ratio": [
-          5,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "managua"
-      }
-    ]
+    "flags": [{ "id": "ni", "aspect_ratio": [5, 3] }],
+    "capitals": [{ "id": "managua" }]
   },
   {
     "code": "NE",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "ne",
-        "aspect_ratio": [
-          640,
-          549
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "niamey"
-      }
-    ]
+    "flags": [{ "id": "ne", "aspect_ratio": [640, 549] }],
+    "capitals": [{ "id": "niamey" }]
   },
   {
     "code": "KP",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "kp",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "pyongyang"
-      }
-    ]
+    "flags": [{ "id": "kp", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "pyongyang" }]
   },
   {
     "code": "NG",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "ng",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "abuja"
-      }
-    ]
+    "flags": [{ "id": "ng", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "abuja" }]
   },
   {
     "code": "MK",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "mk",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "skopje"
-      }
-    ]
+    "flags": [{ "id": "mk", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "skopje" }]
   },
   {
     "code": "NO",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "no",
-        "aspect_ratio": [
-          1920,
-          1397
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "oslo"
-      }
-    ]
+    "flags": [{ "id": "no", "aspect_ratio": [1920, 1397] }],
+    "capitals": [{ "id": "oslo" }]
   },
   {
     "code": "OM",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "om",
-        "aspect_ratio": [
-          320,
-          183
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "muscat"
-      }
-    ]
+    "flags": [{ "id": "om", "aspect_ratio": [320, 183] }],
+    "capitals": [{ "id": "muscat" }]
   },
   {
     "code": "PK",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "pk",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "islamabad"
-      }
-    ]
+    "flags": [{ "id": "pk", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "islamabad" }]
   },
   {
     "code": "PW",
     "region_code": "oceania",
-    "flags": [
-      {
-        "id": "pw",
-        "aspect_ratio": [
-          8,
-          5
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "ngerulmud"
-      }
-    ]
+    "flags": [{ "id": "pw", "aspect_ratio": [8, 5] }],
+    "capitals": [{ "id": "ngerulmud" }]
   },
   {
     "code": "PA",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "pa",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "panama_city"
-      }
-    ]
+    "flags": [{ "id": "pa", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "panama_city" }]
   },
   {
     "code": "PY",
     "region_code": "south_america",
     "flags": [
-      {
-        "id": "py",
-        "aspect_ratio": [
-          20,
-          11
-        ]
-      },
-      {
-        "id": "py-reverse",
-        "aspect_ratio": [
-          20,
-          11
-        ]
-      }
+      { "id": "py", "aspect_ratio": [20, 11] },
+      { "id": "py-reverse", "aspect_ratio": [20, 11] }
     ],
-    "capitals": [
-      {
-        "id": "asuncion"
-      }
-    ]
+    "capitals": [{ "id": "asuncion" }]
   },
   {
     "code": "PG",
     "region_code": "oceania",
-    "flags": [
-      {
-        "id": "pg",
-        "aspect_ratio": [
-          4,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "port_moresby"
-      }
-    ]
+    "flags": [{ "id": "pg", "aspect_ratio": [4, 3] }],
+    "capitals": [{ "id": "port_moresby" }]
   },
   {
     "code": "PE",
     "region_code": "south_america",
-    "flags": [
-      {
-        "id": "pe",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "lima"
-      }
-    ]
+    "flags": [{ "id": "pe", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "lima" }]
   },
   {
     "code": "PL",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "pl",
-        "aspect_ratio": [
-          8,
-          5
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "warsaw"
-      }
-    ]
+    "flags": [{ "id": "pl", "aspect_ratio": [8, 5] }],
+    "capitals": [{ "id": "warsaw" }]
   },
   {
     "code": "PT",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "pt",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "lisbon"
-      }
-    ]
+    "flags": [{ "id": "pt", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "lisbon" }]
   },
   {
     "code": "QA",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "qa",
-        "aspect_ratio": [
-          384,
-          151
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "doha"
-      }
-    ]
+    "flags": [{ "id": "qa", "aspect_ratio": [384, 151] }],
+    "capitals": [{ "id": "doha" }]
   },
   {
     "code": "RO",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "ro",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "bucharest"
-      }
-    ]
+    "flags": [{ "id": "ro", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "bucharest" }]
   },
   {
     "code": "RU",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "ru",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "moscow"
-      }
-    ]
+    "flags": [{ "id": "ru", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "moscow" }]
   },
   {
     "code": "RW",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "rw",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "kigali"
-      }
-    ]
+    "flags": [{ "id": "rw", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "kigali" }]
   },
   {
     "code": "KN",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "kn",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "basseterre"
-      }
-    ]
+    "flags": [{ "id": "kn", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "basseterre" }]
   },
   {
     "code": "LC",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "lc",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "castries"
-      }
-    ]
+    "flags": [{ "id": "lc", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "castries" }]
   },
   {
     "code": "SM",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "sm",
-        "aspect_ratio": [
-          4,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "san_marino"
-      }
-    ]
+    "flags": [{ "id": "sm", "aspect_ratio": [4, 3] }],
+    "capitals": [{ "id": "san_marino" }]
   },
   {
     "code": "WS",
     "region_code": "oceania",
-    "flags": [
-      {
-        "id": "ws",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "apia"
-      }
-    ]
+    "flags": [{ "id": "ws", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "apia" }]
   },
   {
     "code": "SA",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "sa",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "riyadh"
-      }
-    ]
+    "flags": [{ "id": "sa", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "riyadh" }]
   },
   {
     "code": "SN",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "sn",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "dakar"
-      }
-    ]
+    "flags": [{ "id": "sn", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "dakar" }]
   },
   {
     "code": "RS",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "rs",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "belgrade"
-      }
-    ]
+    "flags": [{ "id": "rs", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "belgrade" }]
   },
   {
     "code": "VC",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "vc",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "kingstown"
-      }
-    ]
+    "flags": [{ "id": "vc", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "kingstown" }]
   },
   {
     "code": "SC",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "sc",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "victoria"
-      }
-    ]
+    "flags": [{ "id": "sc", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "victoria" }]
   },
   {
     "code": "SL",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "sl",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "freetown"
-      }
-    ]
+    "flags": [{ "id": "sl", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "freetown" }]
   },
   {
     "code": "SG",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "sg",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "singapore"
-      }
-    ]
+    "flags": [{ "id": "sg", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "singapore" }]
   },
   {
     "code": "SK",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "sk",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "bratislava"
-      }
-    ]
+    "flags": [{ "id": "sk", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "bratislava" }]
   },
   {
     "code": "SI",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "si",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "ljubljana"
-      }
-    ]
+    "flags": [{ "id": "si", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "ljubljana" }]
   },
   {
     "code": "SO",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "so",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "mogadishu"
-      }
-    ]
+    "flags": [{ "id": "so", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "mogadishu" }]
   },
   {
     "code": "PS",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "ps",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "east_jerusalem",
-        "status": "claimed"
-      }
-    ],
+    "flags": [{ "id": "ps", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "east_jerusalem", "status": "claimed" }],
     "seat_of_government": "ramallah"
   },
   {
     "code": "ZA",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "za",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
+    "flags": [{ "id": "za", "aspect_ratio": [3, 2] }],
     "capitals": [
-      {
-        "id": "pretoria",
-        "role": "administrative"
-      },
-      {
-        "id": "cape_town",
-        "role": "legislative"
-      },
-      {
-        "id": "bloemfontein",
-        "role": "judicial"
-      }
+      { "id": "pretoria", "role": "administrative" },
+      { "id": "cape_town", "role": "legislative" },
+      { "id": "bloemfontein", "role": "judicial" }
     ]
   },
   {
     "code": "KR",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "kr",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "seoul"
-      }
-    ]
+    "flags": [{ "id": "kr", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "seoul" }]
   },
   {
     "code": "SS",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "ss",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "juba"
-      }
-    ]
+    "flags": [{ "id": "ss", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "juba" }]
   },
   {
     "code": "ES",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "es",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "madrid"
-      }
-    ]
+    "flags": [{ "id": "es", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "madrid" }]
   },
   {
     "code": "LK",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "lk",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "sri_jayawardenepura_kotte"
-      }
-    ]
+    "flags": [{ "id": "lk", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "sri_jayawardenepura_kotte" }]
   },
   {
     "code": "SD",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "sd",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "khartoum"
-      }
-    ]
+    "flags": [{ "id": "sd", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "khartoum" }]
   },
   {
     "code": "SR",
     "region_code": "south_america",
-    "flags": [
-      {
-        "id": "sr",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "paramaribo"
-      }
-    ]
+    "flags": [{ "id": "sr", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "paramaribo" }]
   },
   {
     "code": "SE",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "se",
-        "aspect_ratio": [
-          8,
-          5
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "stockholm"
-      }
-    ]
+    "flags": [{ "id": "se", "aspect_ratio": [8, 5] }],
+    "capitals": [{ "id": "stockholm" }]
   },
   {
     "code": "CH",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "ch",
-        "aspect_ratio": [
-          1,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "bern",
-        "status": "de_facto"
-      }
-    ]
+    "flags": [{ "id": "ch", "aspect_ratio": [1, 1] }],
+    "capitals": [{ "id": "bern", "status": "de_facto" }]
   },
   {
     "code": "ST",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "st",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "sao_tome"
-      }
-    ]
+    "flags": [{ "id": "st", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "sao_tome" }]
   },
   {
     "code": "TJ",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "tj",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "dushanbe"
-      }
-    ]
+    "flags": [{ "id": "tj", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "dushanbe" }]
   },
   {
     "code": "TZ",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "tz",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "dodoma"
-      }
-    ]
+    "flags": [{ "id": "tz", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "dodoma" }]
   },
   {
     "code": "TH",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "th",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "bangkok"
-      }
-    ]
+    "flags": [{ "id": "th", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "bangkok" }]
   },
   {
     "code": "GM",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "gm",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "banjul"
-      }
-    ]
+    "flags": [{ "id": "gm", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "banjul" }]
   },
   {
     "code": "TG",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "tg",
-        "aspect_ratio": [
-          1920,
-          1187
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "lome"
-      }
-    ]
+    "flags": [{ "id": "tg", "aspect_ratio": [1920, 1187] }],
+    "capitals": [{ "id": "lome" }]
   },
   {
     "code": "TO",
     "region_code": "oceania",
-    "flags": [
-      {
-        "id": "to",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "nuku_alofa"
-      }
-    ]
+    "flags": [{ "id": "to", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "nuku_alofa" }]
   },
   {
     "code": "XK",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "xk",
-        "aspect_ratio": [
-          480,
-          343
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "pristina"
-      }
-    ]
+    "flags": [{ "id": "xk", "aspect_ratio": [480, 343] }],
+    "capitals": [{ "id": "pristina" }]
   },
   {
     "code": "TT",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "tt",
-        "aspect_ratio": [
-          5,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "port_of_spain"
-      }
-    ]
+    "flags": [{ "id": "tt", "aspect_ratio": [5, 3] }],
+    "capitals": [{ "id": "port_of_spain" }]
   },
   {
     "code": "TN",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "tn",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "tunis"
-      }
-    ]
+    "flags": [{ "id": "tn", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "tunis" }]
   },
   {
     "code": "TR",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "tr",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "ankara"
-      }
-    ]
+    "flags": [{ "id": "tr", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "ankara" }]
   },
   {
     "code": "TM",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "tm",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "ashgabat"
-      }
-    ]
+    "flags": [{ "id": "tm", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "ashgabat" }]
   },
   {
     "code": "TV",
     "region_code": "oceania",
-    "flags": [
-      {
-        "id": "tv",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "funafuti"
-      }
-    ]
+    "flags": [{ "id": "tv", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "funafuti" }]
   },
   {
     "code": "UG",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "ug",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "kampala"
-      }
-    ]
+    "flags": [{ "id": "ug", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "kampala" }]
   },
   {
     "code": "UA",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "ua",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "kyiv"
-      }
-    ]
+    "flags": [{ "id": "ua", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "kyiv" }]
   },
   {
     "code": "UY",
     "region_code": "south_america",
-    "flags": [
-      {
-        "id": "uy",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "montevideo"
-      }
-    ]
+    "flags": [{ "id": "uy", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "montevideo" }]
   },
   {
     "code": "UZ",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "uz",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "tashkent"
-      }
-    ]
+    "flags": [{ "id": "uz", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "tashkent" }]
   },
   {
     "code": "VU",
     "region_code": "oceania",
-    "flags": [
-      {
-        "id": "vu",
-        "aspect_ratio": [
-          5,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "port_vila"
-      }
-    ]
+    "flags": [{ "id": "vu", "aspect_ratio": [5, 3] }],
+    "capitals": [{ "id": "port_vila" }]
   },
   {
     "code": "VA",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "va",
-        "aspect_ratio": [
-          1,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "vatican_city"
-      }
-    ]
+    "flags": [{ "id": "va", "aspect_ratio": [1, 1] }],
+    "capitals": [{ "id": "vatican_city" }]
   },
   {
     "code": "VE",
     "region_code": "south_america",
-    "flags": [
-      {
-        "id": "ve",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "caracas"
-      }
-    ]
+    "flags": [{ "id": "ve", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "caracas" }]
   },
   {
     "code": "VN",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "vn",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "hanoi"
-      }
-    ]
+    "flags": [{ "id": "vn", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "hanoi" }]
   },
   {
     "code": "YE",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "ye",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "sana_a"
-      }
-    ],
+    "flags": [{ "id": "ye", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "sana_a" }],
     "seat_of_government": "aden"
   },
   {
     "code": "ZM",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "zm",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "lusaka"
-      }
-    ]
+    "flags": [{ "id": "zm", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "lusaka" }]
   },
   {
     "code": "ZW",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "zw",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "harare"
-      }
-    ]
+    "flags": [{ "id": "zw", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "harare" }]
   },
   {
     "code": "BS",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "bs",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "nassau"
-      }
-    ]
+    "flags": [{ "id": "bs", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "nassau" }]
   },
   {
     "code": "CF",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "cf",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "bangui"
-      }
-    ]
+    "flags": [{ "id": "cf", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "bangui" }]
   },
   {
     "code": "KM",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "km",
-        "aspect_ratio": [
-          5,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "moroni"
-      }
-    ]
+    "flags": [{ "id": "km", "aspect_ratio": [5, 3] }],
+    "capitals": [{ "id": "moroni" }]
   },
   {
     "code": "CZ",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "cz",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "prague"
-      }
-    ]
+    "flags": [{ "id": "cz", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "prague" }]
   },
   {
     "code": "CD",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "cd",
-        "aspect_ratio": [
-          4,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "kinshasa"
-      }
-    ]
+    "flags": [{ "id": "cd", "aspect_ratio": [4, 3] }],
+    "capitals": [{ "id": "kinshasa" }]
   },
   {
     "code": "DO",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "do",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "santo_domingo"
-      }
-    ]
+    "flags": [{ "id": "do", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "santo_domingo" }]
   },
   {
     "code": "MH",
     "region_code": "oceania",
-    "flags": [
-      {
-        "id": "mh",
-        "aspect_ratio": [
-          640,
-          337
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "majuro"
-      }
-    ]
+    "flags": [{ "id": "mh", "aspect_ratio": [640, 337] }],
+    "capitals": [{ "id": "majuro" }]
   },
   {
     "code": "FM",
     "region_code": "oceania",
-    "flags": [
-      {
-        "id": "fm",
-        "aspect_ratio": [
-          640,
-          337
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "palikir"
-      }
-    ]
+    "flags": [{ "id": "fm", "aspect_ratio": [640, 337] }],
+    "capitals": [{ "id": "palikir" }]
   },
   {
     "code": "NL",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "nl",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "amsterdam"
-      }
-    ],
+    "flags": [{ "id": "nl", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "amsterdam" }],
     "seat_of_government": "the_hague"
   },
   {
     "code": "CN",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "cn",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "beijing"
-      }
-    ]
+    "flags": [{ "id": "cn", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "beijing" }]
   },
   {
     "code": "PH",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "ph",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "manila"
-      }
-    ]
+    "flags": [{ "id": "ph", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "manila" }]
   },
   {
     "code": "TW",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "tw",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "taipei"
-      }
-    ]
+    "flags": [{ "id": "tw", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "taipei" }]
   },
   {
     "code": "CG",
     "region_code": "africa",
-    "flags": [
-      {
-        "id": "cg",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "brazzaville"
-      }
-    ]
+    "flags": [{ "id": "cg", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "brazzaville" }]
   },
   {
     "code": "SB",
     "region_code": "oceania",
-    "flags": [
-      {
-        "id": "sb",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "honiara"
-      }
-    ]
+    "flags": [{ "id": "sb", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "honiara" }]
   },
   {
     "code": "AE",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "ae",
-        "aspect_ratio": [
-          2,
-          1
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "abu_dhabi"
-      }
-    ]
+    "flags": [{ "id": "ae", "aspect_ratio": [2, 1] }],
+    "capitals": [{ "id": "abu_dhabi" }]
   },
   {
     "code": "SY",
     "region_code": "asia",
-    "flags": [
-      {
-        "id": "sy",
-        "aspect_ratio": [
-          3,
-          2
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "damascus"
-      }
-    ]
+    "flags": [{ "id": "sy", "aspect_ratio": [3, 2] }],
+    "capitals": [{ "id": "damascus" }]
   },
   {
     "code": "GB",
     "region_code": "europe",
-    "flags": [
-      {
-        "id": "gb",
-        "aspect_ratio": [
-          5,
-          3
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "london"
-      }
-    ]
+    "flags": [{ "id": "gb", "aspect_ratio": [5, 3] }],
+    "capitals": [{ "id": "london" }]
   },
   {
     "code": "US",
     "region_code": "north_america",
-    "flags": [
-      {
-        "id": "us",
-        "aspect_ratio": [
-          640,
-          337
-        ]
-      }
-    ],
-    "capitals": [
-      {
-        "id": "washington_d_c"
-      }
-    ]
+    "flags": [{ "id": "us", "aspect_ratio": [640, 337] }],
+    "capitals": [{ "id": "washington_d_c" }]
   }
 ]
