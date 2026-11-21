@@ -52,7 +52,7 @@ Uzbekistan also received an explicit red correction (`#ce1126 → #ed172f`) befo
 | [`cu`](flags/cu.svg) | Cuba | 1920 × 960 | [Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Cuba.svg) | `#002a8f → #002a90` |
 | [`cv`](flags/cv.svg) | Cabo Verde | 1920 × 1130 | [FlagCDN](https://flagcdn.com/cv.svg) | `#003893 → #013893`; `#cf2027 → #ce2027` |
 | [`cy`](flags/cy.svg) | Cyprus | 1920 × 1280 | [Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Cyprus.svg) | `#d67900 → #d77900` |
-| [`cz`](flags/cz.svg) | Czech Republic | 1920 × 1280 | [Commons](https://commons.wikimedia.org/wiki/File:Flag_of_the_Czech_Republic.svg) | `#11457e → #11467f`; `#d7141a → #d7141b` |
+| [`cz`](flags/cz.svg) | Czechia | 1920 × 1280 | [Commons](https://commons.wikimedia.org/wiki/File:Flag_of_the_Czech_Republic.svg) | `#11457e → #11467f`; `#d7141a → #d7141b` |
 | [`de`](flags/de.svg) | Germany | 1920 × 1152 | [Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Germany.svg) | `#FFCE00 → #fece00` |
 | [`dj`](flags/dj.svg) | Djibouti | 1920 × 1280 | [Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Djibouti.svg) | `#6ab2e7 → #6ab3e8`; `#d7141a → #d7141b` |
 | [`dk`](flags/dk.svg) | Denmark | 1280 × 969 | [Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Denmark.svg) | `#c8102e → #c9102e` |
@@ -142,7 +142,7 @@ Uzbekistan also received an explicit red correction (`#ce1126 → #ed172f`) befo
 | [`nl`](flags/nl.svg) | Netherlands | 1920 × 1280 | [Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Netherlands.svg) | `#21468B → #21458b`; `#AE1C28 → #ae1c29` |
 | [`no`](flags/no.svg) | Norway | 1920 × 1397 | [Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Norway.svg) | `#00205b → #00205c`; `#ba0c2f → #ba0b2f` |
 | [`np`](flags/np.svg) | Nepal | 800 × 976 | [FlagCDN](https://flagcdn.com/np.svg) | `#003893 → #013893`; `#DC143C → #db133c` |
-| [`nr`](flags/nr.svg) | Nauru | 1920 × 960 | [Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Nauru.svg) | `#012169 → #012168`; `#ffc72c → #ffc62d` |
+| [`nr`](flags/nr.svg) | Naoero | 1920 × 960 | [Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Nauru.svg) | `#012169 → #012168`; `#ffc72c → #ffc62d` |
 | [`nz`](flags/nz.svg) | New Zealand | 1920 × 960 | [Commons](https://commons.wikimedia.org/wiki/File:Flag_of_New_Zealand.svg) | `#012169 → #012168`; `#C8102E → #c9102e` |
 | [`om`](flags/om.svg) | Oman | 1920 × 1098 | [FlagCDN](https://flagcdn.com/om.svg) | `#df1a23 → #df1a24` |
 | [`pa`](flags/pa.svg) | Panama | 1920 × 1280 | [Commons](https://commons.wikimedia.org/wiki/File:Flag_of_Panama.svg) | `#da121a → #da131b` |

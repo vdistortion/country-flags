@@ -6,7 +6,7 @@
 
 - `countries.json` now contains language-independent data only. Load country names and aliases by country code, region labels by `region_code`, and city names by ID from `locales/en.json` or `locales/ru.json`. Use the same version for the catalog, locale, and SVGs.
 - `flag` (an array of filenames) became `flags` (an ordered array of objects with an extensionless `id` and an `aspect_ratio`). Use `flags[0]` as the primary flag and build SVG URLs as `flags/{id}.svg`.
-- `capital_city` (one localized name) became `capitals` (an array of city IDs with optional roles and statuses). Use the optional `seat_of_government` ID for an administrative center listed separately.
+- `capital_city` (one localized name) became `capitals` (an array of objects with a city `id` and optional `role` and `status`). Use the optional `seat_of_government` ID for an administrative center listed separately.
 
 ### Other changes
 

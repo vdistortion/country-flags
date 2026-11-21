@@ -1,41 +1,37 @@
 # country-flags
 
-A curated collection of 198 SVGs: 197 countries and the reverse of Paraguay's flag. Natural proportions, detailed artwork, no embedded raster images.
+198 SVG flags for 197 countries, including both sides of Paraguay's flag. The collection preserves each flag's proportions and includes English and Russian metadata. SVGs contain no embedded raster images.
 
 The artwork comes from third-party sources; this project collects and adapts it rather than claiming original authorship. [Countries, sources and changes →](CATALOG.md)
 
-## CDN: version 0.2.0
+## Quick start: 0.3.0
 
-To embed a flag, use its filename from [`flags/`](flags/). This example pins the commit for `0.2.0`:
+To embed a flag, use its filename from [`flags/`](flags/). The examples pin release `0.3.0`:
 
 ```html
 <img
-  src="https://cdn.jsdelivr.net/gh/vdistortion/country-flags@3ae2314fe21f7aa68464dcf8fca039d6a935bfb0/flags/br.svg"
+  src="https://cdn.jsdelivr.net/gh/vdistortion/country-flags@0.3.0/flags/br.svg"
   alt="Brazil"
   width="220"
 />
 ```
 
-Pin a commit SHA or an immutable release tag. Avoid `@main` in production: the branch can change, and jsDelivr may not reflect changes immediately. For `0.2.0`, use the commit SHA because jsDelivr may still serve an older catalog at `@0.2.0`.
-
-The `0.2.0` catalog has an array of SVG filenames in `flag` and a localized object in `capital_city`. It does not have separate locale files. Fetch [`countries.json`](https://cdn.jsdelivr.net/gh/vdistortion/country-flags@3ae2314fe21f7aa68464dcf8fca039d6a935bfb0/countries.json) and append `flags/` and the filename to the same versioned base URL.
+Use a commit SHA or an immutable release tag, not `@main`, in production. Keep the catalog, locale files, and SVGs on the same version. Upgrading from `0.2.0`? See the [breaking changes](CHANGELOG.md#breaking-changes).
 
 Filenames use lowercase two-letter country codes, plus `xk` for Kosovo and `py-reverse` for Paraguay's reverse. This is a selected collection, not a complete ISO territory list. Afghanistan uses the 2013–2021 tricolour; Syria uses the green–white–black flag with three red stars.
 
-## Country metadata: version 0.3.0
+## Country metadata
 
 [`countries.json`](countries.json) contains language-independent data for 197 countries: country and region codes, flag metadata, and city IDs with capital roles and statuses.
+
+Use `code` to identify a country. The order of countries is not part of the catalog contract; sort by the localized name for display.
 
 ```json
 {
   "code": "BR",
   "region_code": "south_america",
-  "flags": [
-    { "id": "br", "aspect_ratio": [10, 7] }
-  ],
-  "capitals": [
-    { "id": "brasilia" }
-  ]
+  "flags": [{ "id": "br", "aspect_ratio": [10, 7] }],
+  "capitals": [{ "id": "brasilia" }]
 }
 ```
 
@@ -43,7 +39,7 @@ Each flag `id` is extensionless. Build the SVG URL as `flags/{id}.svg`, relative
 
 ### Loading the catalog and a locale
 
-This example requires the published `0.3.0` tag. To test before tagging, replace `0.3.0` in the base URL with the SHA of a pushed commit. Use the same version for the catalog, the locale, and the SVG:
+Pass `locales/ru.json` instead of `locales/en.json` to display Russian names. Catalog and locale files are plain JSON; no SDK is required.
 
 ```js
 const base = "https://cdn.jsdelivr.net/gh/vdistortion/country-flags@0.3.0/";
@@ -67,7 +63,7 @@ const flagUrl = new URL(`flags/${flag.id}.svg`, base).href;
 const name = locale.countries[country.code].name;
 const region = locale.regions[country.region_code];
 const capitals = country.capitals.map(({ id }) => locale.cities[id]);
-const [width, height] = flag.aspect_ratio;
+const [aspectWidth, aspectHeight] = flag.aspect_ratio;
 ```
 
 jsDelivr serves stored files without image resizing. Set SVG display dimensions with HTML/CSS; this does not reduce download size. Smaller raster images would need to be generated and published separately.
@@ -139,4 +135,6 @@ SVG dimensions/proportions were matched to a reference collection, colours were 
 
 ## Releases
 
-See [CHANGELOG.md](CHANGELOG.md). No build step or formatter is required. SVG files are published as stored; avoid formatting or optimizing them as part of documentation edits.
+See [CHANGELOG.md](CHANGELOG.md). No build step or formatter is required. SVG files are published as stored.
+
+Do not move published tags. Publish corrections under a new version. Before recommending a new tag, compare `countries.json`, both locale files, and a representative SVG from jsDelivr with the tagged commit.
