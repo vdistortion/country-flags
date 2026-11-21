@@ -33,19 +33,31 @@ Filenames use lowercase two-letter country codes, plus `xk` for Kosovo and `py-r
   "flags": [
     { "id": "br", "aspect_ratio": [10, 7] }
   ],
-  "capital_city": { "en": "Brasília", "ru": "Бразилиа" }
+  "capitals": [
+    { "name": { "en": "Brasília", "ru": "Бразилиа" } }
+  ]
 }
 ```
 
 Each flag `id` is extensionless. Build the SVG URL as `flags/{id}.svg`, relative to `countries.json` at the same version. Paraguay lists both `py` (obverse) and `py-reverse` (reverse).
 
-The published `0.2.0` catalog is also available through the CDN. It still uses `flag`, an array of SVG filenames:
+The published `0.2.0` catalog is also available through the CDN. It still uses `flag` (an array of SVG filenames) and `capital_city` (one localized name):
 
 ```text
 https://cdn.jsdelivr.net/gh/vdistortion/country-flags@0.2.0/countries.json
 ```
 
 jsDelivr serves stored files without image resizing. Set SVG display dimensions with HTML/CSS; this does not reduce download size. Smaller raster images would need to be generated and published separately.
+
+### Capitals (unreleased)
+
+`capitals` is always an array. Each entry has a localized `name` and may have a `role` (`administrative`, `legislative`, `judicial`) or a `status` (`de_facto`, `proclaimed`, `claimed`). Status describes how the city is treated as a capital, independently of the functions it serves. The array is not ranked.
+
+`seat_of_government` is an optional localized name for a separately listed seat of government or administrative center. For example, the Netherlands lists Amsterdam as its capital and The Hague as its seat of government. Naoero has an empty `capitals` array and lists Yaren District separately. Palestine lists East Jerusalem as its claimed capital and Ramallah as the administrative center of the Palestinian Authority. Yemen lists Sana'a as its capital and [Aden as the interim seat of its internationally recognized government](https://transcripts.un.org/en/sc/10090).
+
+For display and search, use the names of all listed cities, keeping the government seat distinct from the capital. For a quiz that expects one unqualified answer, a conservative starting point is to use only countries with one capital, no explicit role or status, and no separate government seat.
+
+References for special cases include the [South African government](https://www.gov.za/about-sa/south-africa-glance-0), [Britannica on Eswatini](https://www.britannica.com/place/Lobamba) and [Ramallah](https://www.britannica.com/place/Ramallah), the [Swiss Federal Department of Foreign Affairs](https://www.aboutswitzerland.eda.admin.ch/en/political-system), and UN material on [Naoero](https://micronesia.un.org/en/about/nauru) and [Jerusalem](https://www.un.org/unispal/document/auto-insert-203463).
 
 ### Region keys (unreleased)
 

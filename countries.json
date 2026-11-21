@@ -19,10 +19,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Kabul",
-      "ru": "Кабул"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Kabul",
+          "ru": "Кабул"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -44,10 +48,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Algiers",
-      "ru": "Алжир"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Algiers",
+          "ru": "Алжир"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -69,10 +77,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Tirana",
-      "ru": "Тирана"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Tirana",
+          "ru": "Тирана"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -94,10 +106,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Andorra la Vella",
-      "ru": "Андорра-ла-Велья"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Andorra la Vella",
+          "ru": "Андорра-ла-Велья"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -119,10 +135,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Luanda",
-      "ru": "Луанда"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Luanda",
+          "ru": "Луанда"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -144,10 +164,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "St. John's",
-      "ru": "Сент-Джонс"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "St. John's",
+          "ru": "Сент-Джонс"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -169,10 +193,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Buenos Aires",
-      "ru": "Буэнос-Айрес"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Buenos Aires",
+          "ru": "Буэнос-Айрес"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -194,10 +222,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Yerevan",
-      "ru": "Ереван"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Yerevan",
+          "ru": "Ереван"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -219,10 +251,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Canberra",
-      "ru": "Канберра"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Canberra",
+          "ru": "Канберра"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -244,10 +280,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Vienna",
-      "ru": "Вена"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Vienna",
+          "ru": "Вена"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -269,10 +309,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Baku",
-      "ru": "Баку"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Baku",
+          "ru": "Баку"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -294,10 +338,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Manama",
-      "ru": "Манама"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Manama",
+          "ru": "Манама"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -319,10 +367,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Dhaka",
-      "ru": "Дакка"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Dhaka",
+          "ru": "Дакка"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -344,10 +396,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Bridgetown",
-      "ru": "Бриджтаун"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Bridgetown",
+          "ru": "Бриджтаун"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -369,10 +425,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Minsk",
-      "ru": "Минск"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Minsk",
+          "ru": "Минск"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -394,10 +454,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Brussels",
-      "ru": "Брюссель"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Brussels",
+          "ru": "Брюссель"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -419,10 +483,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Belmopan",
-      "ru": "Бельмопан"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Belmopan",
+          "ru": "Бельмопан"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -444,9 +512,17 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Porto-Novo",
-      "ru": "Порто-Ново"
+    "capitals": [
+      {
+        "name": {
+          "en": "Porto-Novo",
+          "ru": "Порто-Ново"
+        }
+      }
+    ],
+    "seat_of_government": {
+      "en": "Cotonou",
+      "ru": "Котону"
     }
   },
   {
@@ -469,10 +545,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Thimphu",
-      "ru": "Тхимпху"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Thimphu",
+          "ru": "Тхимпху"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -494,9 +574,17 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Sucre",
-      "ru": "Сукре"
+    "capitals": [
+      {
+        "name": {
+          "en": "Sucre",
+          "ru": "Сукре"
+        }
+      }
+    ],
+    "seat_of_government": {
+      "en": "La Paz",
+      "ru": "Ла-Пас"
     }
   },
   {
@@ -519,10 +607,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Sarajevo",
-      "ru": "Сараево"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Sarajevo",
+          "ru": "Сараево"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -544,10 +636,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Gaborone",
-      "ru": "Габороне"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Gaborone",
+          "ru": "Габороне"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -569,10 +665,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Brasília",
-      "ru": "Бразилиа"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Brasília",
+          "ru": "Бразилиа"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -594,10 +694,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Bandar Seri Begawan",
-      "ru": "Бандар-Сери-Бегаван"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Bandar Seri Begawan",
+          "ru": "Бандар-Сери-Бегаван"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -619,10 +723,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Sofia",
-      "ru": "София"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Sofia",
+          "ru": "София"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -644,10 +752,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Ouagadougou",
-      "ru": "Уагадугу"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Ouagadougou",
+          "ru": "Уагадугу"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -669,10 +781,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Gitega",
-      "ru": "Гитега"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Gitega",
+          "ru": "Гитега"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -694,10 +810,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Phnom Penh",
-      "ru": "Пномпень"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Phnom Penh",
+          "ru": "Пномпень"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -719,10 +839,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Yaoundé",
-      "ru": "Яунде"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Yaoundé",
+          "ru": "Яунде"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -744,10 +868,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Ottawa",
-      "ru": "Оттава"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Ottawa",
+          "ru": "Оттава"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -774,10 +902,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Praia",
-      "ru": "Прая"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Praia",
+          "ru": "Прая"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -799,10 +931,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "N'Djamena",
-      "ru": "Нджамена"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "N'Djamena",
+          "ru": "Нджамена"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -824,10 +960,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Santiago",
-      "ru": "Сантьяго"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Santiago",
+          "ru": "Сантьяго"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -849,10 +989,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Bogotá",
-      "ru": "Богота"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Bogotá",
+          "ru": "Богота"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -874,10 +1018,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "San José",
-      "ru": "Сан-Хосе"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "San José",
+          "ru": "Сан-Хосе"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -899,10 +1047,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Zagreb",
-      "ru": "Загреб"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Zagreb",
+          "ru": "Загреб"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -924,10 +1076,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Havana",
-      "ru": "Гавана"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Havana",
+          "ru": "Гавана"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -957,10 +1113,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Yamoussoukro",
-      "ru": "Ямусукро"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Yamoussoukro",
+          "ru": "Ямусукро"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -982,10 +1142,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Nicosia",
-      "ru": "Никосия"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Nicosia",
+          "ru": "Никосия"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1007,10 +1171,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Copenhagen",
-      "ru": "Копенгаген"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Copenhagen",
+          "ru": "Копенгаген"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1032,10 +1200,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Djibouti",
-      "ru": "Джибути"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Djibouti",
+          "ru": "Джибути"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1057,22 +1229,26 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Roseau",
-      "ru": "Розо"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Roseau",
+          "ru": "Розо"
+        }
+      }
+    ]
   },
   {
     "name": {
       "en": "Timor-Leste",
-      "ru": "Восточный Тимор"
+      "ru": "Тимор-Лешти"
     },
     "aliases": {
       "en": [
         "East Timor"
       ],
       "ru": [
-        "Тимор-Лешти"
+        "Восточный Тимор"
       ]
     },
     "code": "TL",
@@ -1090,10 +1266,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Dili",
-      "ru": "Дили"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Dili",
+          "ru": "Дили"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1115,10 +1295,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Quito",
-      "ru": "Кито"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Quito",
+          "ru": "Кито"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1140,10 +1324,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Cairo",
-      "ru": "Каир"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Cairo",
+          "ru": "Каир"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1165,10 +1353,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "San Salvador",
-      "ru": "Сан-Сальвадор"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "San Salvador",
+          "ru": "Сан-Сальвадор"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1190,10 +1382,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Ciudad de la Paz",
-      "ru": "Сьюдад-де-ла-Пас"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Ciudad de la Paz",
+          "ru": "Сьюдад-де-ла-Пас"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1215,10 +1411,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Asmara",
-      "ru": "Асмэра"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Asmara",
+          "ru": "Асмэра"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1240,10 +1440,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Tallinn",
-      "ru": "Таллин"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Tallinn",
+          "ru": "Таллин"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1265,10 +1469,22 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Mbabane",
-      "ru": "Мбабане"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Mbabane",
+          "ru": "Мбабане"
+        },
+        "role": "administrative"
+      },
+      {
+        "name": {
+          "en": "Lobamba",
+          "ru": "Лобамба"
+        },
+        "role": "legislative"
+      }
+    ]
   },
   {
     "name": {
@@ -1290,10 +1506,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Addis Ababa",
-      "ru": "Аддис-Абеба"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Addis Ababa",
+          "ru": "Аддис-Абеба"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1315,10 +1535,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Suva",
-      "ru": "Сува"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Suva",
+          "ru": "Сува"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1340,10 +1564,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Helsinki",
-      "ru": "Хельсинки"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Helsinki",
+          "ru": "Хельсинки"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1365,10 +1593,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Paris",
-      "ru": "Париж"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Paris",
+          "ru": "Париж"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1390,10 +1622,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Libreville",
-      "ru": "Либревиль"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Libreville",
+          "ru": "Либревиль"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1415,10 +1651,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Tbilisi",
-      "ru": "Тбилиси"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Tbilisi",
+          "ru": "Тбилиси"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1440,10 +1680,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Berlin",
-      "ru": "Берлин"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Berlin",
+          "ru": "Берлин"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1465,10 +1709,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Accra",
-      "ru": "Аккра"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Accra",
+          "ru": "Аккра"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1490,10 +1738,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Athens",
-      "ru": "Афины"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Athens",
+          "ru": "Афины"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1515,10 +1767,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "St. George's",
-      "ru": "Сент-Джорджес"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "St. George's",
+          "ru": "Сент-Джорджес"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1540,10 +1796,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Guatemala City",
-      "ru": "Гватемала"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Guatemala City",
+          "ru": "Гватемала"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1565,10 +1825,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Bissau",
-      "ru": "Бисау"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Bissau",
+          "ru": "Бисау"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1590,10 +1854,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Conakry",
-      "ru": "Конакри"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Conakry",
+          "ru": "Конакри"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1615,10 +1883,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Georgetown",
-      "ru": "Джорджтаун"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Georgetown",
+          "ru": "Джорджтаун"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1640,10 +1912,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Port-au-Prince",
-      "ru": "Порт-о-Пренс"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Port-au-Prince",
+          "ru": "Порт-о-Пренс"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1665,10 +1941,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Tegucigalpa",
-      "ru": "Тегусигальпа"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Tegucigalpa",
+          "ru": "Тегусигальпа"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1690,10 +1970,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Budapest",
-      "ru": "Будапешт"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Budapest",
+          "ru": "Будапешт"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1715,10 +1999,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Reykjavik",
-      "ru": "Рейкьявик"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Reykjavik",
+          "ru": "Рейкьявик"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1740,10 +2028,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "New Delhi",
-      "ru": "Нью-Дели"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "New Delhi",
+          "ru": "Нью-Дели"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1765,10 +2057,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Jakarta",
-      "ru": "Джакарта"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Jakarta",
+          "ru": "Джакарта"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1790,10 +2086,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Tehran",
-      "ru": "Тегеран"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Tehran",
+          "ru": "Тегеран"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1815,10 +2115,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Baghdad",
-      "ru": "Багдад"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Baghdad",
+          "ru": "Багдад"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1840,10 +2144,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Dublin",
-      "ru": "Дублин"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Dublin",
+          "ru": "Дублин"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1865,10 +2173,15 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Jerusalem",
-      "ru": "Иерусалим"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Jerusalem",
+          "ru": "Иерусалим"
+        },
+        "status": "proclaimed"
+      }
+    ]
   },
   {
     "name": {
@@ -1890,10 +2203,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Rome",
-      "ru": "Рим"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Rome",
+          "ru": "Рим"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1915,10 +2232,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Kingston",
-      "ru": "Кингстон"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Kingston",
+          "ru": "Кингстон"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1940,10 +2261,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Tokyo",
-      "ru": "Токио"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Tokyo",
+          "ru": "Токио"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1965,10 +2290,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Amman",
-      "ru": "Амман"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Amman",
+          "ru": "Амман"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -1990,10 +2319,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Astana",
-      "ru": "Астана"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Astana",
+          "ru": "Астана"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2015,10 +2348,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Nairobi",
-      "ru": "Найроби"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Nairobi",
+          "ru": "Найроби"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2040,10 +2377,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "South Tarawa",
-      "ru": "Южная Тарава"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "South Tarawa",
+          "ru": "Южная Тарава"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2065,10 +2406,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Kuwait City",
-      "ru": "Эль-Кувейт"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Kuwait City",
+          "ru": "Эль-Кувейт"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2090,10 +2435,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Bishkek",
-      "ru": "Бишкек"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Bishkek",
+          "ru": "Бишкек"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2115,10 +2464,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Vientiane",
-      "ru": "Вьентьян"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Vientiane",
+          "ru": "Вьентьян"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2140,10 +2493,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Riga",
-      "ru": "Рига"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Riga",
+          "ru": "Рига"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2165,10 +2522,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Beirut",
-      "ru": "Бейрут"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Beirut",
+          "ru": "Бейрут"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2190,10 +2551,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Maseru",
-      "ru": "Масеру"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Maseru",
+          "ru": "Масеру"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2215,10 +2580,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Monrovia",
-      "ru": "Монровия"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Monrovia",
+          "ru": "Монровия"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2240,10 +2609,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Tripoli",
-      "ru": "Триполи"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Tripoli",
+          "ru": "Триполи"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2265,10 +2638,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Vaduz",
-      "ru": "Вадуц"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Vaduz",
+          "ru": "Вадуц"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2290,10 +2667,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Vilnius",
-      "ru": "Вильнюс"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Vilnius",
+          "ru": "Вильнюс"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2315,10 +2696,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Luxembourg",
-      "ru": "Люксембург"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Luxembourg",
+          "ru": "Люксембург"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2340,10 +2725,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Antananarivo",
-      "ru": "Антананариву"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Antananarivo",
+          "ru": "Антананариву"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2365,10 +2754,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Lilongwe",
-      "ru": "Лилонгве"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Lilongwe",
+          "ru": "Лилонгве"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2390,9 +2783,17 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Kuala Lumpur",
-      "ru": "Куала-Лумпур"
+    "capitals": [
+      {
+        "name": {
+          "en": "Kuala Lumpur",
+          "ru": "Куала-Лумпур"
+        }
+      }
+    ],
+    "seat_of_government": {
+      "en": "Putrajaya",
+      "ru": "Путраджая"
     }
   },
   {
@@ -2415,10 +2816,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Malé",
-      "ru": "Мале"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Malé",
+          "ru": "Мале"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2440,10 +2845,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Valletta",
-      "ru": "Валлетта"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Valletta",
+          "ru": "Валлетта"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2465,10 +2874,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Bamako",
-      "ru": "Бамако"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Bamako",
+          "ru": "Бамако"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2490,10 +2903,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Nouakchott",
-      "ru": "Нуакшот"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Nouakchott",
+          "ru": "Нуакшот"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2515,10 +2932,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Port Louis",
-      "ru": "Порт-Луи"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Port Louis",
+          "ru": "Порт-Луи"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2540,10 +2961,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Mexico City",
-      "ru": "Мехико"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Mexico City",
+          "ru": "Мехико"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2565,10 +2990,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Chișinău",
-      "ru": "Кишинёв"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Chișinău",
+          "ru": "Кишинёв"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2590,10 +3019,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Monaco",
-      "ru": "Монако"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Monaco",
+          "ru": "Монако"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2615,10 +3048,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Ulaanbaatar",
-      "ru": "Улан-Батор"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Ulaanbaatar",
+          "ru": "Улан-Батор"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2640,10 +3077,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Podgorica",
-      "ru": "Подгорица"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Podgorica",
+          "ru": "Подгорица"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2665,10 +3106,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Rabat",
-      "ru": "Рабат"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Rabat",
+          "ru": "Рабат"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2690,10 +3135,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Maputo",
-      "ru": "Мапуту"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Maputo",
+          "ru": "Мапуту"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2723,10 +3172,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Naypyidaw",
-      "ru": "Нейпьидо"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Naypyidaw",
+          "ru": "Нейпьидо"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2748,15 +3201,27 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Windhoek",
-      "ru": "Виндхук"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Windhoek",
+          "ru": "Виндхук"
+        }
+      }
+    ]
   },
   {
     "name": {
-      "en": "Nauru",
-      "ru": "Науру"
+      "en": "Naoero",
+      "ru": "Наоэро"
+    },
+    "aliases": {
+      "en": [
+        "Nauru"
+      ],
+      "ru": [
+        "Науру"
+      ]
     },
     "code": "NR",
     "region_code": "oceania",
@@ -2773,9 +3238,10 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Yaren",
-      "ru": "Ярен"
+    "capitals": [],
+    "seat_of_government": {
+      "en": "Yaren District",
+      "ru": "округ Ярен"
     }
   },
   {
@@ -2798,10 +3264,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Kathmandu",
-      "ru": "Катманду"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Kathmandu",
+          "ru": "Катманду"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2823,10 +3293,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Wellington",
-      "ru": "Веллингтон"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Wellington",
+          "ru": "Веллингтон"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2848,10 +3322,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Managua",
-      "ru": "Манагуа"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Managua",
+          "ru": "Манагуа"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2873,10 +3351,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Niamey",
-      "ru": "Ниамей"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Niamey",
+          "ru": "Ниамей"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2908,10 +3390,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Pyongyang",
-      "ru": "Пхеньян"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Pyongyang",
+          "ru": "Пхеньян"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2933,10 +3419,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Abuja",
-      "ru": "Абуджа"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Abuja",
+          "ru": "Абуджа"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2958,10 +3448,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Skopje",
-      "ru": "Скопье"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Skopje",
+          "ru": "Скопье"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -2983,10 +3477,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Oslo",
-      "ru": "Осло"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Oslo",
+          "ru": "Осло"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3008,10 +3506,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Muscat",
-      "ru": "Маскат"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Muscat",
+          "ru": "Маскат"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3033,10 +3535,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Islamabad",
-      "ru": "Исламабад"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Islamabad",
+          "ru": "Исламабад"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3058,10 +3564,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Ngerulmud",
-      "ru": "Нгерулмуд"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Ngerulmud",
+          "ru": "Нгерулмуд"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3083,10 +3593,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Panama City",
-      "ru": "Панама"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Panama City",
+          "ru": "Панама"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3115,10 +3629,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Asunción",
-      "ru": "Асунсьон"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Asunción",
+          "ru": "Асунсьон"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3140,10 +3658,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Port Moresby",
-      "ru": "Порт-Морсби"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Port Moresby",
+          "ru": "Порт-Морсби"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3165,10 +3687,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Lima",
-      "ru": "Лима"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Lima",
+          "ru": "Лима"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3190,10 +3716,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Warsaw",
-      "ru": "Варшава"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Warsaw",
+          "ru": "Варшава"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3215,10 +3745,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Lisbon",
-      "ru": "Лиссабон"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Lisbon",
+          "ru": "Лиссабон"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3240,10 +3774,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Doha",
-      "ru": "Доха"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Doha",
+          "ru": "Доха"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3265,10 +3803,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Bucharest",
-      "ru": "Бухарест"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Bucharest",
+          "ru": "Бухарест"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3290,10 +3832,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Moscow",
-      "ru": "Москва"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Moscow",
+          "ru": "Москва"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3315,10 +3861,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Kigali",
-      "ru": "Кигали"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Kigali",
+          "ru": "Кигали"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3340,10 +3890,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Basseterre",
-      "ru": "Бастер"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Basseterre",
+          "ru": "Бастер"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3365,10 +3919,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Castries",
-      "ru": "Кастри"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Castries",
+          "ru": "Кастри"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3390,10 +3948,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "San Marino",
-      "ru": "Сан-Марино"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "San Marino",
+          "ru": "Сан-Марино"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3415,10 +3977,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Apia",
-      "ru": "Апиа"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Apia",
+          "ru": "Апиа"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3440,10 +4006,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Riyadh",
-      "ru": "Эр-Рияд"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Riyadh",
+          "ru": "Эр-Рияд"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3465,10 +4035,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Dakar",
-      "ru": "Дакар"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Dakar",
+          "ru": "Дакар"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3490,10 +4064,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Belgrade",
-      "ru": "Белград"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Belgrade",
+          "ru": "Белград"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3515,10 +4093,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Kingstown",
-      "ru": "Кингстаун"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Kingstown",
+          "ru": "Кингстаун"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3540,10 +4122,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Victoria",
-      "ru": "Виктория"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Victoria",
+          "ru": "Виктория"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3565,10 +4151,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Freetown",
-      "ru": "Фритаун"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Freetown",
+          "ru": "Фритаун"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3590,10 +4180,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Singapore",
-      "ru": "Сингапур"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Singapore",
+          "ru": "Сингапур"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3615,10 +4209,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Bratislava",
-      "ru": "Братислава"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Bratislava",
+          "ru": "Братислава"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3640,10 +4238,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Ljubljana",
-      "ru": "Любляна"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Ljubljana",
+          "ru": "Любляна"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3665,10 +4267,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Mogadishu",
-      "ru": "Могадишо"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Mogadishu",
+          "ru": "Могадишо"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3690,7 +4296,16 @@
         ]
       }
     ],
-    "capital_city": {
+    "capitals": [
+      {
+        "name": {
+          "en": "East Jerusalem",
+          "ru": "Восточный Иерусалим"
+        },
+        "status": "claimed"
+      }
+    ],
+    "seat_of_government": {
       "en": "Ramallah",
       "ru": "Рамалла"
     }
@@ -3715,10 +4330,29 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Cape Town",
-      "ru": "Кейптаун"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Pretoria",
+          "ru": "Претория"
+        },
+        "role": "administrative"
+      },
+      {
+        "name": {
+          "en": "Cape Town",
+          "ru": "Кейптаун"
+        },
+        "role": "legislative"
+      },
+      {
+        "name": {
+          "en": "Bloemfontein",
+          "ru": "Блумфонтейн"
+        },
+        "role": "judicial"
+      }
+    ]
   },
   {
     "name": {
@@ -3748,10 +4382,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Seoul",
-      "ru": "Сеул"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Seoul",
+          "ru": "Сеул"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3773,10 +4411,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Juba",
-      "ru": "Джуба"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Juba",
+          "ru": "Джуба"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3798,10 +4440,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Madrid",
-      "ru": "Мадрид"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Madrid",
+          "ru": "Мадрид"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3823,10 +4469,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Sri Jayawardenepura Kotte",
-      "ru": "Шри-Джаяварденепура-Котте"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Sri Jayawardenepura Kotte",
+          "ru": "Шри-Джаяварденепура-Котте"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3848,10 +4498,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Khartoum",
-      "ru": "Хартум"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Khartoum",
+          "ru": "Хартум"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3873,10 +4527,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Paramaribo",
-      "ru": "Парамарибо"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Paramaribo",
+          "ru": "Парамарибо"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3898,10 +4556,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Stockholm",
-      "ru": "Стокгольм"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Stockholm",
+          "ru": "Стокгольм"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3923,10 +4585,15 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Bern",
-      "ru": "Берн"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Bern",
+          "ru": "Берн"
+        },
+        "status": "de_facto"
+      }
+    ]
   },
   {
     "name": {
@@ -3948,10 +4615,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "São Tomé",
-      "ru": "Сан-Томе"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "São Tomé",
+          "ru": "Сан-Томе"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3973,10 +4644,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Dushanbe",
-      "ru": "Душанбе"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Dushanbe",
+          "ru": "Душанбе"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -3998,10 +4673,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Dodoma",
-      "ru": "Додома"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Dodoma",
+          "ru": "Додома"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4023,10 +4702,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Bangkok",
-      "ru": "Бангкок"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Bangkok",
+          "ru": "Бангкок"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4048,10 +4731,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Banjul",
-      "ru": "Банжул"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Banjul",
+          "ru": "Банжул"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4073,10 +4760,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Lomé",
-      "ru": "Ломе"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Lomé",
+          "ru": "Ломе"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4098,10 +4789,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Nuku'alofa",
-      "ru": "Нукуалофа"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Nuku'alofa",
+          "ru": "Нукуалофа"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4123,10 +4818,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Pristina",
-      "ru": "Приштина"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Pristina",
+          "ru": "Приштина"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4148,10 +4847,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Port of Spain",
-      "ru": "Порт-оф-Спейн"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Port of Spain",
+          "ru": "Порт-оф-Спейн"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4173,10 +4876,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Tunis",
-      "ru": "Тунис"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Tunis",
+          "ru": "Тунис"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4203,10 +4910,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Ankara",
-      "ru": "Анкара"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Ankara",
+          "ru": "Анкара"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4228,10 +4939,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Ashgabat",
-      "ru": "Ашхабад"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Ashgabat",
+          "ru": "Ашхабад"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4253,10 +4968,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Funafuti",
-      "ru": "Фунафути"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Funafuti",
+          "ru": "Фунафути"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4278,10 +4997,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Kampala",
-      "ru": "Кампала"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Kampala",
+          "ru": "Кампала"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4303,10 +5026,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Kyiv",
-      "ru": "Киев"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Kyiv",
+          "ru": "Киев"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4328,10 +5055,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Montevideo",
-      "ru": "Монтевидео"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Montevideo",
+          "ru": "Монтевидео"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4353,10 +5084,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Tashkent",
-      "ru": "Ташкент"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Tashkent",
+          "ru": "Ташкент"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4378,10 +5113,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Port Vila",
-      "ru": "Порт-Вила"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Port Vila",
+          "ru": "Порт-Вила"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4412,10 +5151,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Vatican City",
-      "ru": "Ватикан"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Vatican City",
+          "ru": "Ватикан"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4437,10 +5180,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Caracas",
-      "ru": "Каракас"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Caracas",
+          "ru": "Каракас"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4462,10 +5209,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Hanoi",
-      "ru": "Ханой"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Hanoi",
+          "ru": "Ханой"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4487,9 +5238,17 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Sana'a",
-      "ru": "Сана"
+    "capitals": [
+      {
+        "name": {
+          "en": "Sana'a",
+          "ru": "Сана"
+        }
+      }
+    ],
+    "seat_of_government": {
+      "en": "Aden",
+      "ru": "Аден"
     }
   },
   {
@@ -4512,10 +5271,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Lusaka",
-      "ru": "Лусака"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Lusaka",
+          "ru": "Лусака"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4537,10 +5300,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Harare",
-      "ru": "Хараре"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Harare",
+          "ru": "Хараре"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4562,10 +5329,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Nassau",
-      "ru": "Нассау"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Nassau",
+          "ru": "Нассау"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4587,10 +5358,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Bangui",
-      "ru": "Банги"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Bangui",
+          "ru": "Банги"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4612,19 +5387,23 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Moroni",
-      "ru": "Морони"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Moroni",
+          "ru": "Морони"
+        }
+      }
+    ]
   },
   {
     "name": {
-      "en": "Czech Republic",
+      "en": "Czechia",
       "ru": "Чехия"
     },
     "aliases": {
       "en": [
-        "Czechia"
+        "Czech Republic"
       ],
       "ru": [
         "Чешская Республика"
@@ -4645,10 +5424,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Prague",
-      "ru": "Прага"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Prague",
+          "ru": "Прага"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4681,10 +5464,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Kinshasa",
-      "ru": "Киншаса"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Kinshasa",
+          "ru": "Киншаса"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4706,10 +5493,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Santo Domingo",
-      "ru": "Санто-Доминго"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Santo Domingo",
+          "ru": "Санто-Доминго"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4731,10 +5522,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Majuro",
-      "ru": "Маджуро"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Majuro",
+          "ru": "Маджуро"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4756,10 +5551,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Palikir",
-      "ru": "Паликир"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Palikir",
+          "ru": "Паликир"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4781,9 +5580,17 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Amsterdam",
-      "ru": "Амстердам"
+    "capitals": [
+      {
+        "name": {
+          "en": "Amsterdam",
+          "ru": "Амстердам"
+        }
+      }
+    ],
+    "seat_of_government": {
+      "en": "The Hague",
+      "ru": "Гаага"
     }
   },
   {
@@ -4806,10 +5613,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Beijing",
-      "ru": "Пекин"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Beijing",
+          "ru": "Пекин"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4831,10 +5642,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Manila",
-      "ru": "Манила"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Manila",
+          "ru": "Манила"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4856,10 +5671,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Taipei",
-      "ru": "Тайбэй"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Taipei",
+          "ru": "Тайбэй"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4889,10 +5708,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Brazzaville",
-      "ru": "Браззавиль"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Brazzaville",
+          "ru": "Браззавиль"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4914,10 +5737,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Honiara",
-      "ru": "Хониара"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Honiara",
+          "ru": "Хониара"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4947,10 +5774,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Abu Dhabi",
-      "ru": "Абу-Даби"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Abu Dhabi",
+          "ru": "Абу-Даби"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -4972,10 +5803,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Damascus",
-      "ru": "Дамаск"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Damascus",
+          "ru": "Дамаск"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -5005,10 +5840,14 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "London",
-      "ru": "Лондон"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "London",
+          "ru": "Лондон"
+        }
+      }
+    ]
   },
   {
     "name": {
@@ -5040,9 +5879,13 @@
         ]
       }
     ],
-    "capital_city": {
-      "en": "Washington, D.C.",
-      "ru": "Вашингтон"
-    }
+    "capitals": [
+      {
+        "name": {
+          "en": "Washington, D.C.",
+          "ru": "Вашингтон"
+        }
+      }
+    ]
   }
 ]
